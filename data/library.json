@@ -1,0 +1,6807 @@
+{
+  "version": 1,
+  "words": {
+    "AA": {
+      "object": "Skrige",
+      "action": "Skrige",
+      "alternatives": {
+        "object": "Aften",
+        "action": "Aften"
+      }
+    },
+    "AB": {
+      "object": "Abe",
+      "action": "Absolut",
+      "alternatives": {}
+    },
+    "AD": {
+      "object": "Adolf Hitler",
+      "action": "Klam",
+      "alternatives": {}
+    },
+    "AE": {
+      "object": "Manse",
+      "action": "at age",
+      "alternatives": {}
+    },
+    "AF": {
+      "object": "Afghanistan",
+      "action": "Afghanistan",
+      "alternatives": {}
+    },
+    "AH": {
+      "object": "Amager",
+      "action": "Amager",
+      "alternatives": {}
+    },
+    "AI": {
+      "object": "AI, Kunstig intelligens",
+      "action": "Afvise",
+      "alternatives": {}
+    },
+    "AJ": {
+      "object": "Ajax",
+      "action": "Eje",
+      "alternatives": {}
+    },
+    "AK": {
+      "object": "Pistol",
+      "action": "Skyde",
+      "alternatives": {}
+    },
+    "AM": {
+      "object": "Arm",
+      "action": "Amme",
+      "alternatives": {}
+    },
+    "AN": {
+      "object": "HC Andersen",
+      "action": "Anderledes",
+      "alternatives": {}
+    },
+    "AO": {
+      "object": "Aolong",
+      "action": "Aftale",
+      "alternatives": {}
+    },
+    "AP": {
+      "object": "App",
+      "action": "Apatisk",
+      "alternatives": {}
+    },
+    "AR": {
+      "object": "Ar (sår)",
+      "action": "Arrestere",
+      "alternatives": {}
+    },
+    "AS": {
+      "object": "Aske",
+      "action": "Ryge",
+      "alternatives": {}
+    },
+    "AT": {
+      "object": "Artur",
+      "action": "Attack",
+      "alternatives": {}
+    },
+    "AU": {
+      "object": "Australien",
+      "action": "Australien",
+      "alternatives": {}
+    },
+    "AV": {
+      "object": "Smerte",
+      "action": "AV!, gør ondt",
+      "alternatives": {}
+    },
+    "AX": {
+      "object": "Axel",
+      "action": "Holbrogaard",
+      "alternatives": {}
+    },
+    "BA": {
+      "object": "en bager",
+      "action": "at bage",
+      "alternatives": {}
+    },
+    "BB": {
+      "object": "Bølge",
+      "action": "Bølge",
+      "alternatives": {}
+    },
+    "BD": {
+      "object": "Båd",
+      "action": "Bade",
+      "alternatives": {}
+    },
+    "BF": {
+      "object": "Buffet",
+      "action": "Spise",
+      "alternatives": {}
+    },
+    "BG": {
+      "object": "Baggrund",
+      "action": "Begynde",
+      "alternatives": {}
+    },
+    "BH": {
+      "object": "BH (tøj)",
+      "action": "Bagtale",
+      "alternatives": {}
+    },
+    "BI": {
+      "object": "en bi",
+      "action": "bisexuel",
+      "alternatives": {}
+    },
+    "BK": {
+      "object": "Burger King",
+      "action": "Burger King",
+      "alternatives": {}
+    },
+    "BL": {
+      "object": "Blod",
+      "action": "Bælle (en drink)",
+      "alternatives": {}
+    },
+    "BM": {
+      "object": "Bombe",
+      "action": "Bombe",
+      "alternatives": {}
+    },
+    "BN": {
+      "object": "Bønne",
+      "action": "At Banne",
+      "alternatives": {}
+    },
+    "BO": {
+      "object": "Bo, mormors søster",
+      "action": "at bo",
+      "alternatives": {
+        "action": "at bore"
+      }
+    },
+    "BP": {
+      "object": "Boobs, babs",
+      "action": "Banke på",
+      "alternatives": {}
+    },
+    "BR": {
+      "object": "BR (legetøj butik)",
+      "action": "BR (legetøj butik)",
+      "alternatives": {}
+    },
+    "BS": {
+      "object": "Bedstemor",
+      "action": "Bedste",
+      "alternatives": {}
+    },
+    "BT": {
+      "object": "Batman",
+      "action": "Bytte",
+      "alternatives": {}
+    },
+    "BU": {
+      "object": "Buster",
+      "action": "at bue ad nogen",
+      "alternatives": {}
+    },
+    "BV": {
+      "object": "Bæver",
+      "action": "Besvime",
+      "alternatives": {}
+    },
+    "BX": {
+      "object": "Box",
+      "action": "At bokse",
+      "alternatives": {}
+    },
+    "DA": {
+      "object": "Dalia",
+      "action": "大, stor",
+      "alternatives": {}
+    },
+    "DB": {
+      "object": "Dobby",
+      "action": "At dabbe",
+      "alternatives": {}
+    },
+    "DD": {
+      "object": "Død",
+      "action": "Død",
+      "alternatives": {
+        "object": "Dyb",
+        "action": "Dyb"
+      }
+    },
+    "DE": {
+      "object": "Tyskland",
+      "action": "Delusional",
+      "alternatives": {}
+    },
+    "DF": {
+      "object": "Duft",
+      "action": "Dufte",
+      "alternatives": {}
+    },
+    "DG": {
+      "object": "Dag",
+      "action": "Lys",
+      "alternatives": {}
+    },
+    "DH": {
+      "object": "havet",
+      "action": "Saltet",
+      "alternatives": {}
+    },
+    "DI": {
+      "object": "Dansk Industri",
+      "action": "低 - lav",
+      "alternatives": {}
+    },
+    "DJ": {
+      "object": "En DJ",
+      "action": "Dejlig",
+      "alternatives": {}
+    },
+    "DK": {
+      "object": "Dukke",
+      "action": "At dukke sig",
+      "alternatives": {}
+    },
+    "DL": {
+      "object": "Diller",
+      "action": "Dele",
+      "alternatives": {}
+    },
+    "DM": {
+      "object": "Dame",
+      "action": "Dum",
+      "alternatives": {}
+    },
+    "DN": {
+      "object": "Danmark",
+      "action": "Dansk",
+      "alternatives": {}
+    },
+    "DO": {
+      "object": "Doktor",
+      "action": "Do it",
+      "alternatives": {}
+    },
+    "DR": {
+      "object": "DRTV",
+      "action": "Drømme",
+      "alternatives": {}
+    },
+    "DT": {
+      "object": "Data",
+      "action": "DTU",
+      "alternatives": {}
+    },
+    "DU": {
+      "object": "du (dig)",
+      "action": "At du, At virke",
+      "alternatives": {}
+    },
+    "DV": {
+      "object": "Diva",
+      "action": "Doven",
+      "alternatives": {}
+    },
+    "DX": {
+      "object": "Dexter (morder)",
+      "action": "At dokse",
+      "alternatives": {}
+    },
+    "EA": {
+      "object": "EA games",
+      "action": "I EA",
+      "alternatives": {}
+    },
+    "ED": {
+      "object": "Edderkop",
+      "action": "at æde",
+      "alternatives": {}
+    },
+    "EE": {
+      "object": "Energi",
+      "action": "Energi",
+      "alternatives": {}
+    },
+    "EF": {
+      "object": "Effekt",
+      "action": "Efter",
+      "alternatives": {}
+    },
+    "EG": {
+      "object": "Egdal",
+      "action": "Konkurrere",
+      "alternatives": {}
+    },
+    "EH": {
+      "object": "Enhed",
+      "action": "Ensom",
+      "alternatives": {}
+    },
+    "EI": {
+      "object": "恶意 😈, Eid",
+      "action": "Ond",
+      "alternatives": {}
+    },
+    "EK": {
+      "object": "Ekkenberg",
+      "action": "Ekkenberg",
+      "alternatives": {}
+    },
+    "EL": {
+      "object": "EL",
+      "action": "få stød",
+      "alternatives": {}
+    },
+    "EM": {
+      "object": "Emma (Fyn)",
+      "action": "Europa mesterskab",
+      "alternatives": {}
+    },
+    "EN": {
+      "object": "Enhjørning",
+      "action": "Engelsk",
+      "alternatives": {}
+    },
+    "EO": {
+      "object": "Emo",
+      "action": "lave EO",
+      "alternatives": {}
+    },
+    "EP": {
+      "object": "Epilepsi",
+      "action": "få epilepsi",
+      "alternatives": {}
+    },
+    "ER": {
+      "object": "Europa rekord",
+      "action": "Er",
+      "alternatives": {}
+    },
+    "ES": {
+      "object": "Spanier",
+      "action": "Spansk",
+      "alternatives": {}
+    },
+    "ET": {
+      "object": "ET (fra filmen)",
+      "action": "Filmer",
+      "alternatives": {}
+    },
+    "EU": {
+      "object": "Europa",
+      "action": "Europa",
+      "alternatives": {}
+    },
+    "EV": {
+      "object": "El bil",
+      "action": "Selvkørende",
+      "alternatives": {}
+    },
+    "EX": {
+      "object": "Ekskæreste",
+      "action": "Ekstrem",
+      "alternatives": {}
+    },
+    "FA": {
+      "object": "Far",
+      "action": "Faste",
+      "alternatives": {}
+    },
+    "FB": {
+      "object": "Facebook",
+      "action": "Logge ind",
+      "alternatives": {}
+    },
+    "FD": {
+      "object": "Fod",
+      "action": "Fedted",
+      "alternatives": {}
+    },
+    "FE": {
+      "object": "en fe",
+      "action": "Trylle",
+      "alternatives": {}
+    },
+    "FF": {
+      "object": "Fattig",
+      "action": "Fattig",
+      "alternatives": {
+        "object": "Flamme",
+        "action": "Flamme"
+      }
+    },
+    "FG": {
+      "object": "Fangeren",
+      "action": "Fanger",
+      "alternatives": {}
+    },
+    "FH": {
+      "object": "Flash (karakter)",
+      "action": "Hurtig",
+      "alternatives": {}
+    },
+    "FI": {
+      "object": "Fie (Luca)",
+      "action": "Fin",
+      "alternatives": {}
+    },
+    "FJ": {
+      "object": "Fejl",
+      "action": "at feje, fejl",
+      "alternatives": {}
+    },
+    "FL": {
+      "object": "En flåt",
+      "action": "At falde",
+      "alternatives": {}
+    },
+    "FM": {
+      "object": "Familie",
+      "action": "Famous",
+      "alternatives": {}
+    },
+    "FN": {
+      "object": "Fanta",
+      "action": "Finde",
+      "alternatives": {}
+    },
+    "FO": {
+      "object": "佛 (fo - buddha)",
+      "action": "At be",
+      "alternatives": {}
+    },
+    "FP": {
+      "object": "Fapperen",
+      "action": "Fappe",
+      "alternatives": {}
+    },
+    "FR": {
+      "object": "En fryser",
+      "action": "Fryse",
+      "alternatives": {}
+    },
+    "FS": {
+      "object": "Fest",
+      "action": "At feste",
+      "alternatives": {}
+    },
+    "FU": {
+      "object": "Fugl",
+      "action": "At være fuld",
+      "alternatives": {}
+    },
+    "FV": {
+      "object": "en farve",
+      "action": "at farve",
+      "alternatives": {}
+    },
+    "FX": {
+      "object": "Faxe kondi",
+      "action": "Fix (at fikse, drug addiction fix)",
+      "alternatives": {}
+    },
+    "GB": {
+      "object": "Et Gebis",
+      "action": "at gabe",
+      "alternatives": {}
+    },
+    "GD": {
+      "object": "Ged",
+      "action": "At Glide",
+      "alternatives": {}
+    },
+    "GE": {
+      "object": "g-streng",
+      "action": "Gemme",
+      "alternatives": {}
+    },
+    "GF": {
+      "object": "Gift",
+      "action": "Giftig",
+      "alternatives": {}
+    },
+    "GG": {
+      "object": "Gnist",
+      "action": "Gnist",
+      "alternatives": {}
+    },
+    "GH": {
+      "object": "Gulvhorn",
+      "action": "Grine",
+      "alternatives": {}
+    },
+    "GI": {
+      "object": "Gi (kampsport)",
+      "action": "At Gifte sig",
+      "alternatives": {}
+    },
+    "GJ": {
+      "object": "冠军 🏆 - Champion",
+      "action": "Gay",
+      "alternatives": {}
+    },
+    "GK": {
+      "object": "Gokart",
+      "action": "Crazy",
+      "alternatives": {}
+    },
+    "GM": {
+      "object": "Gamer",
+      "action": "At Game",
+      "alternatives": {}
+    },
+    "GN": {
+      "object": "Gandalf",
+      "action": "Gnide",
+      "alternatives": {}
+    },
+    "GO": {
+      "object": "Gorilla",
+      "action": "God",
+      "alternatives": {}
+    },
+    "GP": {
+      "object": "GoPro",
+      "action": "Give plads",
+      "alternatives": {}
+    },
+    "GR": {
+      "object": "Græs",
+      "action": "Grøn",
+      "alternatives": {}
+    },
+    "GS": {
+      "object": "Gås",
+      "action": "At gasse, blive gasset",
+      "alternatives": {}
+    },
+    "GT": {
+      "object": "Ghetto",
+      "action": "at gætte",
+      "alternatives": {}
+    },
+    "GU": {
+      "object": "Gulvet",
+      "action": "Guld, Gul",
+      "alternatives": {}
+    },
+    "GV": {
+      "object": "Gave",
+      "action": "Give",
+      "alternatives": {}
+    },
+    "GX": {
+      "object": "Gen X",
+      "action": "At Glemme",
+      "alternatives": {}
+    },
+    "HA": {
+      "object": "Hammer",
+      "action": "Hæve",
+      "alternatives": {}
+    },
+    "HB": {
+      "object": "Hobby",
+      "action": "Håbe",
+      "alternatives": {}
+    },
+    "HD": {
+      "object": "Kvalitet",
+      "action": "Hade",
+      "alternatives": {}
+    },
+    "HE": {
+      "object": "Helt",
+      "action": "Drikke",
+      "alternatives": {}
+    },
+    "HF": {
+      "object": "Hofte",
+      "action": "Høffelig",
+      "alternatives": {}
+    },
+    "HG": {
+      "object": "Hegn",
+      "action": "Hygge",
+      "alternatives": {}
+    },
+    "HH": {
+      "object": "Hemmelighed",
+      "action": "Hemmelighed",
+      "alternatives": {}
+    },
+    "HI": {
+      "object": "Himmel",
+      "action": "Hissig",
+      "alternatives": {}
+    },
+    "HJ": {
+      "object": "Haj",
+      "action": "Sige Hej",
+      "alternatives": {}
+    },
+    "HK": {
+      "object": "Hong Kong",
+      "action": "Hakke",
+      "alternatives": {}
+    },
+    "HL": {
+      "object": "Helved",
+      "action": "at hilse",
+      "alternatives": {}
+    },
+    "HN": {
+      "object": "Handske",
+      "action": "Hænge",
+      "alternatives": {}
+    },
+    "HO": {
+      "object": "Honning",
+      "action": "Hoste",
+      "alternatives": {}
+    },
+    "HP": {
+      "object": "Hippie",
+      "action": "Hoppe",
+      "alternatives": {}
+    },
+    "HR": {
+      "object": "Hare",
+      "action": "Høre",
+      "alternatives": {}
+    },
+    "HS": {
+      "object": "Hash",
+      "action": "Blive skæv",
+      "alternatives": {}
+    },
+    "HT": {
+      "object": "Hat",
+      "action": "Hente",
+      "alternatives": {}
+    },
+    "HU": {
+      "object": "虎 - tiger",
+      "action": "Huske",
+      "alternatives": {}
+    },
+    "HV": {
+      "object": "Have",
+      "action": "Have",
+      "alternatives": {}
+    },
+    "IA": {
+      "object": "IDA (forening)",
+      "action": "Forening",
+      "alternatives": {}
+    },
+    "IB": {
+      "object": "Iben",
+      "action": "Gammel",
+      "alternatives": {}
+    },
+    "ID": {
+      "object": "ID (kort)",
+      "action": "Idiot",
+      "alternatives": {}
+    },
+    "IE": {
+      "object": "Ide",
+      "action": "Få en ide",
+      "alternatives": {}
+    },
+    "IF": {
+      "object": "衣服",
+      "action": "Tage tøj af",
+      "alternatives": {}
+    },
+    "IG": {
+      "object": "Instagram",
+      "action": "Instagram",
+      "alternatives": {}
+    },
+    "IH": {
+      "object": "Fortrydelse",
+      "action": "fortryde",
+      "alternatives": {}
+    },
+    "II": {
+      "object": "Inspiration",
+      "action": "Inspiration",
+      "alternatives": {}
+    },
+    "IJ": {
+      "object": "Injektion",
+      "action": "at vaccinere",
+      "alternatives": {}
+    },
+    "IK": {
+      "object": "Ikea",
+      "action": "Ikea",
+      "alternatives": {}
+    },
+    "IL": {
+      "object": "Ild",
+      "action": "Brænde",
+      "alternatives": {}
+    },
+    "IM": {
+      "object": "Iman",
+      "action": "Imorgen",
+      "alternatives": {}
+    },
+    "IN": {
+      "object": "Indien",
+      "action": "Indien",
+      "alternatives": {}
+    },
+    "IO": {
+      "object": "Hitman",
+      "action": "I orden",
+      "alternatives": {}
+    },
+    "IP": {
+      "object": "IP man - kung fu",
+      "action": "Sparke",
+      "alternatives": {}
+    },
+    "IS": {
+      "object": "Is",
+      "action": "Sød",
+      "alternatives": {}
+    },
+    "IT": {
+      "object": "IT",
+      "action": "Irriterende",
+      "alternatives": {}
+    },
+    "IV": {
+      "object": "Ivan",
+      "action": "Ivrig",
+      "alternatives": {}
+    },
+    "IX": {
+      "object": "Index",
+      "action": "Indexere",
+      "alternatives": {}
+    },
+    "JA": {
+      "object": "Jaguar",
+      "action": "Sige Ja",
+      "alternatives": {}
+    },
+    "JD": {
+      "object": "Jøde",
+      "action": "Er Jøde",
+      "alternatives": {}
+    },
+    "JF": {
+      "object": "Jeff (Jeffrey Dahmer)",
+      "action": "At Dræbe",
+      "alternatives": {}
+    },
+    "JG": {
+      "object": "Jagt",
+      "action": "Jagte",
+      "alternatives": {}
+    },
+    "JH": {
+      "object": "机会, mulighed",
+      "action": "Jeg har, at have, X har",
+      "alternatives": {}
+    },
+    "JI": {
+      "object": "记 (note)",
+      "action": "Lave en note",
+      "alternatives": {}
+    },
+    "JJ": {
+      "object": "Jordskælv",
+      "action": "Jordskælv",
+      "alternatives": {}
+    },
+    "JK": {
+      "object": "Jakob",
+      "action": "At Joke med nogen",
+      "alternatives": {}
+    },
+    "JL": {
+      "object": "Jul 🎄",
+      "action": "Hjælpe",
+      "alternatives": {}
+    },
+    "JM": {
+      "object": "Jomfru",
+      "action": "Hjem",
+      "alternatives": {}
+    },
+    "JN": {
+      "object": "John Cena",
+      "action": "Januar",
+      "alternatives": {}
+    },
+    "JO": {
+      "object": "Jord",
+      "action": "På Jorden",
+      "alternatives": {}
+    },
+    "JP": {
+      "object": "Japan",
+      "action": "Japan, Japansk",
+      "alternatives": {}
+    },
+    "JR": {
+      "object": "Jern",
+      "action": "Hård",
+      "alternatives": {}
+    },
+    "JS": {
+      "object": "Jesus",
+      "action": "Genoplive",
+      "alternatives": {}
+    },
+    "JT": {
+      "object": "Jette",
+      "action": "Tyk",
+      "alternatives": {}
+    },
+    "JU": {
+      "object": "Yogurt",
+      "action": "Juble",
+      "alternatives": {}
+    },
+    "JV": {
+      "object": "Java",
+      "action": "Jævn",
+      "alternatives": {}
+    },
+    "JX": {
+      "object": "家乡 (hjemby)",
+      "action": "家乡 (hjemby)",
+      "alternatives": {}
+    },
+    "KA": {
+      "object": "Kage",
+      "action": "Kaste op",
+      "alternatives": {}
+    },
+    "KB": {
+      "object": "København",
+      "action": "Købe",
+      "alternatives": {}
+    },
+    "KD": {
+      "object": "Kød",
+      "action": "at kede sig",
+      "alternatives": {}
+    },
+    "KE": {
+      "object": "课 (kursus, modul)",
+      "action": "Gå til et modul",
+      "alternatives": {}
+    },
+    "KG": {
+      "object": "Konge",
+      "action": "Styrer",
+      "alternatives": {}
+    },
+    "KH": {
+      "object": "Kalaha",
+      "action": "Spille Kalaha",
+      "alternatives": {}
+    },
+    "KI": {
+      "object": "Kina, Kineser",
+      "action": "Kina, Kineser",
+      "alternatives": {}
+    },
+    "KJ": {
+      "object": "Kejle",
+      "action": "Kejlet",
+      "alternatives": {}
+    },
+    "KK": {
+      "object": "Kraft",
+      "action": "Kraft",
+      "alternatives": {}
+    },
+    "KL": {
+      "object": "Kul",
+      "action": "At kalde",
+      "alternatives": {}
+    },
+    "KM": {
+      "object": "Kamera",
+      "action": "At kæmpe",
+      "alternatives": {}
+    },
+    "KN": {
+      "object": "Cancer",
+      "action": "Cancer",
+      "alternatives": {}
+    },
+    "KO": {
+      "object": "en ko",
+      "action": "Koldt",
+      "alternatives": {}
+    },
+    "KP": {
+      "object": "Kaptajn",
+      "action": "Klappe",
+      "alternatives": {}
+    },
+    "KR": {
+      "object": "Krone",
+      "action": "At Krone",
+      "alternatives": {}
+    },
+    "KS": {
+      "object": "Kiste",
+      "action": "Kaste",
+      "alternatives": {}
+    },
+    "KU": {
+      "object": "KU - København universitet",
+      "action": "KU - København universitet",
+      "alternatives": {}
+    },
+    "KV": {
+      "object": "Kniv",
+      "action": "Kravle",
+      "alternatives": {}
+    },
+    "KX": {
+      "object": "Kiks",
+      "action": "Kikset",
+      "alternatives": {}
+    },
+    "LB": {
+      "object": "Læbbe",
+      "action": "Løbe",
+      "alternatives": {}
+    },
+    "LD": {
+      "object": "Luder",
+      "action": "At Lede efter",
+      "alternatives": {}
+    },
+    "LE": {
+      "object": "Lego",
+      "action": "At Le",
+      "alternatives": {}
+    },
+    "LF": {
+      "object": "Luffy, Luft",
+      "action": "Løfte",
+      "alternatives": {}
+    },
+    "LH": {
+      "object": "Lufthavn",
+      "action": "Lufthavn",
+      "alternatives": {}
+    },
+    "LI": {
+      "object": "Et Lig (mord)",
+      "action": "At Lide",
+      "alternatives": {}
+    },
+    "LJ": {
+      "object": "Løg",
+      "action": "Lege",
+      "alternatives": {}
+    },
+    "LK": {
+      "object": "En Lokal",
+      "action": "Lækker",
+      "alternatives": {}
+    },
+    "LL": {
+      "object": "Liv",
+      "action": "Liv",
+      "alternatives": {}
+    },
+    "LM": {
+      "object": "ChatGPT",
+      "action": "at larme, Lomme",
+      "alternatives": {}
+    },
+    "LN": {
+      "object": "Et Land",
+      "action": "Lande",
+      "alternatives": {}
+    },
+    "LO": {
+      "object": "Lort",
+      "action": "Lort",
+      "alternatives": {}
+    },
+    "LP": {
+      "object": "En Loppe",
+      "action": "Loppemarked",
+      "alternatives": {}
+    },
+    "LR": {
+      "object": "En Lære",
+      "action": "At Lære",
+      "alternatives": {}
+    },
+    "LS": {
+      "object": "En Lås",
+      "action": "Læse",
+      "alternatives": {}
+    },
+    "LT": {
+      "object": "Lotto",
+      "action": "Let",
+      "alternatives": {}
+    },
+    "LU": {
+      "object": "Luca",
+      "action": "At Lugte",
+      "alternatives": {}
+    },
+    "LV": {
+      "object": "Larve",
+      "action": "At lave",
+      "alternatives": {}
+    },
+    "LX": {
+      "object": "Laks",
+      "action": "Luksus",
+      "alternatives": {}
+    },
+    "MA": {
+      "object": "马 - hest",
+      "action": "At Mase",
+      "alternatives": {}
+    },
+    "MB": {
+      "object": "MB - moob - mor ven",
+      "action": "At Mobbe",
+      "alternatives": {}
+    },
+    "MD": {
+      "object": "Mad",
+      "action": "Mødde",
+      "alternatives": {}
+    },
+    "ME": {
+      "object": "Melodi",
+      "action": "Melde",
+      "alternatives": {
+        "action": "Melde, Male"
+      }
+    },
+    "MF": {
+      "object": "Muffin",
+      "action": "Magtfuld",
+      "alternatives": {}
+    },
+    "MG": {
+      "object": "Magnet",
+      "action": "Magnetisk",
+      "alternatives": {}
+    },
+    "MI": {
+      "object": "Micki",
+      "action": "Mini",
+      "alternatives": {}
+    },
+    "MJ": {
+      "object": "Michael Jackson",
+      "action": "Mejeri",
+      "alternatives": {}
+    },
+    "MK": {
+      "object": "Mcdonalds",
+      "action": "Mcdonalds",
+      "alternatives": {}
+    },
+    "ML": {
+      "object": "Mælk",
+      "action": "Malke",
+      "alternatives": {}
+    },
+    "MM": {
+      "object": "Mime",
+      "action": "Mime",
+      "alternatives": {
+        "object": "Minde",
+        "action": "Minde"
+      }
+    },
+    "MN": {
+      "object": "Menneske",
+      "action": "På Månen",
+      "alternatives": {}
+    },
+    "MO": {
+      "object": "Mor",
+      "action": "Modig",
+      "alternatives": {}
+    },
+    "MP": {
+      "object": "Moppe",
+      "action": "At Moppe",
+      "alternatives": {}
+    },
+    "MR": {
+      "object": "Mur",
+      "action": "Mørk",
+      "alternatives": {}
+    },
+    "MS": {
+      "object": "Messi",
+      "action": "Miste",
+      "alternatives": {}
+    },
+    "MT": {
+      "object": "Mette",
+      "action": "Være Mæt",
+      "alternatives": {}
+    },
+    "MU": {
+      "object": "木 (træ)",
+      "action": "Mumle",
+      "alternatives": {}
+    },
+    "MV": {
+      "object": "Mave",
+      "action": "Mixe",
+      "alternatives": {}
+    },
+    "NA": {
+      "object": "Nazi",
+      "action": "Nord America",
+      "alternatives": {}
+    },
+    "NB": {
+      "object": "Noob",
+      "action": "Noob",
+      "alternatives": {}
+    },
+    "ND": {
+      "object": "Nørd",
+      "action": "Nyde",
+      "alternatives": {}
+    },
+    "NE": {
+      "object": "Ne (Neon element)",
+      "action": "Negativ",
+      "alternatives": {}
+    },
+    "NF": {
+      "object": "NF - sanger",
+      "action": "at nerfe",
+      "alternatives": {}
+    },
+    "NG": {
+      "object": "N***er",
+      "action": "Nigger",
+      "alternatives": {}
+    },
+    "NH": {
+      "object": "Niall Horan",
+      "action": "Irland",
+      "alternatives": {}
+    },
+    "NI": {
+      "object": "9",
+      "action": "9",
+      "alternatives": {}
+    },
+    "NJ": {
+      "object": "Negl",
+      "action": "Sige Nej",
+      "alternatives": {}
+    },
+    "NK": {
+      "object": "Nokia",
+      "action": "Nord Korea",
+      "alternatives": {}
+    },
+    "NL": {
+      "object": "Nål",
+      "action": "Nulstille",
+      "alternatives": {}
+    },
+    "NM": {
+      "object": "Nemo",
+      "action": "Nem",
+      "alternatives": {}
+    },
+    "NN": {
+      "object": "Nat",
+      "action": "Nat",
+      "alternatives": {}
+    },
+    "NP": {
+      "object": "No problem",
+      "action": "Nepal",
+      "alternatives": {}
+    },
+    "NR": {
+      "object": "National rekord",
+      "action": "Lave NR",
+      "alternatives": {}
+    },
+    "NS": {
+      "object": "Nisse",
+      "action": "Nyse",
+      "alternatives": {}
+    },
+    "NT": {
+      "object": "Netto",
+      "action": "I Netto",
+      "alternatives": {}
+    },
+    "NU": {
+      "object": "Nu",
+      "action": "Nuttet",
+      "alternatives": {}
+    },
+    "NX": {
+      "object": "Ninja",
+      "action": "sige NIX!",
+      "alternatives": {}
+    },
+    "OA": {
+      "object": "Oase",
+      "action": "Slappe af",
+      "alternatives": {}
+    },
+    "OB": {
+      "object": "Obi wan kanobi",
+      "action": "Observere",
+      "alternatives": {}
+    },
+    "OD": {
+      "object": "Odder",
+      "action": "Over doserer",
+      "alternatives": {}
+    },
+    "OE": {
+      "object": "Ole",
+      "action": "Oplever",
+      "alternatives": {}
+    },
+    "OF": {
+      "object": "Only Fans",
+      "action": "Ofre",
+      "alternatives": {}
+    },
+    "OG": {
+      "object": "Trold",
+      "action": "OG (slang - original gamer)",
+      "alternatives": {}
+    },
+    "OH": {
+      "object": "One handed",
+      "action": "Overasket",
+      "alternatives": {}
+    },
+    "OI": {
+      "object": "Oyster",
+      "action": "Svømme",
+      "alternatives": {}
+    },
+    "OJ": {
+      "object": "Øje",
+      "action": "Fokusere",
+      "alternatives": {}
+    },
+    "OK": {
+      "object": "Orkan",
+      "action": "er OK",
+      "alternatives": {}
+    },
+    "OL": {
+      "object": "OL (olympiske lege)",
+      "action": "at overleve",
+      "alternatives": {}
+    },
+    "OM": {
+      "object": "Omelet",
+      "action": "Ombestemme",
+      "alternatives": {}
+    },
+    "OO": {
+      "object": "Ovn",
+      "action": "Ovn",
+      "alternatives": {}
+    },
+    "OP": {
+      "object": "Old Pochmann",
+      "action": "Over powered",
+      "alternatives": {}
+    },
+    "OR": {
+      "object": "Ord",
+      "action": "at ordne",
+      "alternatives": {}
+    },
+    "OS": {
+      "object": "Ost",
+      "action": "Oslo",
+      "alternatives": {}
+    },
+    "OT": {
+      "object": "Otto",
+      "action": "Overtage",
+      "alternatives": {}
+    },
+    "OU": {
+      "object": "Goku",
+      "action": "Transformere",
+      "alternatives": {}
+    },
+    "OX": {
+      "object": "Oxygen",
+      "action": "Trække vejret",
+      "alternatives": {}
+    },
+    "PA": {
+      "object": "pasta",
+      "action": "怕, bange",
+      "alternatives": {}
+    },
+    "PB": {
+      "object": "Peanut butter",
+      "action": "Få en PB rekord",
+      "alternatives": {}
+    },
+    "PE": {
+      "object": "Blyant",
+      "action": "Skrive",
+      "alternatives": {}
+    },
+    "PF": {
+      "object": "Parfume",
+      "action": "Pifte",
+      "alternatives": {}
+    },
+    "PG": {
+      "object": "Penge",
+      "action": "Pigge, stikke",
+      "alternatives": {}
+    },
+    "PH": {
+      "object": "Filosofi",
+      "action": "Filosofere",
+      "alternatives": {}
+    },
+    "PI": {
+      "object": "Pige",
+      "action": "Pinlig",
+      "alternatives": {}
+    },
+    "PJ": {
+      "object": "en pejs",
+      "action": "At pege",
+      "alternatives": {}
+    },
+    "PK": {
+      "object": "Pik",
+      "action": "At pakke",
+      "alternatives": {}
+    },
+    "PL": {
+      "object": "Pille",
+      "action": "At pille",
+      "alternatives": {}
+    },
+    "PM": {
+      "object": "Pomfritter",
+      "action": "Programmere",
+      "alternatives": {}
+    },
+    "PN": {
+      "object": "Panda",
+      "action": "Tage en PN (medicin)",
+      "alternatives": {}
+    },
+    "PO": {
+      "object": "Po - Kung Fu Panda",
+      "action": "Lave kung fu",
+      "alternatives": {}
+    },
+    "PP": {
+      "object": "Pippi Langstrømpe",
+      "action": "Pippi Langstrømpe",
+      "alternatives": {
+        "object": "Portal",
+        "action": "Portal"
+      }
+    },
+    "PR": {
+      "object": "Prut",
+      "action": "At prutte",
+      "alternatives": {}
+    },
+    "PT": {
+      "object": "Peter Plys",
+      "action": "Positiv",
+      "alternatives": {}
+    },
+    "PU": {
+      "object": "Pussy",
+      "action": "Puste",
+      "alternatives": {}
+    },
+    "PV": {
+      "object": "Pave",
+      "action": "At pive",
+      "alternatives": {}
+    },
+    "PX": {
+      "object": "Pixel",
+      "action": "Pixeleret",
+      "alternatives": {}
+    },
+    "RA": {
+      "object": "Radio",
+      "action": "Rar",
+      "alternatives": {}
+    },
+    "RB": {
+      "object": "Robin Hood",
+      "action": "Råbe",
+      "alternatives": {}
+    },
+    "RD": {
+      "object": "Et rod",
+      "action": "Rød",
+      "alternatives": {}
+    },
+    "RE": {
+      "object": "En Varm",
+      "action": "Varme",
+      "alternatives": {}
+    },
+    "RF": {
+      "object": "Riffel",
+      "action": "Reflektere",
+      "alternatives": {}
+    },
+    "RG": {
+      "object": "Regn",
+      "action": "Regne",
+      "alternatives": {}
+    },
+    "RH": {
+      "object": "Piece",
+      "action": "Blød",
+      "alternatives": {}
+    },
+    "RJ": {
+      "object": "Reje",
+      "action": "Rejse",
+      "alternatives": {}
+    },
+    "RK": {
+      "object": "Rakket",
+      "action": "Flyve",
+      "alternatives": {}
+    },
+    "RL": {
+      "object": "En Rulle",
+      "action": "At Rulle",
+      "alternatives": {}
+    },
+    "RM": {
+      "object": "Rami Sbahi",
+      "action": "at ramme",
+      "alternatives": {}
+    },
+    "RN": {
+      "object": "En Random",
+      "action": "Rund",
+      "alternatives": {}
+    },
+    "RO": {
+      "object": "Ro (stilhed), at ro",
+      "action": "Rolig",
+      "alternatives": {}
+    },
+    "RP": {
+      "object": "Rap",
+      "action": "Rappe",
+      "alternatives": {}
+    },
+    "RR": {
+      "object": "Ring",
+      "action": "Ring",
+      "alternatives": {}
+    },
+    "RS": {
+      "object": "Ris",
+      "action": "Rutche",
+      "alternatives": {}
+    },
+    "RT": {
+      "object": "En ret",
+      "action": "Have ret",
+      "alternatives": {}
+    },
+    "RV": {
+      "object": "Røv",
+      "action": "At Røve",
+      "alternatives": {}
+    },
+    "RX": {
+      "object": "T-rex",
+      "action": "Streng, Strix",
+      "alternatives": {}
+    },
+    "SA": {
+      "object": "Sexual assaulteren",
+      "action": "Sexual assault",
+      "alternatives": {}
+    },
+    "SB": {
+      "object": "Sebastian",
+      "action": "Super",
+      "alternatives": {}
+    },
+    "SE": {
+      "object": "Scene",
+      "action": "at se",
+      "alternatives": {}
+    },
+    "SF": {
+      "object": "Surferen",
+      "action": "Surfe",
+      "alternatives": {}
+    },
+    "SG": {
+      "object": "Seng",
+      "action": "Suge",
+      "alternatives": {}
+    },
+    "SH": {
+      "object": "Sahara",
+      "action": "Sahara",
+      "alternatives": {}
+    },
+    "SI": {
+      "object": "En si",
+      "action": "Sikker",
+      "alternatives": {}
+    },
+    "SJ": {
+      "object": "Den seje",
+      "action": "Sej",
+      "alternatives": {}
+    },
+    "SK": {
+      "object": "Sok",
+      "action": "Skinde",
+      "alternatives": {}
+    },
+    "SL": {
+      "object": "Sælgeren",
+      "action": "sælge",
+      "alternatives": {}
+    },
+    "SM": {
+      "object": "Sommer",
+      "action": "Sammen",
+      "alternatives": {}
+    },
+    "SN": {
+      "object": "Sand",
+      "action": "at sende",
+      "alternatives": {}
+    },
+    "SO": {
+      "object": "En so",
+      "action": "Sort",
+      "alternatives": {}
+    },
+    "SR": {
+      "object": "Sarah (folkeskole)",
+      "action": "Flot",
+      "alternatives": {}
+    },
+    "SS": {
+      "object": "Skygge",
+      "action": "Skygge",
+      "alternatives": {}
+    },
+    "ST": {
+      "object": "Sut",
+      "action": "Sutte",
+      "alternatives": {}
+    },
+    "SU": {
+      "object": "SU - uddanelse",
+      "action": "Sur",
+      "alternatives": {}
+    },
+    "SV": {
+      "object": "Sav",
+      "action": "Sove",
+      "alternatives": {}
+    },
+    "SX": {
+      "object": "Sex",
+      "action": "Have sex",
+      "alternatives": {}
+    },
+    "TA": {
+      "object": "Teaching assistance",
+      "action": "Undervise",
+      "alternatives": {}
+    },
+    "TB": {
+      "object": "Taber",
+      "action": "Tabe",
+      "alternatives": {}
+    },
+    "TD": {
+      "object": "Tid",
+      "action": "At tude",
+      "alternatives": {}
+    },
+    "TE": {
+      "object": "Te - drik",
+      "action": "Bitter",
+      "alternatives": {}
+    },
+    "TG": {
+      "object": "En tigger",
+      "action": "at tigge",
+      "alternatives": {}
+    },
+    "TH": {
+      "object": "天河 - milkyway, galaxe",
+      "action": "Tilhører",
+      "alternatives": {}
+    },
+    "TI": {
+      "object": "10",
+      "action": "10",
+      "alternatives": {}
+    },
+    "TJ": {
+      "object": "Tegning",
+      "action": "Tegne",
+      "alternatives": {}
+    },
+    "TL": {
+      "object": "Tal",
+      "action": "Tælle, Tale",
+      "alternatives": {}
+    },
+    "TM": {
+      "object": "Tom",
+      "action": "Tømme",
+      "alternatives": {}
+    },
+    "TN": {
+      "object": "Tandlæge",
+      "action": "Tænde",
+      "alternatives": {}
+    },
+    "TO": {
+      "object": "2",
+      "action": "2",
+      "alternatives": {}
+    },
+    "TP": {
+      "object": "Tape",
+      "action": "At Tape",
+      "alternatives": {}
+    },
+    "TR": {
+      "object": "Trafik",
+      "action": "At tro",
+      "alternatives": {}
+    },
+    "TS": {
+      "object": "Tis",
+      "action": "Tisse",
+      "alternatives": {}
+    },
+    "TT": {
+      "object": "Tåge",
+      "action": "Tåge",
+      "alternatives": {}
+    },
+    "TU": {
+      "object": "兔子 🐰",
+      "action": "Tumle",
+      "alternatives": {}
+    },
+    "TV": {
+      "object": "Tyv",
+      "action": "Tæve",
+      "alternatives": {}
+    },
+    "TX": {
+      "object": "Taxa",
+      "action": "Taxa",
+      "alternatives": {}
+    },
+    "UA": {
+      "object": "Den uartige",
+      "action": "Uartig",
+      "alternatives": {}
+    },
+    "UB": {
+      "object": "Uber",
+      "action": "Uber",
+      "alternatives": {}
+    },
+    "UD": {
+      "object": "Udefor",
+      "action": "Udefor",
+      "alternatives": {
+        "object": "Udyr"
+      }
+    },
+    "UE": {
+      "object": "Den uenige",
+      "action": "Uenig",
+      "alternatives": {}
+    },
+    "UF": {
+      "object": "UFO",
+      "action": "Farlig",
+      "alternatives": {}
+    },
+    "UG": {
+      "object": "Uge",
+      "action": "Ung",
+      "alternatives": {}
+    },
+    "UH": {
+      "object": "Uheld",
+      "action": "Uhyggelig",
+      "alternatives": {}
+    },
+    "UJ": {
+      "object": "Ujævn",
+      "action": "Ujævn",
+      "alternatives": {}
+    },
+    "UK": {
+      "object": "England",
+      "action": "England",
+      "alternatives": {}
+    },
+    "UL": {
+      "object": "Ulækker",
+      "action": "Ulækker",
+      "alternatives": {}
+    },
+    "UM": {
+      "object": "Umami",
+      "action": "Umage",
+      "alternatives": {}
+    },
+    "UN": {
+      "object": "Den underlige",
+      "action": "Undskylde",
+      "alternatives": {}
+    },
+    "UO": {
+      "object": "Uno",
+      "action": "Ulovlig",
+      "alternatives": {}
+    },
+    "UP": {
+      "object": "Ballon",
+      "action": "Ups",
+      "alternatives": {}
+    },
+    "US": {
+      "object": "USA",
+      "action": "Usikker",
+      "alternatives": {}
+    },
+    "UT": {
+      "object": "Utopia",
+      "action": "Utaknemmelig",
+      "alternatives": {}
+    },
+    "UU": {
+      "object": "Uro",
+      "action": "Uro",
+      "alternatives": {}
+    },
+    "UV": {
+      "object": "UV lys",
+      "action": "At være uvenner",
+      "alternatives": {}
+    },
+    "UX": {
+      "object": "UX designer",
+      "action": "at designe",
+      "alternatives": {}
+    },
+    "VA": {
+      "object": "Voice actor",
+      "action": "At vande",
+      "alternatives": {}
+    },
+    "VB": {
+      "object": "Våben",
+      "action": "Vibrere",
+      "alternatives": {}
+    },
+    "VD": {
+      "object": "Vædemål",
+      "action": "Væde",
+      "alternatives": {}
+    },
+    "VE": {
+      "object": "V - BTS",
+      "action": "Synger",
+      "alternatives": {}
+    },
+    "VF": {
+      "object": "Vifte",
+      "action": "Vifter",
+      "alternatives": {}
+    },
+    "VG": {
+      "object": "Vigga",
+      "action": "At vugge",
+      "alternatives": {}
+    },
+    "VH": {
+      "object": "Valhalla",
+      "action": "Valhalla",
+      "alternatives": {}
+    },
+    "VI": {
+      "object": "Vin",
+      "action": "Hvid",
+      "alternatives": {}
+    },
+    "VJ": {
+      "object": "Vej",
+      "action": "at veje",
+      "alternatives": {}
+    },
+    "VK": {
+      "object": "viking",
+      "action": "at vække, viking",
+      "alternatives": {}
+    },
+    "VL": {
+      "object": "Vilfred",
+      "action": "at vælge",
+      "alternatives": {}
+    },
+    "VM": {
+      "object": "Verdensmesterskab",
+      "action": "Vammel",
+      "alternatives": {}
+    },
+    "VP": {
+      "object": "Vape",
+      "action": "at Vape",
+      "alternatives": {}
+    },
+    "VR": {
+      "object": "Verdensrekord",
+      "action": "at vinde",
+      "alternatives": {}
+    },
+    "VS": {
+      "object": "Vase",
+      "action": "Vaske",
+      "alternatives": {}
+    },
+    "VT": {
+      "object": "Vinter",
+      "action": "Våd",
+      "alternatives": {}
+    },
+    "VU": {
+      "object": "Vue",
+      "action": "lave Vudu",
+      "alternatives": {}
+    },
+    "VV": {
+      "object": "Vind",
+      "action": "Vind",
+      "alternatives": {}
+    },
+    "VX": {
+      "object": "Voks",
+      "action": "at Vokse",
+      "alternatives": {}
+    },
+    "XA": {
+      "object": "西安",
+      "action": "西安",
+      "alternatives": {}
+    },
+    "XB": {
+      "object": "Xbox",
+      "action": "Annoncere",
+      "alternatives": {}
+    },
+    "XD": {
+      "object": "兄弟, bror",
+      "action": "Stilet",
+      "alternatives": {}
+    },
+    "XE": {
+      "object": "Xenon (element)",
+      "action": "Radioaktiv",
+      "alternatives": {}
+    },
+    "XF": {
+      "object": "Glæde",
+      "action": "幸福",
+      "alternatives": {}
+    },
+    "XG": {
+      "object": "性格, personlighed",
+      "action": "Eksotisk",
+      "alternatives": {}
+    },
+    "XI": {
+      "object": "xi jin ping",
+      "action": "Beijing",
+      "alternatives": {}
+    },
+    "XJ": {
+      "object": "现金 - cash, mønt",
+      "action": "Betale",
+      "alternatives": {}
+    },
+    "XK": {
+      "object": "Arbejde",
+      "action": "Hårdt arbejdene",
+      "alternatives": {}
+    },
+    "XL": {
+      "object": "Hjerte",
+      "action": "Extra large",
+      "alternatives": {}
+    },
+    "XN": {
+      "object": "新年, Nytår",
+      "action": "新年, Nytår",
+      "alternatives": {}
+    },
+    "XO": {
+      "object": "Kys",
+      "action": "Kysse",
+      "alternatives": {}
+    },
+    "XP": {
+      "object": "芯片 (Chip, used in computers)",
+      "action": "Expert",
+      "alternatives": {}
+    },
+    "XR": {
+      "object": "VR",
+      "action": "Være i VR",
+      "alternatives": {}
+    },
+    "XS": {
+      "object": "Stjerne",
+      "action": "现实, Extra small",
+      "alternatives": {}
+    },
+    "XT": {
+      "object": "系统 (System)",
+      "action": "Ekstra",
+      "alternatives": {}
+    },
+    "XU": {
+      "object": "雪, Sne",
+      "action": "At sne",
+      "alternatives": {}
+    },
+    "XV": {
+      "object": "Ingenting",
+      "action": "Er ingenting",
+      "alternatives": {}
+    },
+    "XX": {
+      "object": "X-faktor",
+      "action": "X-faktor",
+      "alternatives": {}
+    }
+  },
+  "edges": {
+    "DF": {
+      "commutator": "[R2 U' : [R2' , S]]",
+      "algorithm": "R2 U' R2' S R2' S' U R2",
+      "setup": "R2 U F2 R2 F2 U F B U2 F' B' R2"
+    },
+    "PF": {
+      "commutator": "[L2' U : [L2 , S']]",
+      "algorithm": "L2' U L2 S' L2 S U' L2'",
+      "setup": "B2 U R2 F2 L2 D F2 B2 U2 R2 F2 L2 D2 F2"
+    },
+    "KF": {
+      "commutator": "[U' M U : [M' , U2]]",
+      "algorithm": "U' M U M' U2 M U2 U' M' U",
+      "setup": "R L F U2 F R L B2 R2 D L2 F2 R2 B2 U' R2"
+    },
+    "LF": {
+      "commutator": "[U : [R' E R , U2]]",
+      "algorithm": "U R' E R U2 R' E' R U2 U'",
+      "setup": "F R2 U2 R2 F U' D' R2 B2 U' D' L2 B2 R2"
+    },
+    "ØF": {
+      "commutator": "[U' : [L' E' L , U2']]",
+      "algorithm": "U' L' E' L U2' L' E L U2' U",
+      "setup": "R L' F U2 F R L B2 R2 D L2 F2 R2 B2 U' R2 L2"
+    },
+    "IF": {
+      "commutator": "[U : [R E' R' , U2]]",
+      "algorithm": "U R E' R' U2 R E R' U2 U'",
+      "setup": "U2 F' U2 R2 D2 B U2 R2 L2 D2 F2 L2 U2 L2 U2"
+    },
+    "HF": {
+      "commutator": "[R' U : [S , R2]]",
+      "algorithm": "R' U S R2 S' R2 U' R",
+      "setup": "U' R F2 U2 F2 R U D F2 L2 U2 R2 B2 L2 D"
+    },
+    "GF": {
+      "commutator": "[R' F' : [E , R U R']]",
+      "algorithm": "R' F' E R U R' E' R U' R' F R",
+      "setup": "U R L' B' D2 B R' L U' R2 F2 L2 U2 R2 B2 L2 D2 B2"
+    },
+    "EF": {
+      "commutator": "[L U' : [S' , L2']]",
+      "algorithm": "L U' S' L2' S L2' U L'",
+      "setup": "U R' U2 F2 U2 R F2 R2 F2 D2 B2 L2 U' D' B2 D'"
+    },
+    "TF": {
+      "commutator": "[U M U' : [M , U2]]",
+      "algorithm": "U M U' M U2 M' U2 U M' U'",
+      "setup": "U R L' B D2 B R L B2 R2 U R2 B2 R2 B2 U2"
+    },
+    "CF": {
+      "commutator": "[U' : [L' E L , U2']]",
+      "algorithm": "U' L' E L U2' L' E' L U2' U",
+      "setup": "U2 F U2 R2 U2 F U' D' R2 B2 U D R2 F2 L2 D2"
+    },
+    "NF": {
+      "commutator": "[U : [R E R' , U2]]",
+      "algorithm": "U R E R' U2 R E' R' U2 U'",
+      "setup": "R L F' U2 F R L' U' R2 U2 B2 R2 B2 U2 R2 U R2"
+    },
+    "MF": {
+      "commutator": "[U' : [L E' L' , U2']]",
+      "algorithm": "U' L E' L' U2' L E L' U2' U",
+      "setup": "F' R2 U2 R2 F R2 B2 L2 U D B2 R2 U D F2"
+    },
+    "OF": {
+      "commutator": "[L' U : [L2 , S']]",
+      "algorithm": "L' U L2 S' L2 S U' L",
+      "setup": "U R U2 F2 D2 L B2 D2 F2 U'"
+    },
+    "RF": {
+      "commutator": "[U R' B R : [S , R2']]",
+      "algorithm": "U R' B R S R2' S' R2' R' B' R U'",
+      "setup": "U R' L F D2 F R L F2 L2 U L2 F2 L2 F2 U2"
+    },
+    "QF": {
+      "commutator": "[R U' : [R2' , S]]",
+      "algorithm": "R U' R2' S R2' S' U R'",
+      "setup": "U' R' F2 U2 F2 R F2 R2 F2 U2 F2 R2 U' D' F2 D"
+    },
+    "BF": {
+      "commutator": "[M' , U2]",
+      "algorithm": "M' U2 M U2",
+      "setup": "R2 F2 R2 U2 R2 F2 R2 U2"
+    },
+    "JF": {
+      "commutator": "[U : [S , R2']]",
+      "algorithm": "U S R2' S' R2' U'",
+      "setup": "U' F2 R2 F2 U2 F2 R2 F2 U'"
+    },
+    "VF": {
+      "commutator": "[U2 , M]",
+      "algorithm": "U2 M U2 M'",
+      "setup": "U2 R2 F2 L2 D2 L2 F2 R2"
+    },
+    "UF": {
+      "commutator": "[U' : [S' , L2]]",
+      "algorithm": "U' S' L2 S L2 U",
+      "setup": "U F2 R2 B2 D2 B2 R2 F2 U"
+    },
+    "FD": {
+      "commutator": "[R2 U' : [S , R2']]",
+      "algorithm": "R2 U' S R2' S' R2' U R2",
+      "setup": "F2 U R2 F2 R2 U R2 U2 F' B U2 F' B' R2 U2"
+    },
+    "PD": {
+      "commutator": "[M2' U' : [M , U2]]",
+      "algorithm": "M2' U' M U2 M' U2 U M2'",
+      "setup": "R L U2 R L D' L2 B2 L2 D R2 L2 U2"
+    },
+    "KD": {
+      "commutator": "[L F' L' , S']",
+      "algorithm": "L F' L' S' L F L' S",
+      "setup": "R U R' B' R2 U' R' U B U F2 L2 B2 D B2 L2 F2 U2"
+    },
+    "LD": {
+      "commutator": "[R' E R , U']",
+      "algorithm": "R' E R U' R' E' R U",
+      "setup": "U' B U2 L2 U2 B U2 R2 U L2 U' R2 L2 U B2 U2"
+    },
+    "ØD": {
+      "commutator": "[U2' : [L' E' L , U']]",
+      "algorithm": "U2' L' E' L U' L' E L U U2'",
+      "setup": "U R L F' L2 F R L B2 R2 D F2 D' R2 B2 R2 L2 U'"
+    },
+    "ID": {
+      "commutator": "[R E' R' , U']",
+      "algorithm": "R E' R' U' R E R' U",
+      "setup": "U F' U2 L2 U2 F' D2 L2 U' D2 R2 U' R2 L2 U F2"
+    },
+    "HD": {
+      "commutator": "[E' : [R' E R , U']]",
+      "algorithm": "E' R' E R U' R' E' R U E",
+      "setup": "U2 R F2 D2 B2 L D R2 F2 U2 B2 L2 U2 F2 D' F2"
+    },
+    "GD": {
+      "commutator": "[R : [U' R' U , M']]",
+      "algorithm": "R U' R' U M' U' R U M R'",
+      "setup": "R L F' R2 F R L U2 D2 R2 U' L2 U' D2 R2"
+    },
+    "ED": {
+      "commutator": "[R E2 R' , U']",
+      "algorithm": "R E2 R' U' R E2 R' U",
+      "setup": "R' D2 F2 D2 R' U2 F2 U B2 U' F2 B2 U R2 U"
+    },
+    "CD": {
+      "commutator": "[U2' : [L' E L , U']]",
+      "algorithm": "U2' L' E L U' L' E' L U U2'",
+      "setup": "U F U2 R2 U2 F U2 L2 U R2 U' R2 L2 U F2"
+    },
+    "ND": {
+      "commutator": "[R E R' , U']",
+      "algorithm": "R E R' U' R E' R' U",
+      "setup": "U R' L F R2 F' R' L D F2 R2 F2 R2 F2 D' R2 L2 U'"
+    },
+    "MD": {
+      "commutator": "[U2' : [L E' L' , U']]",
+      "algorithm": "U2' L E' L' U' L E L' U U2'",
+      "setup": "U' B' U2 R2 U2 B U2 R2 U' R2 L2 U' R2 U R2 L2"
+    },
+    "SD": {
+      "commutator": "[R' : [U' R U , M]]",
+      "algorithm": "R' U' R U M U' R' U M' R",
+      "setup": "R' L F' U2 F R L U D' F2 D' L2 D B2 U' D R2"
+    },
+    "OD": {
+      "commutator": "[R' E2 R , U']",
+      "algorithm": "R' E2 R U' R' E2 R U",
+      "setup": "R U2 B2 U2 R U2 F2 U B2 U' F2 B2 U R2 U"
+    },
+    "RD": {
+      "commutator": "(M U' M' U')2",
+      "algorithm": "M U' M' U' M U' M' U'",
+      "setup": "R' L F D2 F' R L U L2 B2 R2 D R2 B2 U F2 U'"
+    },
+    "QD": {
+      "commutator": "[E : [R E' R' , U']]",
+      "algorithm": "E R E' R' U' R E R' U E'",
+      "setup": "U2 R' F2 D2 B2 L' D R2 F2 U2 B2 L2 U2 F2 D' F2"
+    },
+    "BD": {
+      "commutator": "[L F' : [L' S' L , F2']]",
+      "algorithm": "L F' L' S' L F2' L' S L F2' F L'",
+      "setup": "R2 U' B2 L2 F2 D' L2 B2"
+    },
+    "JD": {
+      "commutator": "[R U R' : [S , R2]]",
+      "algorithm": "R U R' S R2 S' R2 R U' R'",
+      "setup": "U' F2 L2 B2 D' B2 L2 F2"
+    },
+    "VD": {
+      "commutator": "[R : [U' R' U , M2']]",
+      "algorithm": "R U' R' U M2' U' R U M2' R'",
+      "setup": "U2 R2 F2 L2 D' L2 F2 R2 U"
+    },
+    "UD": {
+      "commutator": "L U L' U' L' U' L' U L U",
+      "algorithm": "L U L' U' L' U' L' U L U",
+      "setup": "U F2 R2 B2 D' B2 R2 F2 U2"
+    },
+    "FA": {
+      "commutator": "[L2' U : [S' , L2]]",
+      "algorithm": "L2' U S' L2 S L2 U' L2'",
+      "setup": "F2 U' R2 F2 R2 U F B' R2 D2 L2 U2 F' B' L2 D2"
+    },
+    "DA": {
+      "commutator": "[M2' U : [M , U2']]",
+      "algorithm": "M2' U M U2' M' U2' U' M2'",
+      "setup": "F2 U R2 F2 R2 U R2 F2 U2 R2 F2 R2 U2 R2"
+    },
+    "LA": {
+      "commutator": "[U2 : [R' E R , U]]",
+      "algorithm": "U2 R' E R U R' E' R U' U2",
+      "setup": "U B U2 L2 U2 B D2 L2 U' L2 D F2 B2 D' F2 D2"
+    },
+    "ØA": {
+      "commutator": "[L' E' L , U]",
+      "algorithm": "L' E' L U L' E L U'",
+      "setup": "U R L' F U2 F' R' L' F2 R2 U' L2 U R2 F2 L2 U'"
+    },
+    "IA": {
+      "commutator": "[U2 : [R E' R' , U]]",
+      "algorithm": "U2 R E' R' U R E R' U' U2",
+      "setup": "U' F' U2 L2 U2 F' U2 R2 U' L2 U R2 L2 U' F2"
+    },
+    "HA": {
+      "commutator": "[L' E2' L , U]",
+      "algorithm": "L' E2' L U L' E2' L U'",
+      "setup": "L D2 F2 D2 L U2 F2 U' B2 U F2 B2 U' L2 U'"
+    },
+    "GA": {
+      "commutator": "[L' : [U L U' , M']]",
+      "algorithm": "L' U L U' M' U L' U' M L",
+      "setup": "R L' F L2 F R L' U L2 U' R2 L2 U B2 D2 B2 U'"
+    },
+    "EA": {
+      "commutator": "[U2 : [R E2 R' , U]]",
+      "algorithm": "U2 R E2 R' U R E2 R' U' U2",
+      "setup": "U2 R' U2 F2 U2 R' U2 B2 U' F2 U F2 B2 U' R2 U"
+    },
+    "TA": {
+      "commutator": "[R' F R , S]",
+      "algorithm": "R' F R S R' F' R S'",
+      "setup": "R U R' B' R2 U' R' U B U2 R2 F2 U2 F2 R2 F2 U2 F2"
+    },
+    "CA": {
+      "commutator": "[L' E L , U]",
+      "algorithm": "L' E L U L' E' L U'",
+      "setup": "U' F U2 R2 U2 F D2 R2 U D2 L2 U R2 L2 U' F2"
+    },
+    "NA": {
+      "commutator": "[U2 : [R E R' , U]]",
+      "algorithm": "U2 R E R' U R E' R' U' U2",
+      "setup": "U R L F' U2 F R' L D' R2 L2 B2 R2 L2 D L2 U'"
+    },
+    "MA": {
+      "commutator": "[L E' L' , U]",
+      "algorithm": "L E' L' U L E L' U'",
+      "setup": "U B' U2 R2 U2 B' U2 L2 U' R2 U R2 L2 U' B2 U2"
+    },
+    "SA": {
+      "commutator": "[L : [U L' U' , M]]",
+      "algorithm": "L U L' U' M U L U' M' L'",
+      "setup": "R L F U2 F' R L U D' F2 D L2 D' B2 U' D"
+    },
+    "OA": {
+      "commutator": "[U2 : [R' E2 R , U]]",
+      "algorithm": "U2 R' E2 R U R' E2 R U' U2",
+      "setup": "U2 R U2 F2 D2 L D F2 U2 R2 B2 U2 F2 L2 D' F2"
+    },
+    "RA": {
+      "commutator": "(M U M' U)2",
+      "algorithm": "M U M' U M U M' U",
+      "setup": "R L F' D2 F R L' U2 R2 L2 D B2 D' R2 L2 U2 R2"
+    },
+    "QA": {
+      "commutator": "[L E2' L' , U]",
+      "algorithm": "L E2' L' U L E2' L' U'",
+      "setup": "L' U2 B2 U2 L' U2 F2 U' B2 U F2 B2 U' L2 U'"
+    },
+    "BA": {
+      "commutator": "[R' F : [R S R' , F2]]",
+      "algorithm": "R' F R S R' F2 R S' R' F2 F' R",
+      "setup": "R2 B2 L2 U B2 R2 F2 D"
+    },
+    "JA": {
+      "commutator": "R' U' R U R U R U R U' R' U'",
+      "algorithm": "R' U' R U R U R U R U' R' U'",
+      "setup": "U R U R' U2 R' U2 F2 L2 B2 D B2 L2 F2 U2"
+    },
+    "VA": {
+      "commutator": "[l' M' : [U L U' , M2']]",
+      "algorithm": "l' M' U L U' M2' U L' U' M2' M l",
+      "setup": "U R2 F2 L2 D' L2 F2 R2 U2"
+    },
+    "UA": {
+      "commutator": "[L' U' L : [S' , L2]]",
+      "algorithm": "L' U' L S' L2 S L2 L' U L",
+      "setup": "U F2 R2 B2 D B2 R2 F2"
+    },
+    "FK": {
+      "commutator": "[U' M U' : [M' , U2]]",
+      "algorithm": "U' M U' M' U2 M U2 U M' U",
+      "setup": "R L' F' L2 F R' L D' F2 U2 L2 F2 L2 U2 F2 D"
+    },
+    "DK": {
+      "commutator": "[S' , L F' L']",
+      "algorithm": "S' L F' L' S L F L'",
+      "setup": "R L' F' L2 F R L' U' F2 B2 R2 F2 B2 U R2 L2"
+    },
+    "LK": {
+      "commutator": "[S : [R' E R , U']]",
+      "algorithm": "S R' E R U' R' E' R U S'",
+      "setup": "F' U' L' U2 F' U' F L' U2 F2 R2 B2 D2 L2 D B2 R2 L2"
+    },
+    "ØK": {
+      "commutator": "[l' U L : [S' , L2']]",
+      "algorithm": "l' U L S' L2' S L2' L' U' l",
+      "setup": "R L F' L2 F R L' U' L2 U F2 U' F2 R2 B2 D' B2"
+    },
+    "IK": {
+      "commutator": "[S : [R E' R' , U']]",
+      "algorithm": "S R E' R' U' R E R' U S'",
+      "setup": "L F2 L U L' F L F L2 B2 D L2 D' R2 D R2 L2 B2"
+    },
+    "HK": {
+      "commutator": "[M' : [R S' R' , U']]",
+      "algorithm": "M' R S' R' U' R S R' U M",
+      "setup": "R U' R' U L2 U F D F D2 F2 R2 B2 U' B2 R2 U' L2"
+    },
+    "GK": {
+      "commutator": "[l' : [U' L U , M']]",
+      "algorithm": "l' U' L U M' U' L' U M l",
+      "setup": "U R L' F L2 F R L' U' L2 U' R2 B2 R2 D R2 B2 L2"
+    },
+    "EK": {
+      "commutator": "[L' U' : [L S L' , U']]",
+      "algorithm": "L' U' L S L' U' L S' L' U U L",
+      "setup": "U' R' F L D2 F R F' L U F2 U' R2 L2 D R2 F2 U L2"
+    },
+    "TK": {
+      "commutator": "[M U' : [M' , U2]]",
+      "algorithm": "M U' M' U2 M U2 U M'",
+      "setup": "R L' B U2 B R L B2 R2 U L2 F2 L2 F2 U'"
+    },
+    "CK": {
+      "commutator": "[L' F' : [E , L2]]",
+      "algorithm": "L' F' E L2 E' L2 F L",
+      "setup": "R F' U F' U2 R' F U' R' B2 U' F2 U2 B2 D' R2 U F2 D"
+    },
+    "NK": {
+      "commutator": "[R' F R' : [S , R2]]",
+      "algorithm": "R' F R' S R2 S' R2 R F' R",
+      "setup": "R' L F R2 F' R L' U R2 F2 L2 B2 D' B2 L2 F2 U2"
+    },
+    "MK": {
+      "commutator": "[R M U' : [M' , U2]]",
+      "algorithm": "R M U' M' U2 M U2 U M' R'",
+      "setup": "U2 R B' R' B D' F' U2 F' L2 D2 B2 D' B2 U' F2 R2 U B2"
+    },
+    "SK": {
+      "commutator": "[l' : [U' L U , M]]",
+      "algorithm": "l' U' L U M U' L' U M' l",
+      "setup": "F U F' R' F2 U' F' U R U2 R2 F2 R2 U2 R2 F2 R2 U2"
+    },
+    "OK": {
+      "commutator": "[U' R F : [E' , R2']]",
+      "algorithm": "U' R F E' R2' E R2' F' R' U",
+      "setup": "U' R F D L2 U2 D B' L' U F2 L2 U D2 R2 F2 R2 U R2"
+    },
+    "RK": {
+      "commutator": "[R' F R U': [M, U2]]",
+      "algorithm": "R' F R U' M U2 M' U2 U R' F' R",
+      "setup": "U R L F' D2 F R L F2 R2 D L2 B2 R2 F2 U R2 U'"
+    },
+    "QK": {
+      "commutator": "[l' : [E , L U' L']]",
+      "algorithm": "l' E L U' L' E' L U L' l",
+      "setup": "U B' U2 B' U' L U' L' B D B2 D' R2 U R2 B2 U'"
+    },
+    "BK": {
+      "commutator": "[L' F' : [E' , L2]]",
+      "algorithm": "L' F' E' L2 E L2 F L",
+      "setup": "R L' F' L2 F R L B2 L2 U B2 R2 F2 L2 D"
+    },
+    "JK": {
+      "commutator": "[L2 : [S , L' F' L]]",
+      "algorithm": "L2 S L' F' L S' L' F L L2",
+      "setup": "R L' F' L2 F R L F2 L2 U F2 U' L2 F2 R2"
+    },
+    "VK": {
+      "commutator": "[l' : [U' L U , M2']]",
+      "algorithm": "l' U' L U M2' U' L' U M2' l",
+      "setup": "R L' F' L2 F R' L D2 R2 B2 L2 U' B2 R2 F2 L2 D"
+    },
+    "UK": {
+      "commutator": "[S , L F' L']",
+      "algorithm": "S L F' L' S' L F L'",
+      "setup": "R L' F' L2 F R L B2 R2 D F2 D' R2 B2 R2"
+    },
+    "FL": {
+      "commutator": "[U' : [R' E R , U2]]",
+      "algorithm": "U' R' E R U2 R' E' R U2 U",
+      "setup": "U2 F R2 U2 R2 F U' D' R2 B2 U D R2 F2 L2 D2"
+    },
+    "DL": {
+      "commutator": "[U' , R' E R]",
+      "algorithm": "U' R' E R U R' E' R",
+      "setup": "U2 F R2 D2 L2 B D R2 U2 F2 R2 D2 L2 B2 D' R2"
+    },
+    "PL": {
+      "commutator": "[U' : [R' E R , U']]",
+      "algorithm": "U' R' E R U' R' E' R U U",
+      "setup": "U2 F L2 D2 R2 B D F2 R2 D2 R2 F2 D2 R2 D' L2"
+    },
+    "KL": {
+      "commutator": "[S : [U' , R' E R]]",
+      "algorithm": "S U' R' E R U R' E' R S'",
+      "setup": "L U F U2 L U L' F U2 L2 B2 R2 D2 F2 D' R2 F2 B2"
+    },
+    "ØL": {
+      "commutator": "[U S' U' , L]",
+      "algorithm": "U S' U' L U S U' L'",
+      "setup": "F D2 F' D' L D' L' F U F2 U' R2 D R2"
+    },
+    "IL": {
+      "commutator": "[M' U L' : [S' , L2']]",
+      "algorithm": "M' U L' S' L2' S L2' L U' M",
+      "setup": "F' U2 R2 D2 B U' D' B2 U2 R2 U D'"
+    },
+    "HL": {
+      "commutator": "[R U' R' , E]",
+      "algorithm": "R U' R' E R U R' E'",
+      "setup": "R F' R' U' D B R B U B2 U D' R2 U' R2"
+    },
+    "GL": {
+      "commutator": "[M' : [U' L' U , M']]",
+      "algorithm": "M' U' L' U M' U' L U M M",
+      "setup": "L D' F' R2 F R2 L' F' L2 B2 D L2 F2 R2 U2 F2 U' R2"
+    },
+    "TL": {
+      "commutator": "[M L' U' : [M' , U2']]",
+      "algorithm": "M L' U' M' U2' M U2' U L M'",
+      "setup": "F R2 F U F' R F R F2 L2 D F2 D' B2 D F2 B2 L2"
+    },
+    "CL": {
+      "commutator": "[r U R : [E , R2']]",
+      "algorithm": "r U R E R2' E' R2' R' U' r'",
+      "setup": "F U2 L2 D2 B U R2 U' D B2 D L2 U2"
+    },
+    "NL": {
+      "commutator": "[M' U R : [E , R2']]",
+      "algorithm": "M' U R E R2' E' R2' R' U' M",
+      "setup": "R U D' F' U' F' U' D R U F2 U L2 B2 R2 D B2 L2"
+    },
+    "ML": {
+      "commutator": "[U' E' L : [S' , L2']]",
+      "algorithm": "U' E' L S' L2' S L2' L' E U",
+      "setup": "U2 F' R2 U2 R2 F' R2 U2 F2 R2 U2 R2 F2 R2"
+    },
+    "SL": {
+      "commutator": "[M' , U' L' U]",
+      "algorithm": "M' U' L' U M U' L U",
+      "setup": "U' L F U F' U L U2 L' B2 U' B2 U B2 D' B2 D"
+    },
+    "OL": {
+      "commutator": "[L U L' , E']",
+      "algorithm": "L U L' E' L U' L' E",
+      "setup": "R F' R U D' F' L F U' D R2"
+    },
+    "RL": {
+      "commutator": "[U' r' : [E , R U R']]",
+      "algorithm": "U' r' E R U R' E' R U' R' r U",
+      "setup": "L F D' F' D2 L' D' F D R2 F2 R2 U2 L2 B2 L2 U2 F2"
+    },
+    "QL": {
+      "commutator": "[R2' : [R U' R' , E]]",
+      "algorithm": "R2' R U' R' E R U R' E' R2'",
+      "setup": "R F' R U' D B' R B U D' R2"
+    },
+    "BL": {
+      "commutator": "[U R' F' : [R S R' , F']]",
+      "algorithm": "U R' F' R S R' F' R S' R' F F R U'",
+      "setup": "U2 F R2 U2 R2 F R2 F2 U D' F2 U D R2 F2"
+    },
+    "JL": {
+      "commutator": "[U' E' R' : [E' , R2]]",
+      "algorithm": "U' E' R' E' R2 E R2 R E U",
+      "setup": "U2 F L2 D2 R2 B D R2 D2 F2 R2 D2 R2 F2 D' L2"
+    },
+    "VL": {
+      "commutator": "[M' : [U' L' U , M2']]",
+      "algorithm": "M' U' L' U M2' U' L U M2' M",
+      "setup": "U2 F R2 U2 R2 F R2 U2 F2 U2 L2 D2 R2 L2 F2 R2"
+    },
+    "UL": {
+      "commutator": "[U E L' : [E' , L2]]",
+      "algorithm": "U E L' E' L2 E L2 L E' U'",
+      "setup": "U2 F R2 D2 L2 B D F2 R2 U2 L2 B2 U2 R2 D' R2"
+    },
+    "FØ": {
+      "commutator": "[U : [L' E' L , U2']]",
+      "algorithm": "U L' E' L U2' L' E L U2' U'",
+      "setup": "R L F' L2 F R' L D' F2 U2 L2 F2 L2 U2 F2 D L2"
+    },
+    "DØ": {
+      "commutator": "[U : [L' E' L , U]]",
+      "algorithm": "U L' E' L U L' E L U' U'",
+      "setup": "R L F' L2 F R L' U' F2 B2 R2 F2 B2 U R2"
+    },
+    "PØ": {
+      "commutator": "[U , L' E' L]",
+      "algorithm": "U L' E' L U' L' E L",
+      "setup": "R L F' L2 F R L B2 R2 D F2 D' R2 B2 R2 L2"
+    },
+    "KØ": {
+      "commutator": "[l' U L' : [S' , L2]]",
+      "algorithm": "l' U L' S' L2 S L2 L U' l",
+      "setup": "R L' F' L2 F R L F2 U F2 R2 B2 D B2 D' L2 D"
+    },
+    "LØ": {
+      "commutator": "[L , U S' U']",
+      "algorithm": "L U S' U' L' U S U'",
+      "setup": "L U2 L' U' F U' F' L D L2 D' B2 U B2"
+    },
+    "IØ": {
+      "commutator": "[L' , U S' U']",
+      "algorithm": "L' U S' U' L U S U'",
+      "setup": "U B' U L F2 L' F2 B L U2 R2 U R2 D' F2 D L2 U2 L2"
+    },
+    "HØ": {
+      "commutator": "[L' E2' : [L U L' , E]]",
+      "algorithm": "L' E2' L U L' E L U' L' E' E2' L",
+      "setup": "U' R F2 B' L D2 L' D' B R2 U2 D2 L2 B2 U' L2 D2"
+    },
+    "GØ": {
+      "commutator": "[U : [S , L F L']]",
+      "algorithm": "U S L F L' S' L F' L' U'",
+      "setup": "U R L' F L2 F' R' L' B2 R2 U' F2 U R2 B2 L2 U'"
+    },
+    "EØ": {
+      "commutator": "[L f' L : [S , L2']]",
+      "algorithm": "L f' L S L2' S' L2' L' f L'",
+      "setup": "R F2 R' F' D' R' D2 R F U F2 R2 B2 U' B2 R2 F2 U'"
+    },
+    "TØ": {
+      "commutator": "[L F' L' : [S' , L2]]",
+      "algorithm": "L F' L' S' L2 S L2 L F L'",
+      "setup": "R L B U2 B R L B2 R2 U L2 F2 L2 F2 U' L2"
+    },
+    "CØ": {
+      "commutator": "[L F' : [L2' , E]]",
+      "algorithm": "L F' L2' E L2' E' F L'",
+      "setup": "U2 B D' L' D2 B' D' B L B2 U2 R2 F2 R2 D2 R2 F2 R2 D'"
+    },
+    "NØ": {
+      "commutator": "[L F' L : [S , L2']]",
+      "algorithm": "L F' L S L2' S' L2' L' F L'",
+      "setup": "R' L B U2 B R L B2 L2 D L2 B2 L2 B2 D'"
+    },
+    "MØ": {
+      "commutator": "[M' U' L : [E' , L2']]",
+      "algorithm": "M' U' L E' L2' E L2' L' U M",
+      "setup": "F' D L D2 F D F' L F2 L2 U2 R2 B2 R2 U2 F2 D'"
+    },
+    "SØ": {
+      "commutator": "[l' : [U' L' U , M]]",
+      "algorithm": "l' U' L' U M U' L U M' l",
+      "setup": "F U' D R U2 R' U D' F U F2 R2 B2 D2 B2 R2 F2 U' F2"
+    },
+    "OØ": {
+      "commutator": "[S' U' R : [E' , R2']]",
+      "algorithm": "S' U' R E' R2' E R2' R' U S",
+      "setup": "F' U B L B' U' F' D' L U D' B2 D L2 F2 U' D R2"
+    },
+    "RØ": {
+      "commutator": "[U l : [E , L' U' L]]",
+      "algorithm": "U l E L' U' L E' L' U L l' U'",
+      "setup": "U R L F' D2 F R L F2 R2 D L2 D' R2 F2 R2 L2 U'"
+    },
+    "QØ": {
+      "commutator": "[L E2' : [L' U L , E']]",
+      "algorithm": "L E2' L' U L E' L' U' L E E2' L'",
+      "setup": "U' R' F D F' D R D2 R U D' F2 U D' F2 U' R2 D R2"
+    },
+    "BØ": {
+      "commutator": "[L F' : [E' , L2']]",
+      "algorithm": "L F' E' L2' E L2' F L'",
+      "setup": "R L F' L2 F R L B2 R2 D F2 R2 B2 L2 U R2"
+    },
+    "JØ": {
+      "commutator": "[S , L' F' L]",
+      "algorithm": "S L' F' L S' L' F L",
+      "setup": "R L F' L2 F R L F2 L2 U F2 U' L2 F2 R2 L2"
+    },
+    "VØ": {
+      "commutator": "[U : [L B' L' , S']]",
+      "algorithm": "U L B' L' S' L B L' S U'",
+      "setup": "R L F' L2 F' R' L D L2 B2 R2 F2 U' R2 B2"
+    },
+    "FI": {
+      "commutator": "[U' : [R E' R' , U2]]",
+      "algorithm": "U' R E' R' U2 R E R' U2 U",
+      "setup": "F' U2 R2 D2 B U2 R2 L2 D2 F2 L2 U2 L2"
+    },
+    "DI": {
+      "commutator": "[U' , R E' R']",
+      "algorithm": "U' R E' R' U R E R'",
+      "setup": "F' U2 L2 U2 F' U2 R2 U' L2 U R2 L2 U' F2 U'"
+    },
+    "PI": {
+      "commutator": "[U' : [R E' R' , U']]",
+      "algorithm": "U' R E' R' U' R E R' U U",
+      "setup": "F' D2 L2 D2 F' U2 L2 U R2 U' R2 L2 U F2 U"
+    },
+    "KI": {
+      "commutator": "[S : [U' , R E' R']]",
+      "algorithm": "S U' R E' R' U R E R' S'",
+      "setup": "U2 F R2 F D L' D L B' U' B2 U R2 D' F2 U2 B2 L2 B2"
+    },
+    "LI": {
+      "commutator": "[M' U L : [S' , L2']]",
+      "algorithm": "M' U L S' L2' S L2' L' U' M",
+      "setup": "U2 F R2 D2 L2 B D2 R2"
+    },
+    "ØI": {
+      "commutator": "[U S U' , L']",
+      "algorithm": "U S U' L' U S' U' L",
+      "setup": "L F2 B R' D2 R D B U2 D2 F2 B2 U' D2 L2 U' L2"
+    },
+    "HI": {
+      "commutator": "[R2 : [R' U' R , E']]",
+      "algorithm": "R2 R' U' R E' R' U R E R2",
+      "setup": "F' L2 F' U' D R F2 R U R2 U D' F2 U'"
+    },
+    "GI": {
+      "commutator": "[M' : [U' L U , M']]",
+      "algorithm": "M' U' L U M' U' L' U M M",
+      "setup": "U2 L' D F D2 F' R2 L B U D' R2 U' R2 D R2 U2"
+    },
+    "EI": {
+      "commutator": "[L' U L , E]",
+      "algorithm": "L' U L E L' U' L E'",
+      "setup": "F' L2 F U' D R' F2 R U D'"
+    },
+    "TI": {
+      "commutator": "[R F : [E' , R2']]",
+      "algorithm": "R F E' R2' E R2' F' R'",
+      "setup": "R U' D B U' B U D' R U R2 F2 R2 U F2 U' R2 F2"
+    },
+    "CI": {
+      "commutator": "[u R' : [S , R2]]",
+      "algorithm": "u R' S R2 S' R2 R u'",
+      "setup": "F' U2 R2 D2 B2 U2 L2 D2 F'"
+    },
+    "NI": {
+      "commutator": "[R' F : [E' , R2]]",
+      "algorithm": "R' F E' R2 E R2 F' R",
+      "setup": "R U2 L2 F' L2 U2 L2 F' R U2 R2 F2 R2 U2 R2 F2 L2"
+    },
+    "MI": {
+      "commutator": "[l' U' L : [E' , L2']]",
+      "algorithm": "l' U' L E' L2' E L2' L' U l",
+      "setup": "U2 F' R2 U2 R2 F' R2 U' D' L2 F2 U D R2 F2 R2"
+    },
+    "SI": {
+      "commutator": "[M' , U' L U]",
+      "algorithm": "M' U' L U M U' L' U",
+      "setup": "U' L' F2 B' R U2 R' U' B U' D R2 U' R2 U F2 U2 D'"
+    },
+    "RI": {
+      "commutator": "[U' M : [L S L' , U]]",
+      "algorithm": "U' M L S L' U L S' L' U' M' U",
+      "setup": "L' F D' F' D2 L' D' F D F2 U2 R2 F2 L2 D2 R2 B2"
+    },
+    "QI": {
+      "commutator": "[R' U' R , E']",
+      "algorithm": "R' U' R E' R' U R E",
+      "setup": "F' L2 F U D' R' U2 R L2 F2 R2 U D F2 L2 B2 D2"
+    },
+    "BI": {
+      "commutator": "[l' U' : [S', L2 ]]",
+      "algorithm": "l' U' S' L2 S L2 U l",
+      "setup": "F' U2 R2 D2 B U2 L2 F2 R2 D2 R2 F2 D2 R2 F2"
+    },
+    "JI": {
+      "commutator": "[u' R : [E , R2']]",
+      "algorithm": "u' R E R2' E' R2' R' u",
+      "setup": "R2 F' U2 R2 D2 B' L2 U F2 R2 B2 U2 F2 L2 B2 U'"
+    },
+    "VI": {
+      "commutator": "[M' : [U' L U , M2']]",
+      "algorithm": "M' U' L U M2' U' L' U M2' M",
+      "setup": "F' U2 R2 D2 B R2 U2 L2 F2"
+    },
+    "UI": {
+      "commutator": "[u L : [E , L2']]",
+      "algorithm": "u L E L2' E' L2' L' u'",
+      "setup": "R2 F' U2 R2 D2 B' L2 U' F2 R2 F2 D2 B2 L2 B2 U"
+    },
+    "FX": {
+      "commutator": "[R' U' : [S , R2']]",
+      "algorithm": "R' U' S R2' S' R2' U R",
+      "setup": "U R F2 U2 F2 R U D F2 L2 D2 L2 F2 R2 D'"
+    },
+    "DX": {
+      "commutator": "[E' : [U' , R' E R]]",
+      "algorithm": "E' U' R' E R U R' E' R E",
+      "setup": "U L U2 F2 U2 L D2 F2 U' F2 D R2 L2 D' R2 D2"
+    },
+    "PX": {
+      "commutator": "[U , L' E2' L]",
+      "algorithm": "U L' E2' L U' L' E2' L",
+      "setup": "U L U2 F2 U2 L U2 B2 U F2 U' F2 B2 U L2"
+    },
+    "KX": {
+      "commutator": "[M' : [U' , R S' R']]",
+      "algorithm": "M' U' R S' R' U R S R' M",
+      "setup": "U B' L' D' F2 U2 D' R F U' F2 U F2 R2 F2 U D2 B2 R2"
+    },
+    "LX": {
+      "commutator": "[E , R U' R']",
+      "algorithm": "E R U' R' E' R U R'",
+      "setup": "R U' R' U D' F U F U F2 U' D R2 U' R2"
+    },
+    "ØX": {
+      "commutator": "[L' : [E , R U' R']]",
+      "algorithm": "L' E R U' R' E' R U R' L",
+      "setup": "U' F D' L' D2 L F' B2 R U R2 U' B2 U"
+    },
+    "IX": {
+      "commutator": "[R2 : [E' , R' U' R]]",
+      "algorithm": "R2 E' R' U' R E R' U R R2",
+      "setup": "R U' R U' D B' U B U D' R2"
+    },
+    "GX": {
+      "commutator": "[U' R U , M']",
+      "algorithm": "U' R U M' U' R' U M",
+      "setup": "U F U' L' U2 F' U' F L F2 U2 R2 F2 R2 U2 R2 F2 R2"
+    },
+    "EX": {
+      "commutator": "[R' U' R' : [E , R2]]",
+      "algorithm": "R' U' R' E R2 E' R2 R U R",
+      "setup": "U' R' U2 B2 D2 L U' D' L2 U2 B2 U2 D'"
+    },
+    "TX": {
+      "commutator": "[R U2' : [R' S' R , U']]",
+      "algorithm": "R U2' R' S' R U' R' S R U U2' R'",
+      "setup": "U' R' U2 R' U' B U' B' R U F2 D' L2 U L2 F2 D"
+    },
+    "CX": {
+      "commutator": "[E' , R U' R']",
+      "algorithm": "E' R U' R' E R U R'",
+      "setup": "R U' R U D' F' U F U' D R2"
+    },
+    "NX": {
+      "commutator": "[R' f R : [S' , R2']]",
+      "algorithm": "R' f R S' R2' S R2' R' f' R",
+      "setup": "U F D R D2 R' F B2 L U D' B2 U' B2 D F2 B2 U'"
+    },
+    "SX": {
+      "commutator": "[U' R U , M]",
+      "algorithm": "U' R U M U' R' U M'",
+      "setup": "U2 F R U R' U F U2 F' L2 U' L2 D F2 D' F2 U2"
+    },
+    "OX": {
+      "commutator": "[R' U' R : [E' , R2']]",
+      "algorithm": "R' U' R E' R2' E R2' R' U R",
+      "setup": "U' R U2 F2 D2 L D2 F2 R2 U' D B2 D'"
+    },
+    "RX": {
+      "commutator": "[U2' : [U R U' , M]]",
+      "algorithm": "U2' U R U' M U R' U' M' U2'",
+      "setup": "U' L' F R' F' D2 L' F' R U L2 U' F2 R2 D' R2 L2 U F2"
+    },
+    "QX": {
+      "commutator": "[U R : [S , R2']]",
+      "algorithm": "U R S R2' S' R2' R' U'",
+      "setup": "U R' F2 U2 F2 R' F2 U2 R2 F2 U2 F2 R2 F2 U"
+    },
+    "BX": {
+      "commutator": "[U R U' : [M' , U2]]",
+      "algorithm": "U R U' M' U2 M U2 U R' U'",
+      "setup": "U R B2 U2 B2 R F2 L2 B2 U F2 R2 B2 U' R2 D"
+    },
+    "JX": {
+      "commutator": "U2 R U' R' U' R' U' R U R U'",
+      "algorithm": "U2 R U' R' U' R' U' R U R U'",
+      "setup": "U R F2 U2 F2 R F2 L2 B2 U' D' L2 F2 U2 D'"
+    },
+    "VX": {
+      "commutator": "[U' R U , M2']",
+      "algorithm": "U' R U M2' U' R' U M2'",
+      "setup": "R' D R2 L2 U' R L2 U' L2 U R2 L2 D' L2 D L2"
+    },
+    "UX": {
+      "commutator": "[U L' : [E' , L2]]",
+      "algorithm": "U L' E' L2 E L2 L U'",
+      "setup": "U R F2 U2 F2 R' F2 B2 L2 F2 B2 U D R2 U2 D'"
+    },
+    "FG": {
+      "commutator": "[R' F' : [R U R' , E]]",
+      "algorithm": "R' F' R U R' E R U' R' E' F R",
+      "setup": "U R L' B D2 B R L B2 R2 U R2 B2 R2 B2 U2"
+    },
+    "DG": {
+      "commutator": "[r : [U' R' U , M]]",
+      "algorithm": "r U' R' U M U' R U M' r'",
+      "setup": "U R L' F L2 F R L' U L2 U' R2 L2 U B2 D2 B2 U2"
+    },
+    "PG": {
+      "commutator": "[l' : [U L U' , M]]",
+      "algorithm": "l' U L U' M U L' U' M' l",
+      "setup": "U R L' F L2 F' R' L D2 R2 L2 U' L2 U R2 L2 U' D2"
+    },
+    "KG": {
+      "commutator": "[l' : [M' , U' L U]]",
+      "algorithm": "l' M' U' L U M U' L' U l",
+      "setup": "R F R' F2 L F' L' F2 U' F2 U F2 D' F2 D F2"
+    },
+    "LG": {
+      "commutator": "[M2' : [U' L' U , M]]",
+      "algorithm": "M2' U' L' U M U' L U M' M2'",
+      "setup": "R U L F' L' U' R' D' F D"
+    },
+    "ØG": {
+      "commutator": "[U : [L F L' , S]]",
+      "algorithm": "U L F L' S L F' L' S' U'",
+      "setup": "R L F' L2 F R L U2 D2 L2 D' R2 U2 D' L2"
+    },
+    "IG": {
+      "commutator": "[M' : [M' , U' L U]]",
+      "algorithm": "M' M' U' L U M U' L' U M",
+      "setup": "U2 B' R D R' D B D2 B U D' R2 B2 D' B2 U R2 D"
+    },
+    "HG": {
+      "commutator": "[M' , U' R U]",
+      "algorithm": "M' U' R U M U' R' U",
+      "setup": "R U' F' L2 F R' L2 F' R2 B2 U R2 F2 L2 D2 F2 D' L2"
+    },
+    "EG": {
+      "commutator": "[M' , U L' U']",
+      "algorithm": "M' U L' U' M U L U'",
+      "setup": "L' U F R2 F' R2 L F L2 B2 U' L2 F2 R2 D2 F2 D R2"
+    },
+    "TG": {
+      "commutator": "[r : [M' , U R' U']]",
+      "algorithm": "r M' U R' U' M U R U' r'",
+      "setup": "R L F R2 F R L U L2 U L2 U2 D' F2 D F2 L2"
+    },
+    "CG": {
+      "commutator": "[M2' : [U R' U' , M]]",
+      "algorithm": "M2' U R' U' M U R U' M' M2'",
+      "setup": "U F U' L' U L' F' D2 B' R2 D' F2 U' R2 F2 R2 U' D' F2"
+    },
+    "NG": {
+      "commutator": "[U' : [R' F' R , S']]",
+      "algorithm": "U' R' F' R S' R' F R S U",
+      "setup": "R' L F R2 F R L' F2 U F2 U R2 D R2 U2 D' R2"
+    },
+    "MG": {
+      "commutator": "[M2' : [U R U' , M]]",
+      "algorithm": "M2' U R U' M U R' U' M' M2'",
+      "setup": "R U R' D R U' F R' F D F2 D' F2 U' F2 U L2 D' L2"
+    },
+    "SG": {
+      "commutator": "[U' : [R' F' R , S]]",
+      "algorithm": "U' R' F' R S R' F R S' U",
+      "setup": "R' B' D' F2 R' D2 B' U L' B2 D' R2 D F2 U2 F2 B2 D B2"
+    },
+    "OG": {
+      "commutator": "[M' , U L U']",
+      "algorithm": "M' U L U' M U L' U'",
+      "setup": "U L D' F' D2 L' D' L F L2 U D R2 F2 L2 D2 R2 B2 L2"
+    },
+    "RG": {
+      "commutator": "U M U M' U2 M' U' M U",
+      "algorithm": "U M U M' U2 M' U' M U",
+      "setup": "U R L F' D2 F' R L B2 L2 U' R2 F2 L2 B2 D L2 U'"
+    },
+    "QG": {
+      "commutator": "[M' , U' R' U]",
+      "algorithm": "M' U' R' U M U' R U",
+      "setup": "U F' L' U D2 F2 U R B U' F2 L2 U2 D' R2 F2 R2 D' R2"
+    },
+    "JG": {
+      "commutator": "[U R' F' R : [S , R2']]",
+      "algorithm": "U R' F' R S R2' S' R2' R' F R U'",
+      "setup": "U R L' B D2 B' R' L U B2 R2 F2 L2 D' B2 L2 F2 U"
+    },
+    "VG": {
+      "commutator": "[D : [S' , R F R']]",
+      "algorithm": "D S' R F R' S R F' R' D'",
+      "setup": "U R L' F L2 F' R L U2 D2 L2 D R2 U D"
+    },
+    "UG": {
+      "commutator": "[U' L F L' : [S' , L2]]",
+      "algorithm": "U' L F L' S' L2 S L2 L F' L' U",
+      "setup": "U R L' F L2 F' R' L F2 R2 B2 U' B2 R2 F2 L2 U' D'"
+    },
+    "FE": {
+      "commutator": "[L U : [S' , L2']]",
+      "algorithm": "L U S' L2' S L2' U' L'",
+      "setup": "U' R' U2 F2 U2 R F2 R2 F2 U2 F2 R2 U' D' F2 D"
+    },
+    "DE": {
+      "commutator": "[U' , R E2 R']",
+      "algorithm": "U' R E2 R' U R E2 R'",
+      "setup": "U' R' U2 F2 U2 R' U2 B2 U' F2 U F2 B2 U' R2"
+    },
+    "PE": {
+      "commutator": "[U' : [R E2 R' , U']]",
+      "algorithm": "U' R E2 R' U' R E2 R' U U",
+      "setup": "U' R' U2 F2 U2 R U2 F2 U' F2 B2 U' F2 U F2 B2"
+    },
+    "KE": {
+      "commutator": "[L' U2 : [L S L' , U]]",
+      "algorithm": "L' U2 L S L' U L S' L' U' U2 L",
+      "setup": "U L U2 L U B' U B L' U' F2 D R2 U' R2 F2 D'"
+    },
+    "ØE": {
+      "commutator": "[L f' L' : [S , L2]]",
+      "algorithm": "L f' L' S L2 S' L2 L f L'",
+      "setup": "U F' D L B2 L' F B2 L U2 L2 D L2 U' F2 D B2 U2 F2"
+    },
+    "IE": {
+      "commutator": "[E , L' U L]",
+      "algorithm": "E L' U L E' L' U' L",
+      "setup": "L' U L U D' B' U' B U' D"
+    },
+    "HE": {
+      "commutator": "[R' U' R : [E , R2']]",
+      "algorithm": "R' U' R E R2' E' R2' R' U R",
+      "setup": "U R F2 D2 B2 L U2 B2 U' D2"
+    },
+    "GE": {
+      "commutator": "[U L' U' , M']",
+      "algorithm": "U L' U' M' U L U' M",
+      "setup": "U L' D2 L D F' D F L U D' B2 U' B2 D B2 D' B2 U'"
+    },
+    "TE": {
+      "commutator": "[M' : [U , L' S L]]",
+      "algorithm": "M' U L' S L U' L' S' L M",
+      "setup": "U' B R D F2 U2 D L' F' U R2 F2 U D2 B2 R2 B2 U B2"
+    },
+    "CE": {
+      "commutator": "[L2' : [E , L U' L']]",
+      "algorithm": "L2' E L U' L' E' L U L' L2'",
+      "setup": "L' U' L' U D' B U B U B2 U' D L2 U'"
+    },
+    "NE": {
+      "commutator": "[R E : [R' U' R , E]]",
+      "algorithm": "R E R' U' R E R' U R E' E' R'",
+      "setup": "U F' D R D2 R' F B2 L U D' B2 U' B2 D B2 U'"
+    },
+    "ME": {
+      "commutator": "[E' , L' U L]",
+      "algorithm": "E' L' U L E L' U' L",
+      "setup": "L' U L U' D F' U' F U D'"
+    },
+    "SE": {
+      "commutator": "[U L' U' , M]",
+      "algorithm": "U L' U' M U L U' M'",
+      "setup": "U2 F' R2 L' F R2 F' U' L U' F2 U2 F2 D' R2 D B2 U' B2"
+    },
+    "OE": {
+      "commutator": "[U' L' : [S' , L2]]",
+      "algorithm": "U' L' S' L2 S L2 L U",
+      "setup": "U' R U2 F2 D2 L U2 F2 B2 U D' L2 D'"
+    },
+    "RE": {
+      "commutator": "[U' R' B : [R2 , E]]",
+      "algorithm": "U' R' B R2 E R2 E' B' R U",
+      "setup": "U R F' L F D2 R F L' U' R2 U F2 L2 D R2 L2 U' F2"
+    },
+    "QE": {
+      "commutator": "[R U' R : [E , R2']]",
+      "algorithm": "R U' R E R2' E' R2' R' U R'",
+      "setup": "U R' F2 U2 F2 R' F2 U D F2 L2 U2 R2 B2 L2 D"
+    },
+    "BE": {
+      "commutator": "[U' D R : [E , R2']]",
+      "algorithm": "U' D R E R2' E' R2' R' D' U",
+      "setup": "U' L' B2 U2 B2 L' F2 R2 B2 U' F2 L2 B2 U L2 D'"
+    },
+    "JE": {
+      "commutator": "[U' R : [E , R2']]",
+      "algorithm": "U' R E R2' E' R2' R' U",
+      "setup": "U' R' U2 F2 U2 R U2 F2 U' D' F2 D"
+    },
+    "VE": {
+      "commutator": "[U L' U' , M2']",
+      "algorithm": "U L' U' M2' U L U' M2'",
+      "setup": "L U' F2 B2 D R' L2 U L2 D' F2 B2 U R2 D' R2"
+    },
+    "UE": {
+      "commutator": "U2' L' U L U L U L' U' L' U",
+      "algorithm": "U2' L' U L U L U L' U' L' U",
+      "setup": "U' R' U2 F2 U2 R U2 R2 B2 U D L2 B2 R2 F2 D"
+    },
+    "FT": {
+      "commutator": "[U M U : [M' , U2']]",
+      "algorithm": "U M U M' U2' M U2' U' M' U'",
+      "setup": "R L F R2 F R L B2 R2 D B2 L2 F2 R2 U' R2"
+    },
+    "PT": {
+      "commutator": "[S , R' F R]",
+      "algorithm": "S R' F R S' R' F' R",
+      "setup": "R L F R2 F R L F2 R2 D F2 D2 R2 F2 R2 D L2"
+    },
+    "KT": {
+      "commutator": "[M U : [M' , U2']]",
+      "algorithm": "M U M' U2' M U2' U' M'",
+      "setup": "R L' B' U2 B' R L B2 R2 U' L2 F2 L2 F2 U"
+    },
+    "LT": {
+      "commutator": "[M L' U : [M' , U2']]",
+      "algorithm": "M L' U M' U2' M U2' U' L M'",
+      "setup": "U2 R B2 R D F' D F L' U' L2 U B2 D' R2 U2 L2 F2 L2"
+    },
+    "ØT": {
+      "commutator": "[L F' L : [S' , L2']]",
+      "algorithm": "L F' L S' L2' S L2' L' F L'",
+      "setup": "R L B' U2 B' R L B2 R2 U' L2 F2 L2 F2 U L2"
+    },
+    "IT": {
+      "commutator": "[R F : [R2' , E']]",
+      "algorithm": "R F R2' E' R2' E F' R'",
+      "setup": "R U' D B' U' B' U D' R U F2 U L2 B2 R2 D B2 L2"
+    },
+    "HT": {
+      "commutator": "[R U : [R' S' R , U]]",
+      "algorithm": "R U R' S' R U R' S R U' U' R'",
+      "setup": "U F U2 F U L' U L F' U' R2 D B2 U' B2 R2 D'"
+    },
+    "GT": {
+      "commutator": "[r : [U R' U' , M']]",
+      "algorithm": "r U R' U' M' U R U' M r'",
+      "setup": "U R L' F L2 F' R L B2 L2 U' B2 R2 F2 L2 U' D'"
+    },
+    "ET": {
+      "commutator": "[M' : [L' S L , U]]",
+      "algorithm": "M' L' S L U L' S' L U' M",
+      "setup": "R' U F L F2 L' U' F' R' U' F2 L2 B2 D' R2 B2 L2 F2 R2"
+    },
+    "CT": {
+      "commutator": "[S' : [L' E L , U]]",
+      "algorithm": "S' L' E L U L' E' L U' S",
+      "setup": "R U2 R U F' U F R U' D B2 U' L2 U L2 D' B2 R2"
+    },
+    "NT": {
+      "commutator": "[r U' R' : [S , R2]]",
+      "algorithm": "r U' R' S R2 S' R2 R U r'",
+      "setup": "R' L F R2 F' R L B2 U' L2 F2 R2 D' F2 U R2 U'"
+    },
+    "MT": {
+      "commutator": "[S' : [L E' L' , U]]",
+      "algorithm": "S' L E' L' U L E L' U' S",
+      "setup": "F U R U2 F U F' R U2 F2 L2 B2 D2 R2 D' B2 R2 L2"
+    },
+    "ST": {
+      "commutator": "[r : [U R' U' , M]]",
+      "algorithm": "r U R' U' M U R U' M' r'",
+      "setup": "F U F' R' F2 U' F' U R L2 F2 R2 D' L2 B2 L2 D R2 L2"
+    },
+    "OT": {
+      "commutator": "[M' : [R E' R' , U]]",
+      "algorithm": "M' R E' R' U R E R' U' M",
+      "setup": "U' B U2 B U R' U R B' D' B2 D L2 U' L2 B2 U"
+    },
+    "RT": {
+      "commutator": "M2' U M U M' U M U M' M2",
+      "algorithm": "M2' U M U M' U M U M' M2",
+      "setup": "U R L F' D2 F' R' L D B2 R2 F2 L2 U' R2 B2 U'"
+    },
+    "QT": {
+      "commutator": "[R u' R' : [E' , R2]]",
+      "algorithm": "R u' R' E' R2 E R2 R u R'",
+      "setup": "U L' F' D' R2 U2 D' B R U' R2 U R2 B2 R2 U D2 L2 B2"
+    },
+    "BT": {
+      "commutator": "[R F : [E , R2']]",
+      "algorithm": "R F E R2' E' R2' F' R'",
+      "setup": "R L F R2 F' R L B2 R2 D' B2 L2 F2 R2 U' R2"
+    },
+    "JT": {
+      "commutator": "[S' , R' F R]",
+      "algorithm": "S' R' F R S R' F' R",
+      "setup": "R L F R2 F R L' U R2 F2 R2 U2 F2 U R2 F2"
+    },
+    "VT": {
+      "commutator": "[r : [U R' U' , M2']]",
+      "algorithm": "r U R' U' M2' U R U' M2' r'",
+      "setup": "R L F R2 F R' L D' R2 F2 L2 B2 U R2 B2"
+    },
+    "UT": {
+      "commutator": "[R2' : [S' , R F R']]",
+      "algorithm": "R2' S' R F R' S R F' R' R2'",
+      "setup": "R L F R2 F' R L' U F2 B2 L2 F2 B2 U' R2"
+    },
+    "FC": {
+      "commutator": "[U : [L' E L , U2']]",
+      "algorithm": "U L' E L U2' L' E' L U2' U'",
+      "setup": "F U2 R2 U2 F U' D' R2 B2 U' D' L2 B2 R2"
+    },
+    "DC": {
+      "commutator": "[U : [L' E L , U]]",
+      "algorithm": "U L' E L U L' E' L U' U'",
+      "setup": "F D2 R2 D2 F U2 R2 U' L2 U R2 L2 U' F2 U'"
+    },
+    "PC": {
+      "commutator": "[U , L' E L]",
+      "algorithm": "U L' E L U' L' E' L",
+      "setup": "F U2 R2 U2 F U2 L2 U R2 U' R2 L2 U F2 U"
+    },
+    "KC": {
+      "commutator": "[L' F' : [E , L2]]",
+      "algorithm": "L' F' E L2 E' L2 F L",
+      "setup": "R F' U F' U2 R' F U' R' B2 U' F2 U2 B2 D' R2 U F2 D"
+    },
+    "LC": {
+      "commutator": "[r U R' : [E , R2]]",
+      "algorithm": "r U R' E R2 E' R2 R U' r'",
+      "setup": "U2 F R2 U2 R2 F U2 F2 U2 R2 U2 R2 U2 R2 F2 R2"
+    },
+    "ØC": {
+      "commutator": "[L F' : [E , L2']]",
+      "algorithm": "L F' E L2' E' L2' F L'",
+      "setup": "F U2 R F2 U2 B2 L' D2 F U' D' F2 U D B2"
+    },
+    "IC": {
+      "commutator": "[u' L : [S' , L2']]",
+      "algorithm": "u' L S' L2' S L2' L' u",
+      "setup": "F' U2 R2 D2 B U D' R2 L2 D2 F2 U D B2"
+    },
+    "HC": {
+      "commutator": "[R U' R' , E']",
+      "algorithm": "R U' R' E' R U R' E",
+      "setup": "F R2 F' U D' R U2 R F2 R2 U2 R2 F2 R2 U D"
+    },
+    "GC": {
+      "commutator": "[M' : [U R' U' , M']]",
+      "algorithm": "M' U R' U' M' U R U' M M",
+      "setup": "U2 R D' F' D2 F R' L2 B U B2 U' L2 U2"
+    },
+    "EC": {
+      "commutator": "[L' : [U , L' E L]]",
+      "algorithm": "L' U L' E L U' L' E' L L",
+      "setup": "F R2 F U D' R' D2 R U' D R2 F2 U2 B2 L2 B2 U2"
+    },
+    "TC": {
+      "commutator": "[S' : [U , L' E L]]",
+      "algorithm": "S' U L' E L U' L' E' L S",
+      "setup": "U2 F' L2 F' D' R D' R' B U B2 U' L2 D F2 U2 B2 R2 B2"
+    },
+    "NC": {
+      "commutator": "[U' S U , R]",
+      "algorithm": "U' S U R U' S' U R'",
+      "setup": "R U' F' U2 R' U' R F R2 U2 F2 R2 F2 U2 F2 R2 F2 U"
+    },
+    "MC": {
+      "commutator": "[M' U' R' : [S , R2]]",
+      "algorithm": "M' U' R' S R2 S' R2 R U M",
+      "setup": "U2 F' R2 U2 R2 F U2 F2 U F2 R2 L2 B2 D B2 L2"
+    },
+    "SC": {
+      "commutator": "[M' , U R' U']",
+      "algorithm": "M' U R' U' M U R U'",
+      "setup": "U R F2 B L' U2 L U B U2 D2 F2 B2 U B2 D' B2 D'"
+    },
+    "OC": {
+      "commutator": "[L U L' , E]",
+      "algorithm": "L U L' E L U' L' E'",
+      "setup": "F R2 F U' D R' B2 R U D' F2"
+    },
+    "RC": {
+      "commutator": "[U M : [R' S' R , U']]",
+      "algorithm": "U M R' S' R U' R' S R U M' U'",
+      "setup": "R F' D F D2 R D F R2 L2 B2 U' R2 U2 B2 L2 F2 D2"
+    },
+    "BC": {
+      "commutator": "[r U' : [R2' , S]]",
+      "algorithm": "r U' R2' S R2' S' U r'",
+      "setup": "F U2 R2 U2 F U' D' F2 U D"
+    },
+    "JC": {
+      "commutator": "[u' R' : [E' , R2]]",
+      "algorithm": "u' R' E' R2 E R2 R u",
+      "setup": "B U F2 R2 F2 U F B U2 F' B2"
+    },
+    "VC": {
+      "commutator": "[M' : [U R' U' , M2']]",
+      "algorithm": "M' U R' U' M2' U R U' M2' M",
+      "setup": "F U2 R2 U2 F L2 B2 R2 U D B2 L2 U D"
+    },
+    "UC": {
+      "commutator": "[u L' : [E' , L2]]",
+      "algorithm": "u L' E' L2 E L2 L u'",
+      "setup": "D F U2 R2 U2 F U' D' F2 U"
+    },
+    "FN": {
+      "commutator": "[U' : [R E R' , U2]]",
+      "algorithm": "U' R E R' U2 R E' R' U2 U",
+      "setup": "R' L F R2 F R L B2 R2 D B2 L2 F2 R2 U'"
+    },
+    "DN": {
+      "commutator": "[U' , R E R']",
+      "algorithm": "U' R E R' U R E' R'",
+      "setup": "R' L F R2 F R L' U R2 F2 R2 U2 F2 U R2 F2 R2"
+    },
+    "PN": {
+      "commutator": "[U' : [R E R' , U']]",
+      "algorithm": "U' R E R' U' R E' R' U U",
+      "setup": "R' L F R2 F' R' L D F2 R2 F2 R2 F2 D' R2 L2"
+    },
+    "KN": {
+      "commutator": "[R' F R : [S , R2']]",
+      "algorithm": "R' F R S R2' S' R2' R' F' R",
+      "setup": "R F R' F2 L F' L B2 U B2 U' L2 B2 D' B2 D F2"
+    },
+    "LN": {
+      "commutator": "[M' U R' : [E , R2]]",
+      "algorithm": "M' U R' E R2 E' R2 R U' M",
+      "setup": "F D' R' D2 F' D' F R F2 U2 R2 F2 L2 D2 R2 B2 L2 D"
+    },
+    "ØN": {
+      "commutator": "[R' F R' : [S' , R2]]",
+      "algorithm": "R' F R' S' R2 S R2 R F' R",
+      "setup": "R' L B' U2 B' R L B2 L2 D' L2 B2 L2 B2 D"
+    },
+    "IN": {
+      "commutator": "[R' F : [R2 , E']]",
+      "algorithm": "R' F R2 E' R2 E F' R",
+      "setup": "U B' U' L' U2 L F2 B' R D R2 D' F2 B2 U'"
+    },
+    "HN": {
+      "commutator": "[R' f R' : [S' , R2]]",
+      "algorithm": "R' f R' S' R2 S R2 R f' R",
+      "setup": "R U' R' D' B2 D' F D F' B2 D F2 L2 D L2 F2 R2 U2 R2"
+    },
+    "GN": {
+      "commutator": "[U' : [S' , R' F' R]]",
+      "algorithm": "U' S' R' F' R S R' F R U",
+      "setup": "U R L' F L2 F' R L' U F2 L2 F2 L2 F2 U' R2 L2 U'"
+    },
+    "EN": {
+      "commutator": "[R E2 : [R' U' R , E']]",
+      "algorithm": "R E2 R' U' R E' R' U R E E2 R'",
+      "setup": "U L' F2 B R' D2 R D B U2 D2 F2 B2 U' D2 L2 U2"
+    },
+    "TN": {
+      "commutator": "[r U' R : [S , R2']]",
+      "algorithm": "r U' R S R2' S' R2' R' U r'",
+      "setup": "R L F R2 F' R L' U R2 F2 L2 B2 D B2 L2 F2 R2"
+    },
+    "CN": {
+      "commutator": "[R , U' S U]",
+      "algorithm": "R U' S U R' U' S' U",
+      "setup": "U B U' L' U2 L F2 B' R D R2 D' F2 U'"
+    },
+    "MN": {
+      "commutator": "[R' , U' S U]",
+      "algorithm": "R' U' S U R U' S' U",
+      "setup": "R F R F' D F R2 F L2 F2 B2 U B2 U' F2 U L2 F2"
+    },
+    "SN": {
+      "commutator": "[r : [U R U' , M]]",
+      "algorithm": "r U R U' M U R' U' M' r'",
+      "setup": "F U F' R' F2 U' F' U R' L2 D2 R2 D R2 B2 R2 D L2 F2"
+    },
+    "ON": {
+      "commutator": "[R' E2 : [R U' R' , E]]",
+      "algorithm": "R' E2 R U' R' E R U R' E' E2 R",
+      "setup": "U L F' D' F D' R' B2 R' U2 L2 F2 L2 U2 R2 D B2 U' L2"
+    },
+    "RN": {
+      "commutator": "[U' r' : [E' , R U R']]",
+      "algorithm": "U' r' E' R U R' E R U' R' r U",
+      "setup": "U R L F' D2 F R L' U' R2 L2 B2 R2 L2 U R2 U'"
+    },
+    "QN": {
+      "commutator": "[S U L' : [E , L2]]",
+      "algorithm": "S U L' E L2 E' L2 L U' S'",
+      "setup": "R U' F2 U2 L' B' U B' L U2 D L2 U' F2 U F2 D2 L2 F2"
+    },
+    "BN": {
+      "commutator": "[R' F : [E , R2]]",
+      "algorithm": "R' F E R2 E' R2 F' R",
+      "setup": "R' L F R2 F' R L B2 R2 D' B2 L2 F2 R2 U'"
+    },
+    "VN": {
+      "commutator": "[U' : [R' B R , S]]",
+      "algorithm": "U' R' B R S R' B' R S' U",
+      "setup": "R' L F R2 F R' L D' R2 F2 L2 B2 U R2 B2 R2"
+    },
+    "UN": {
+      "commutator": "[S' , R F R']",
+      "algorithm": "S' R F R' S R F' R'",
+      "setup": "R' L F R2 F' R L' U F2 B2 L2 F2 B2 U'"
+    },
+    "FM": {
+      "commutator": "[U : [L E' L' , U2']]",
+      "algorithm": "U L E' L' U2' L E L' U2' U'",
+      "setup": "U2 F' R2 U2 R2 F' U' D' R2 B2 U D R2 F2 L2 D2"
+    },
+    "DM": {
+      "commutator": "[U : [L E' L' , U]]",
+      "algorithm": "U L E' L' U L E L' U' U'",
+      "setup": "U2 F' R2 D2 L2 B' D R2 U2 F2 R2 D2 L2 B2 D' R2"
+    },
+    "PM": {
+      "commutator": "[U , L E' L']",
+      "algorithm": "U L E' L' U' L E L'",
+      "setup": "U2 F' L2 D2 R2 B' D F2 R2 D2 R2 F2 D2 R2 D' L2"
+    },
+    "KM": {
+      "commutator": "[R M U : [M' , U2]]",
+      "algorithm": "R M U M' U2 M U2 U' M' R'",
+      "setup": "F U2 F U L' U L F U' D R2 U' B2 U B2 D' R2 F2"
+    },
+    "LM": {
+      "commutator": "[U E R' : [S , R2]]",
+      "algorithm": "U E R' S R2 S' R2 R E' U'",
+      "setup": "U2 F R2 U2 R2 F R2 U2 F2 R2 U2 R2 F2 R2"
+    },
+    "ØM": {
+      "commutator": "[M' U' L' : [E' , L2]]",
+      "algorithm": "M' U' L' E' L2 E L2 L U M",
+      "setup": "F U B L' F L B' U' F' R2 D R2 D B2 L2 U' L2 B2 D2"
+    },
+    "IM": {
+      "commutator": "[l' U' L' : [E' , L2]]",
+      "algorithm": "l' U' L' E' L2 E L2 L U l",
+      "setup": "F' U2 R2 D2 B D2 R2 U2 F2"
+    },
+    "GM": {
+      "commutator": "[M' : [U R U' , M']]",
+      "algorithm": "M' U R U' M' U R' U' M M",
+      "setup": "R' D F L2 F' R L2 F R2 B2 D' R2 F2 L2 U2 F2 U L2"
+    },
+    "EM": {
+      "commutator": "[L' U L , E']",
+      "algorithm": "L' U L E' L' U' L E",
+      "setup": "F L F R L' U' R' F U' R2 B2 L2 D L2 B2 R2 U2 F2"
+    },
+    "TM": {
+      "commutator": "[S' : [U , L E' L']]",
+      "algorithm": "S' U L E' L' U' L E L' S",
+      "setup": "R' U' F' U2 R' U' R F' U2 R2 B2 L2 D2 F2 D L2 F2 B2"
+    },
+    "CM": {
+      "commutator": "[M' U' R : [S , R2']]",
+      "algorithm": "M' U' R S R2' S' R2' R' U M",
+      "setup": "F U2 L2 D2 B D2 L2 U2"
+    },
+    "NM": {
+      "commutator": "[U' S U , R']",
+      "algorithm": "U' S U R' U' S' U R",
+      "setup": "F R F R' U R F2 R B2 R2 L2 D L2 D' R2 D B2 R2"
+    },
+    "SM": {
+      "commutator": "[M' , U R U']",
+      "algorithm": "M' U R U' M U R' U'",
+      "setup": "U R' F' U' F U' R' U2 R B2 U B2 U' B2 D B2 D'"
+    },
+    "OM": {
+      "commutator": "[L2 : [L' U L , E']]",
+      "algorithm": "L2 L' U L E' L' U' L E L2",
+      "setup": "L F L U D' B' L' B U' D L2"
+    },
+    "RM": {
+      "commutator": "[U l : [E' , L' U' L]]",
+      "algorithm": "U l E' L' U' L E L' U L l' U'",
+      "setup": "R' F' D F D2 R D F' D' R2 F2 R2 U2 L2 B2 L2 U2 F2"
+    },
+    "QM": {
+      "commutator": "[R' U' R , E]",
+      "algorithm": "R' U' R E R' U R E'",
+      "setup": "L F L U' D F' R' F U D' L2"
+    },
+    "BM": {
+      "commutator": "[U' L F : [L' S' L , F]]",
+      "algorithm": "U' L F L' S' L F L' S L F' F' L' U",
+      "setup": "U2 F' R2 U2 R2 F U' D R2 B2 L2 F2 U D L2 B2"
+    },
+    "JM": {
+      "commutator": "[U' E' R : [E , R2']]",
+      "algorithm": "U' E' R E R2' E' R2' R' E U",
+      "setup": "U2 F' L2 D2 R2 B' D R2 D2 F2 R2 D2 R2 F2 D' L2"
+    },
+    "VM": {
+      "commutator": "[M' : [U R U' , M2']]",
+      "algorithm": "M' U R U' M2' U R' U' M2' M",
+      "setup": "U2 F' R2 U2 R2 F U' D F2 B2 L2 F2 B2 U' D' R2"
+    },
+    "UM": {
+      "commutator": "[U E L : [E , L2']]",
+      "algorithm": "U E L E L2' E' L2' L' E' U'",
+      "setup": "U2 F' R2 D2 L2 B' D F2 R2 U2 L2 B2 U2 R2 D' R2"
+    },
+    "DS": {
+      "commutator": "[r' : [U' R U , M']]",
+      "algorithm": "r' U' R U M' U' R' U M r",
+      "setup": "F U' D L F2 L' U D' F U L2 F2 L2 U' F2 L2"
+    },
+    "PS": {
+      "commutator": "[L : [M , U L' U']]",
+      "algorithm": "L M U L' U' M' U L U' L'",
+      "setup": "F U F' R' F2 U' F' U R U R2 B2 L2 D L2 B2 R2 U2"
+    },
+    "KS": {
+      "commutator": "[L' : [U' L U , M']]",
+      "algorithm": "L' U' L U M' U' L' U M L",
+      "setup": "R L' F' L2 F R L U D' B2 U' B2 D R2 L2"
+    },
+    "LS": {
+      "commutator": "[U' L' U , M']",
+      "algorithm": "U' L' U M' U' L U M",
+      "setup": "F' R2 L' B U2 B' U' L U' D B2 U' B2 U R2 U D'"
+    },
+    "ØS": {
+      "commutator": "[L' : [U' L' U , M']]",
+      "algorithm": "L' U' L' U M' U' L U M L",
+      "setup": "R L F' L2 F R L U D' B2 U' B2 D R2"
+    },
+    "IS": {
+      "commutator": "[U' L U , M']",
+      "algorithm": "U' L U M' U' L' U M",
+      "setup": "U2 B R2 L F' U2 F U L U2 D2 R2 L2 D F2 D' F2 D2"
+    },
+    "HS": {
+      "commutator": "[M , U' R U]",
+      "algorithm": "M U' R U M' U' R' U",
+      "setup": "U' R' F' U' F U' R' U2 R B2 U B2 D' R2 D R2 U"
+    },
+    "GS": {
+      "commutator": "[U' : [S , R' F' R]]",
+      "algorithm": "U' S R' F' R S' R' F R U",
+      "setup": "U R L' F L2 F' R' L D F2 B2 R2 F2 B2 U' D'"
+    },
+    "ES": {
+      "commutator": "[M , U L' U']",
+      "algorithm": "M U L' U' M' U L U'",
+      "setup": "U L F U F' U L U2 L' B2 U' B2 D L2 D' L2 U'"
+    },
+    "TS": {
+      "commutator": "[R : [U R' U' , M']]",
+      "algorithm": "R U R' U' M' U R U' M R'",
+      "setup": "R L F R2 F R L' U' R2 U2 B2 L2 F2 D' L2 B2"
+    },
+    "CS": {
+      "commutator": "[U R' U' , M']",
+      "algorithm": "U R' U' M' U R U' M",
+      "setup": "U2 B' R' U' R U' F' L2 F L2 B2 U2 B2 D' L2 D F2 U' F2"
+    },
+    "NS": {
+      "commutator": "[R : [U R U' , M']]",
+      "algorithm": "R U R U' M' U R' U' M R'",
+      "setup": "R' L F R2 F R L U2 L2 F2 L2 U2 L2 F2 U' R2 U'"
+    },
+    "MS": {
+      "commutator": "[U R U' , M']",
+      "algorithm": "U R U' M' U R' U' M",
+      "setup": "F R U R' U F U2 F U D' L2 B2 U' B2 D L2 U' F2"
+    },
+    "OS": {
+      "commutator": "[M , U L U']",
+      "algorithm": "M U L U' M' U L' U'",
+      "setup": "U L' F2 B' R U2 R' U' B U' D R2 U' R2 U F2 D'"
+    },
+    "RS": {
+      "commutator": "[U' : [S , R B R']]",
+      "algorithm": "U' S R B R' S' R B' R' U",
+      "setup": "U R L F' D2 F R L B2 L2 U R2 U' L2 B2 R2 L2 U'"
+    },
+    "QS": {
+      "commutator": "[M , U' R' U]",
+      "algorithm": "M U' R' U M' U' R U",
+      "setup": "U' R F2 B L' U2 L U B U2 D2 F2 B2 U B2 D' B2 U2 D'"
+    },
+    "BS": {
+      "commutator": "[U : [R' F' R , S]]",
+      "algorithm": "U R' F' R S R' F R S' U'",
+      "setup": "F U' D R U2 R' U D' F U2 R2 F2 R2 U2 R2 F2 R2 U2 F2"
+    },
+    "JS": {
+      "commutator": "[r' : [U' R' U , M']]",
+      "algorithm": "r' U' R' U M' U' R U M r",
+      "setup": "F U' D L F2 L' U D' F B2 L2 F2 D' L2 F2 L2 D B2"
+    },
+    "VS": {
+      "commutator": "[U : [R B R' , S]]",
+      "algorithm": "U R B R' S R B' R' S' U'",
+      "setup": "R F D B2 R D2 F U' L F2 D R2 D F2 B2 U2 B2 D F2"
+    },
+    "US": {
+      "commutator": "[l : [U L U' , M']]",
+      "algorithm": "l U L U' M' U L' U' M l'",
+      "setup": "F U' D L F2 L' U D' F U' L2 F2 L2 U F2 L2"
+    },
+    "FO": {
+      "commutator": "[L' U' : [L2 , S']]",
+      "algorithm": "L' U' L2 S' L2 S U L",
+      "setup": "U' R U2 F2 D2 L B2 D2 F2 U"
+    },
+    "DO": {
+      "commutator": "[U' , R' E2 R]",
+      "algorithm": "U' R' E2 R U R' E2 R",
+      "setup": "U' R U2 B2 U2 R D2 B2 U D2 F2 U F2 B2 U' R2"
+    },
+    "PO": {
+      "commutator": "[U' : [R E2 R' , U']]",
+      "algorithm": "U' R E2 R' U' R E2 R' U U",
+      "setup": "U' R' U2 F2 U2 R U2 F2 U' F2 B2 U' F2 U F2 B2"
+    },
+    "KO": {
+      "commutator": "[U' R F : [R2' , E']]",
+      "algorithm": "U' R F R2' E' R2' E F' R' U",
+      "setup": "F' U L B L2 B' U' L' F' U' R2 B2 L2 D' F2 L2 F2 R2 B2"
+    },
+    "LO": {
+      "commutator": "[E' , L U L']",
+      "algorithm": "E' L U L' E L U' L'",
+      "setup": "L U L U D' B' U' B U' D L2"
+    },
+    "ØO": {
+      "commutator": "[S' U' R' : [E' , R2]]",
+      "algorithm": "S' U' R' E' R2 E R2 R U S",
+      "setup": "U' B R' D R D2 B D R F2 B2 L2 U' B2 D2 R2 B2 L2 U'"
+    },
+    "HO": {
+      "commutator": "[R' U' R' : [E' , R2]]",
+      "algorithm": "R' U' R' E' R2 E R2 R U R",
+      "setup": "U R F2 U2 F2 R B2 U D F2 R2 U2 L2 B2 L2 D"
+    },
+    "GO": {
+      "commutator": "[U L U' , M']",
+      "algorithm": "U L U' M' U L' U' M",
+      "setup": "U' R F U2 D' R2 D' B' L' U F2 L2 U D2 R2 F2 R2 U R2"
+    },
+    "EO": {
+      "commutator": "[U' L : [S' , L2']]",
+      "algorithm": "U' L S' L2' S L2' L' U",
+      "setup": "U' R' U2 F2 U2 R' F2 D2 L2 B2 U' D' R2 B2 R2 D'"
+    },
+    "TO": {
+      "commutator": "[M' : [U , R E' R']]",
+      "algorithm": "M' U R E' R' U' R E R' M",
+      "setup": "U L' U2 L' U' F U' F' L D L2 D' B2 U B2 L2 U'"
+    },
+    "CO": {
+      "commutator": "[E , L U L']",
+      "algorithm": "E L U L' E' L U' L'",
+      "setup": "L U L' U D' B U' B U B2 U' D L2 U' L2"
+    },
+    "NO": {
+      "commutator": "[R' E' : [R U' R' , E']]",
+      "algorithm": "R' E' R U' R' E' R U R' E E R",
+      "setup": "U B D' R' D2 R F2 B' L U L2 U' F2 U'"
+    },
+    "MO": {
+      "commutator": "[L2 : [E' , L' U L]]",
+      "algorithm": "L2 E' L' U L E L' U' L L2",
+      "setup": "L U L U' D F' U' F U D' L2"
+    },
+    "SO": {
+      "commutator": "[U L U' , M]",
+      "algorithm": "U L U' M U L' U' M'",
+      "setup": "B R2 L F' U2 F U L U2 D2 R2 L2 U2 D' B2 D' B2"
+    },
+    "RO": {
+      "commutator": "[U2 : [U' L U , M]]",
+      "algorithm": "U2 U' L U M U' L' U M' U2",
+      "setup": "B R' U' R U' B' U2 B L2 U L2 D' B2 D"
+    },
+    "QO": {
+      "commutator": "[R U' R' : [E' , R2]]",
+      "algorithm": "R U' R' E' R2 E R2 R U R'",
+      "setup": "U R' F2 D2 B2 L U D L2 U2 F2 U2 D"
+    },
+    "BO": {
+      "commutator": "[U' L U : [M' , U2']]",
+      "algorithm": "U' L U M' U2' M U2' U' L' U",
+      "setup": "U' L B2 U2 B2 L F2 R2 B2 U' F2 L2 B2 U L2 D'"
+    },
+    "JO": {
+      "commutator": "[U' R' : [E' , R2]]",
+      "algorithm": "U' R' E' R2 E R2 R U",
+      "setup": "U' R U2 F2 D2 L F2 U2 R2 B2 U2 F2 L2 F2 U'"
+    },
+    "VO": {
+      "commutator": "[U L U' , M2']",
+      "algorithm": "U L U' M2' U L' U' M2'",
+      "setup": "L' U' F2 B2 D R L2 U L2 D' F2 B2 U R2 D' R2"
+    },
+    "UO": {
+      "commutator": "L U' L' U' L' U' L U L U",
+      "algorithm": "L U' L' U' L' U' L U L U",
+      "setup": "U' R U2 F2 D2 L U2 D2 R2 B2 U2 F2 L2 U' D2"
+    },
+    "FR": {
+      "commutator": "[U' R' B R : [S , R2']]",
+      "algorithm": "U' R' B R S R2' S' R2' R' B' R U",
+      "setup": "U R' L F' D2 F R L' U' R2 F2 R2 U2 R2 F2 R2 U2 F2"
+    },
+    "DR": {
+      "commutator": "(U M U M')2",
+      "algorithm": "U M U M' U M U M'",
+      "setup": "U R L F' D2 F R L' U' F2 U B2 L2 D L2 B2 R2"
+    },
+    "PR": {
+      "commutator": "(U' M U' M')2",
+      "algorithm": "U' M U' M' U' M U' M'",
+      "setup": "U R L F' D2 F R L U' D B2 D' L2 D F2 D'"
+    },
+    "KR": {
+      "commutator": "[R' F R U: [M, U2]]",
+      "algorithm": "R' F R U M U2 M' U2 U' R' F' R",
+      "setup": "R L' F' L2 F R' L D' F2 U2 B2 R2 B2 U2 F2 D"
+    },
+    "LR": {
+      "commutator": "[U' r' : [R U R' , E]]",
+      "algorithm": "U' r' R U R' E R U' R' E' r U",
+      "setup": "F R' D' R D' F' D2 F L2 D L2 U' F2 U"
+    },
+    "ØR": {
+      "commutator": "[U l : [L' U' L , E]]",
+      "algorithm": "U l L' U' L E L' U L E' l' U'",
+      "setup": "R L F' L2 F R L' U2 R2 L2 D L2 D' R2 L2 U2 R2"
+    },
+    "IR": {
+      "commutator": "[U' M : [U , L S L']]",
+      "algorithm": "U' M U L S L' U' L S' L' M' U",
+      "setup": "R L F' L F' R' L D L' D F2 L2 U2 R2 B2 R2 U2"
+    },
+    "HR": {
+      "commutator": "[U2 : [M , U R U']]",
+      "algorithm": "U2 M U R U' M' U R' U' U2",
+      "setup": "R U F U2 F' R L2 B U' D L2 D' L2 U R2 L2"
+    },
+    "GR": {
+      "commutator": "U M' U' M U2 M U M' U",
+      "algorithm": "U M' U' M U2 M U M' U",
+      "setup": "U R L' F L2 F R L B2 L2 U B2 R2 F2 L2 U' D'"
+    },
+    "ER": {
+      "commutator": "[U' R' B : [E , R2]]",
+      "algorithm": "U' R' B E R2 E' R2 B' R U",
+      "setup": "L' U' F' U2 F R2 L' B D B2 D' R2 L2"
+    },
+    "TR": {
+      "commutator": "M' U' M' U' M U' M' U' M2",
+      "algorithm": "M' U' M' U' M U' M' U' M2",
+      "setup": "R L F R2 F R L B2 L2 U' F2 L2 B2 D2 R2 D' L2"
+    },
+    "CR": {
+      "commutator": "[U M : [U' , l' E l]]",
+      "algorithm": "U M U' l' E l U l' E' l M' U'",
+      "setup": "R F' L F' D' F L' F R' U2 F2 U' F2 U' F2 U2 F2 U"
+    },
+    "NR": {
+      "commutator": "[U' r' : [R U R' , E']]",
+      "algorithm": "U' r' R U R' E' R U' R' E r U",
+      "setup": "R' L F R2 F' R L U B2 L2 F2 D R2 F2 U R2 U'"
+    },
+    "MR": {
+      "commutator": "[U l : [L' U' L , E']]",
+      "algorithm": "U l L' U' L E' L' U L E l' U'",
+      "setup": "F' R2 L B' D2 B D L U2 D2 R2 L2 U' D2 F2 U'"
+    },
+    "SR": {
+      "commutator": "[U' : [R B R' , S]]",
+      "algorithm": "U' R B R' S R B' R' S' U",
+      "setup": "F U F' R' F2 U' F' U R' L2 D' R2 F2 L2 U2 R2 B2 R2 U"
+    },
+    "OR": {
+      "commutator": "[U2' : [M , U' L U]]",
+      "algorithm": "U2' M U' L U M' U' L' U U2'",
+      "setup": "L U' F' U2 F R2 L' B D B2 D' R2"
+    },
+    "QR": {
+      "commutator": "[U2 : [M , U R' U']]",
+      "algorithm": "U2 M U R' U' M' U R U' U2",
+      "setup": "R' U F U2 F' R L2 B U' D L2 D' L2 U L2"
+    },
+    "BR": {
+      "commutator": "[D' : [S' , R F R']]",
+      "algorithm": "D' S' R F R' S R F' R' D",
+      "setup": "U R L F' D2 F R L U' D F2 U' R2 U B2 D'"
+    },
+    "JR": {
+      "commutator": "[U L B' L : [S , L2']]",
+      "algorithm": "U L B' L S L2' S' L2' L' B L' U'",
+      "setup": "U R L F' D2 F' R L F2 R2 D' L2 B2 L2 B2 D L2 U'"
+    },
+    "UR": {
+      "commutator": "[U' R' B R' : [S' , R2]]",
+      "algorithm": "U' R' B R' S' R2 S R2 R B' R U",
+      "setup": "U R' L F' D2 F R L' F2 R2 B2 D L2 B2 R2 F2"
+    },
+    "FY": {
+      "commutator": "[R U : [R2' , S]]",
+      "algorithm": "R U R2' S R2' S' U' R'",
+      "setup": "U R' F2 U2 F2 R F2 R2 F2 D2 B2 L2 U' D' B2 D'"
+    },
+    "DY": {
+      "commutator": "[u' : [R E' R' , U]]",
+      "algorithm": "u' R E' R' U R E R' U' u",
+      "setup": "U L' U2 B2 U2 L' U2 F2 U' B2 U F2 B2 U' L2 U2"
+    },
+    "PY": {
+      "commutator": "[U , L E2' L']",
+      "algorithm": "U L E2' L' U' L E2' L'",
+      "setup": "U L' U2 B2 U2 L' D2 B2 U' D2 F2 U' F2 B2 U L2"
+    },
+    "KY": {
+      "commutator": "[M' : [U' , L' E L]]",
+      "algorithm": "M' U' L' E L U L' E' L M",
+      "setup": "U' R U2 R U F' U F R' D' R2 D B2 U' B2 R2 U"
+    },
+    "LY": {
+      "commutator": "[R2' : [E , R U' R']]",
+      "algorithm": "R2' E R U' R' E' R U R' R2'",
+      "setup": "R' U' R' U D' F U F U F2 U' D R2 U'"
+    },
+    "ØY": {
+      "commutator": "[L : [E', R' U' R]]",
+      "algorithm": "L E' R' U' R E R' U R L'",
+      "setup": "U' B' D L D2 L' F2 B R U D' F2 U' F2 D F2 U"
+    },
+    "IY": {
+      "commutator": "[E' , R' U' R]",
+      "algorithm": "E' R' U' R E R' U R",
+      "setup": "R' U' R U' D B' U B U D'"
+    },
+    "HY": {
+      "commutator": "[U R' : [S , R2]]",
+      "algorithm": "U R' S R2 S' R2 R U'",
+      "setup": "U R F2 U2 F2 R F2 U2 R2 F2 U2 F2 R2 F2 U"
+    },
+    "GY": {
+      "commutator": "[U' R' U , M']",
+      "algorithm": "U' R' U M' U' R U M",
+      "setup": "U L' F' U2 D L2 D B R U' R2 U R2 B2 R2 U D2 L2 B2"
+    },
+    "EY": {
+      "commutator": "[R U' R' : [E , R2]]",
+      "algorithm": "R U' R' E R2 E' R2 R U R'",
+      "setup": "U' R' U2 F2 U2 R' F2 U D F2 L2 D2 L2 F2 R2 D'"
+    },
+    "TY": {
+      "commutator": "[U L' F' : [L2 , E]]",
+      "algorithm": "U L' F' L2 E L2 E' F L U'",
+      "setup": "R' U B2 D2 R F R' F L' F2 U D2 L2 U' L2 B2 U'"
+    },
+    "NY": {
+      "commutator": "[S U L : [E , L2']]",
+      "algorithm": "S U L E L2' E' L2' L' U' S'",
+      "setup": "U B' D' R' D2 R F2 B' L U L2 U' F2 B2 U'"
+    },
+    "MY": {
+      "commutator": "[E , R' U' R]",
+      "algorithm": "E R' U' R E' R' U R",
+      "setup": "R' U' R U D' F' U F U' D"
+    },
+    "SY": {
+      "commutator": "[U' R' U , M]",
+      "algorithm": "U' R' U M U' R U M'",
+      "setup": "B' R' U' R U' B' U2 B L2 U L2 D' B2 D B2"
+    },
+    "OY": {
+      "commutator": "[R U' R : [E' , R2']]",
+      "algorithm": "R U' R E' R2' E R2' R' U R'",
+      "setup": "U' R U2 F2 D2 L D2 F2 U'"
+    },
+    "RY": {
+      "commutator": "[U2' : [U R' U' , M]]",
+      "algorithm": "U2' U R' U' M U R U' M' U2'",
+      "setup": "B' R2 L F' U2 F U L U2 D2 R2 L2 U2 D' B2 D'"
+    },
+    "BY": {
+      "commutator": "[U R' U' : [M' , U2]]",
+      "algorithm": "U R' U' M' U2 M U2 U R U'",
+      "setup": "U R' B2 U2 B2 R' F2 L2 B2 U F2 R2 B2 U' R2 D"
+    },
+    "JY": {
+      "commutator": "R' U R U R U R' U' R' U'",
+      "algorithm": "R' U R U R U R' U' R' U'",
+      "setup": "U R' F2 U2 F2 R F2 U2 F2 R2 U R2 U2 R2 U2 R2"
+    },
+    "VY": {
+      "commutator": "[U' R' U , M2']",
+      "algorithm": "U' R' U M2' U' R U M2'",
+      "setup": "R D R2 L2 U' R U' R2 B2 L2 D L2 B2 R2 U2 L2"
+    },
+    "UY": {
+      "commutator": "[U L : [E , L2']]",
+      "algorithm": "U L E L2' E' L2' L' U'",
+      "setup": "U R' F2 U2 F2 R F2 B2 L2 F2 B2 U D R2 U2 D'"
+    },
+    "FB": {
+      "commutator": "[U2 , M']",
+      "algorithm": "U2 M' U2 M",
+      "setup": "U2 R2 F2 R2 U2 R2 F2 R2"
+    },
+    "DB": {
+      "commutator": "[L F : [L' S' L , F2']]",
+      "algorithm": "L F L' S' L F2' L' S L F2' F' L'",
+      "setup": "U R2 B2 L2 D L2 B2 R2"
+    },
+    "PB": {
+      "commutator": "[R' F' : [R S R' , F2]]",
+      "algorithm": "R' F' R S R' F2 R S' R' F2 F R",
+      "setup": "U' R2 B2 L2 D' L2 B2 R2"
+    },
+    "KB": {
+      "commutator": "[L' F' : [L2 , E']]",
+      "algorithm": "L' F' L2 E' L2 E F L",
+      "setup": "R L' F L2 F' R L B2 L2 U' B2 R2 F2 L2 D'"
+    },
+    "LB": {
+      "commutator": "[U R' F2 : [R S R' , F]]",
+      "algorithm": "U R' F2 R S R' F R S' R' F' F2 R U'",
+      "setup": "D2 F' R2 U2 L2 B L2 U2 R2 F2 D2"
+    },
+    "ØB": {
+      "commutator": "[L F' : [L2' , E']]",
+      "algorithm": "L F' L2' E' L2' E F L'",
+      "setup": "R L F L2 F' R L B2 R2 D' F2 R2 B2 L2 U' R2"
+    },
+    "IB": {
+      "commutator": "[l' U : [S' , L2]]",
+      "algorithm": "l' U S' L2 S L2 U' l",
+      "setup": "F U2 R2 D2 B U2 L2 F2 R2 D2 R2 F2 D2 R2"
+    },
+    "HB": {
+      "commutator": "[D' U L : [E' , L2']]",
+      "algorithm": "D' U L E' L2' E L2' L' U' D",
+      "setup": "R U' R2 L2 D R U F2 R2 B2 D' R2 L2 U2 L2 F2"
+    },
+    "EB": {
+      "commutator": "[U' D R' : [E , R2]]",
+      "algorithm": "U' D R' E R2 E' R2 R D' U",
+      "setup": "D L B2 D2 B2 L F2 R2 B2 U L2 B2 R2 U' L2 U"
+    },
+    "TB": {
+      "commutator": "[R F : [R2' , E]]",
+      "algorithm": "R F R2' E R2' E' F' R'",
+      "setup": "R L F' R2 F R L B2 R2 D B2 L2 F2 R2 U R2"
+    },
+    "CB": {
+      "commutator": "[r U' : [S , R2']]",
+      "algorithm": "r U' S R2' S' R2' U r'",
+      "setup": "F' U2 R2 U2 F U' D' F2 U D F2"
+    },
+    "NB": {
+      "commutator": "[R' F : [E , R2]]",
+      "algorithm": "R' F E R2 E' R2 F' R",
+      "setup": "R' L F R2 F' R L B2 R2 D' B2 L2 F2 R2 U'"
+    },
+    "MB": {
+      "commutator": "[U' L F2' : [L' S' L , F']]",
+      "algorithm": "U' L F2' L' S' L F' L' S L F F2' L' U",
+      "setup": "R2 F' U2 R2 U2 F U' D' F2 U D F2 R2"
+    },
+    "SB": {
+      "commutator": "[U : [S , R' F' R]]",
+      "algorithm": "U S R' F' R S' R' F R U'",
+      "setup": "U R L F' R2 F R L F2 R2 D F2 D' R2 F2 R2 L2 U'"
+    },
+    "OB": {
+      "commutator": "[D U' R : [E' , R2']]",
+      "algorithm": "D U' R E' R2' E R2' R' U D'",
+      "setup": "D L' B2 D2 B2 L' F2 R2 B2 U L2 B2 R2 U' L2 U"
+    },
+    "RB": {
+      "commutator": "[D' : [R F R' , S']]",
+      "algorithm": "D' R F R' S' R F' R' S D",
+      "setup": "F U D' L D2 L' U' D F U2 R2 F2 L2 U2 L2 F2 R2 U2 F2"
+    },
+    "QB": {
+      "commutator": "[U R' U : [M' , U2]]",
+      "algorithm": "U R' U M' U2 M U2 U' R U'",
+      "setup": "R' U' R2 L2 D R F2 U L2 U R2 L2 D' L2 D' B2"
+    },
+    "JB": {
+      "commutator": "[R' F' : [R S' R' , F2]]",
+      "algorithm": "R' F' R S' R' F2 R S R' F2 F R",
+      "setup": "R2 U R2 B2 L2 D L2 B2"
+    },
+    "VB": {
+      "commutator": "M' U2 M' U2 M2'",
+      "algorithm": "M' U2 M' U2 M2'",
+      "setup": "R2 F2 R2 U2 L2 B2 L2 U2"
+    },
+    "UB": {
+      "commutator": "[L F : [L' S L , F2']]",
+      "algorithm": "L F L' S L F2' L' S' L F2' F' L'",
+      "setup": "R2 B2 L2 U' L2 B2 R2 D'"
+    },
+    "FJ": {
+      "commutator": "[U' : [S , R2']]",
+      "algorithm": "U' S R2' S' R2' U",
+      "setup": "U F2 R2 F2 U2 F2 R2 F2 U"
+    },
+    "DJ": {
+      "commutator": "[R' U R' : [S , R2]]",
+      "algorithm": "R' U R' S R2 S' R2 R U' R",
+      "setup": "F2 U L2 B2 R2 D B2 L2"
+    },
+    "PJ": {
+      "commutator": "U R U R' U' R' U' R' U R",
+      "algorithm": "U R U R' U' R' U' R' U R",
+      "setup": "U2 F2 L2 B2 D' B2 L2 F2 U"
+    },
+    "KJ": {
+      "commutator": "[L2 : [L' F' L , S]]",
+      "algorithm": "L2 L' F' L S L' F L S' L2",
+      "setup": "U R L F' U2 F' R L F2 R2 D' R2 F2 R2 F2 D L2 U'"
+    },
+    "LJ": {
+      "commutator": "[U' E' R : [E' , R2']]",
+      "algorithm": "U' E' R E' R2' E R2' R' E U",
+      "setup": "F U F2 B2 D' F U D' L2 D L2 U' D B2 U'"
+    },
+    "ØJ": {
+      "commutator": "[L' F' L , S]",
+      "algorithm": "L' F' L S L' F L S'",
+      "setup": "R U D' B R2 B' U' D R L2 B2 R2 U' B2 R2 B2 U L2"
+    },
+    "IJ": {
+      "commutator": "[u' R' : [E , R2]]",
+      "algorithm": "u' R' E R2 E' R2 R u",
+      "setup": "D' F U2 R2 D2 B R2 U2 F2 L2 D2 L2 F2 L2 D'"
+    },
+    "HJ": {
+      "commutator": "U R' U' R' U R U R U R' U2",
+      "algorithm": "U R' U' R' U R U R U R' U2",
+      "setup": "F2 R U2 F2 U2 R U D R2 U' F2 L2 B2 U B2 L2"
+    },
+    "GJ": {
+      "commutator": "[U R' F' R' : [S , R2]]",
+      "algorithm": "U R' F' R' S R2 S' R2 R F R U'",
+      "setup": "R' L F' R2 F R L U2 D2 R2 U' L2 U' D2"
+    },
+    "EJ": {
+      "commutator": "[U' R' : [E , R2]]",
+      "algorithm": "U' R' E R2 E' R2 R U",
+      "setup": "U R U2 F2 U2 R F2 L2 B2 U' D' L2 F2 U2 D'"
+    },
+    "TJ": {
+      "commutator": "[R' F R , S']",
+      "algorithm": "R' F R S' R' F' R S",
+      "setup": "U R' L F R2 F' R L' U R2 F2 L2 B2 D' B2 L2 F2 U"
+    },
+    "CJ": {
+      "commutator": "[u' R : [E' , R2']]",
+      "algorithm": "u' R E' R2' E R2' R' u",
+      "setup": "D' F' U2 R2 U2 F U2 R2 U D R2 U"
+    },
+    "MJ": {
+      "commutator": "[U' E' R' : [E , R2]]",
+      "algorithm": "U' E' R' E R2 E' R2 R E U",
+      "setup": "F' U F2 B2 D' F D F2 B2 U'"
+    },
+    "SJ": {
+      "commutator": "[R' : [U' R' U , M]]",
+      "algorithm": "R' U' R' U M U' R U M' R",
+      "setup": "R L F' U2 F R L U D' F2 D' L2 D B2 U' D"
+    },
+    "OJ": {
+      "commutator": "[U' R : [E' , R2']]",
+      "algorithm": "U' R E' R2' E R2' R' U",
+      "setup": "U R' U2 F2 D2 L B2 D2 F2 R2 U'"
+    },
+    "RJ": {
+      "commutator": "[U L B' L' : [S , L2]]",
+      "algorithm": "U L B' L' S L2 S' L2 L B L' U'",
+      "setup": "R L F D2 F R L' U' F2 U' F2 R2 U2 R2 F2 R2 U2"
+    },
+    "QJ": {
+      "commutator": "U R U R U' R' U' R' U' R",
+      "algorithm": "U R U R U' R' U' R' U' R",
+      "setup": "D2 R B2 U2 F2 L U F2 U2 R2 F2 U2 F2 R2 U' B2"
+    },
+    "BJ": {
+      "commutator": "[R' F : [R S' R' , F2]]",
+      "algorithm": "R' F R S' R' F2 R S R' F2 F' R",
+      "setup": "U' F2 L2 B2 D' R2 B2 L2"
+    },
+    "VJ": {
+      "commutator": "[D' R' F' : [R S' R' , F2]]",
+      "algorithm": "D' R' F' R S' R' F2 R S R' F2 F R D",
+      "setup": "U' F2 L2 B2 D L2 F2 R2 U2"
+    },
+    "UJ": {
+      "commutator": "[U' : [R2' , S']]",
+      "algorithm": "U' R2' S' R2' S U",
+      "setup": "U' F2 R2 F2 U2 B2 L2 B2 U'"
+    },
+    "FV": {
+      "commutator": "[M , U2]",
+      "algorithm": "M U2 M' U2",
+      "setup": "R2 F2 L2 U2 R2 B2 L2 D2"
+    },
+    "DV": {
+      "commutator": "[r M' : [U' R' U , M2']]",
+      "algorithm": "r M' U' R' U M2' U' R U M2' M r'",
+      "setup": "U' R2 F2 L2 D L2 F2 R2 U2"
+    },
+    "PV": {
+      "commutator": "[l' M' : [U L U' , M2']]",
+      "algorithm": "l' M' U L U' M2' U L' U' M2' M l",
+      "setup": "U R2 F2 L2 D' L2 F2 R2 U2"
+    },
+    "KV": {
+      "commutator": "[L' M : [U' L U , M2']]",
+      "algorithm": "L' M U' L U M2' U' L' U M2' M' L",
+      "setup": "R L F' D2 F' R' L D B2 R2 F2 L2 U' R2 B2"
+    },
+    "LV": {
+      "commutator": "[M : [U' L' U , M2']]",
+      "algorithm": "M U' L' U M2' U' L U M2' M'",
+      "setup": "F' R2 U2 L2 B L2 U2 R2 F2"
+    },
+    "ØV": {
+      "commutator": "[U : [S' , L B' L']]",
+      "algorithm": "U S' L B' L' S L B L' U'",
+      "setup": "R L' F' D2 F R' L D2 R2 B2 L2 U' R2 F2 L2 B2 D"
+    },
+    "IV": {
+      "commutator": "[M : [U' L U , M2']]",
+      "algorithm": "M U' L U M2' U' L' U M2' M'",
+      "setup": "D2 F U2 R2 D2 B R2 U2 F2 L2 D2 L2 F2 L2"
+    },
+    "HV": {
+      "commutator": "[M2' , U' R U]",
+      "algorithm": "M2' U' R U M2' U' R' U",
+      "setup": "R U R2 L2 D' R U' F2 R2 B2 D L2 B2 R2 U2 L2"
+    },
+    "GV": {
+      "commutator": "[D : [R F R' , S']]",
+      "algorithm": "D R F R' S' R F' R' S D'",
+      "setup": "R B U F2 R U2 B D' L B2 U R2 U F2 B2 D2 F2 U B2"
+    },
+    "EV": {
+      "commutator": "[M2' , U L' U']",
+      "algorithm": "M2' U L' U' M2' U L U'",
+      "setup": "L' U' R2 L2 D L' U F2 L2 B2 D' R2 B2 L2 U2 R2"
+    },
+    "TV": {
+      "commutator": "[R M : [U R' U' , M2']]",
+      "algorithm": "R M U R' U' M2' U R U' M2' M' R'",
+      "setup": "R' L F D2 F R' L D' B2 R2 F2 L2 U R2 B2 R2"
+    },
+    "CV": {
+      "commutator": "[M : [U R' U' , M2']]",
+      "algorithm": "M U R' U' M2' U R U' M2' M'",
+      "setup": "R2 F R2 U2 L2 B R2 L2 F2 L2 D2 R2 B2 L2"
+    },
+    "NV": {
+      "commutator": "[U' : [S , R' B R]]",
+      "algorithm": "U' S R' B R S' R' B' R U",
+      "setup": "R L F D2 F R' L D' B2 R2 F2 L2 U R2 B2"
+    },
+    "MV": {
+      "commutator": "[M : [U R U' , M2']]",
+      "algorithm": "M U R U' M2' U R' U' M2' M'",
+      "setup": "F R2 U2 L2 B U2 R2 L2 D2 F2 L2 D2 L2 F2"
+    },
+    "SV": {
+      "commutator": "[U : [S , R B R']]",
+      "algorithm": "U S R B R' S' R B' R' U'",
+      "setup": "U R' L F D2 F' R L' U R2 L2 B2 R2 L2 U2"
+    },
+    "OV": {
+      "commutator": "[M2 , U L U']",
+      "algorithm": "M2 U L U' M2 U L' U'",
+      "setup": "L U' R2 L2 D L U F2 L2 B2 D' R2 B2 L2 U2 R2"
+    },
+    "QV": {
+      "commutator": "[M2' , U' R' U]",
+      "algorithm": "M2' U' R' U M2' U' R U",
+      "setup": "R' U R2 L2 D' R L2 U' F2 U R2 L2 D' B2 D L2"
+    },
+    "BV": {
+      "commutator": "u2 M' u2 M'",
+      "algorithm": "u2 M' u2 M'",
+      "setup": "U2 R2 F2 L2 D2 R2 B2 L2"
+    },
+    "JV": {
+      "commutator": "[D' R' F : [R S' R' , F2]]",
+      "algorithm": "D' R' F R S' R' F2 R S R' F2 F' R D",
+      "setup": "U2 R2 F2 L2 D' B2 L2 F2 U"
+    },
+    "UV": {
+      "commutator": "[D L F' : [L' S L , F2']]",
+      "algorithm": "D L F' L' S L F2' L' S' L F2' F L' D'",
+      "setup": "U2 R2 F2 L2 D F2 R2 B2 U'"
+    },
+    "FU": {
+      "commutator": "[U : [S' , L2']]",
+      "algorithm": "U S' L2' S L2' U'",
+      "setup": "U' F2 R2 B2 D2 B2 R2 F2 U'"
+    },
+    "DU": {
+      "commutator": "U' L' U' L U L U L U' L'",
+      "algorithm": "U' L' U' L U L U L U' L'",
+      "setup": "U2 F2 R2 B2 D B2 R2 F2 U'"
+    },
+    "PU": {
+      "commutator": "[L U' L : [S' , L2']]",
+      "algorithm": "L U' L S' L2' S L2' L' U L'",
+      "setup": "R2 F2 U' R2 B2 L2 D' B2"
+    },
+    "KU": {
+      "commutator": "[L F' L' , S]",
+      "algorithm": "L F' L' S L F L' S'",
+      "setup": "U R L' F U2 F' R' L F2 R2 B2 U' L2 B2 R2 F2 U' D'"
+    },
+    "LU": {
+      "commutator": "[U E L : [E' , L2']]",
+      "algorithm": "U E L E' L2' E L2' L' E' U'",
+      "setup": "F U' F2 B2 D F U D' L2 D' L2 U' D B2 U"
+    },
+    "IU": {
+      "commutator": "[u L' : [E , L2]]",
+      "algorithm": "u L' E L2 E' L2 L u'",
+      "setup": "D F U2 R2 D2 B R2 U2 F2 L2 D2 L2 F2 L2 D"
+    },
+    "HU": {
+      "commutator": "[U L : [E' , L2']]",
+      "algorithm": "U L E' L2' E L2' L' U'",
+      "setup": "U R' F2 U2 B2 L' F2 D2 R2 F2 D2 F2 R2 B2 U"
+    },
+    "GU": {
+      "commutator": "[U' L F L : [S' , L2']]",
+      "algorithm": "U' L F L S' L2' S L2' L' F' L' U",
+      "setup": "R F' R F2 L' F L F2 U L2 D' L2 D F2 U' F2 R2"
+    },
+    "EU": {
+      "commutator": "U' L U L U' L' U' L' U' L U2'",
+      "algorithm": "U' L U L U' L' U' L' U' L U2'",
+      "setup": "F2 R' F2 U2 B2 L' B2 U' F2 R2 B2 D2 F2 L2 B2 U"
+    },
+    "TU": {
+      "commutator": "[l' : [U, R' E R]]",
+      "algorithm": "l' U R' E R U' R' E' R l",
+      "setup": "U R' L F' L2 F R L' F2 R2 B2 D B2 R2 F2 L2"
+    },
+    "CU": {
+      "commutator": "[u L : [E' , L2']]",
+      "algorithm": "u L E' L2' E L2' L' u'",
+      "setup": "D F' U2 R2 U2 F D2 L2 U D L2 U'"
+    },
+    "NU": {
+      "commutator": "[R F R' , S']",
+      "algorithm": "R F R' S' R F' R' S",
+      "setup": "R U D' F D2 F' U' D R U' F2 R2 F2 D2 F2 R2 F2 U R2"
+    },
+    "MU": {
+      "commutator": "[U E L' : [E , L2]]",
+      "algorithm": "U E L' E L2 E' L2 L E' U'",
+      "setup": "F' U' F2 B2 D F D' F2 B2 U"
+    },
+    "SU": {
+      "commutator": "[L : [U L U' , M]]",
+      "algorithm": "L U L U' M U L' U' M' L'",
+      "setup": "R L' F U2 F R L U2 L2 F2 R2 D2 L2 B2 D' F2 D'"
+    },
+    "OU": {
+      "commutator": "U' L' U' L' U L U L U L'",
+      "algorithm": "U' L' U' L' U L U L U L'",
+      "setup": "D2 R' U2 F2 D2 L' U R2 F2 U2 B2 L2 D2 B2 U' B2"
+    },
+    "RU": {
+      "commutator": "[U' R' B R : [S' , R2']]",
+      "algorithm": "U' R' B R S' R2' S R2' R' B' R U",
+      "setup": "R L' F' D2 F R' L D' R2 U2 R2 B2 R2 U2 R2 D"
+    },
+    "QU": {
+      "commutator": "[U L' : [E , L2]]",
+      "algorithm": "U L' E L2 E' L2 L U'",
+      "setup": "U R F2 U2 B2 L F2 D2 R2 F2 D2 F2 R2 B2 U"
+    },
+    "BU": {
+      "commutator": "[L F' : [L' S L , F2']]",
+      "algorithm": "L F' L' S L F2' L' S' L F2' F L'",
+      "setup": "U F2 R2 B2 D L2 B2 R2"
+    },
+    "JU": {
+      "commutator": "[U' : [S' , R2']]",
+      "algorithm": "U' S' R2' S R2' U",
+      "setup": "U F2 R2 B2 D2 F2 L2 B2 U"
+    },
+    "VU": {
+      "commutator": "[D L F : [L' S L , F2']]",
+      "algorithm": "D L F L' S L F2' L' S' L F2' F' L' D'",
+      "setup": "U F2 R2 B2 D' R2 F2 L2 U2"
+    }
+  },
+  "corners": {
+    "DF": {
+      "commutator": "[Lw': [R' D2 R, U]]",
+      "words": "Duft, Dufte"
+    },
+    "FD": {
+      "commutator": "[Lw': [U, R' D2 R]]",
+      "words": "Fod, Fedted"
+    },
+    "DA": {
+      "commutator": "[Lw D: [R' D' R, U]]",
+      "words": "Dalia, 大, stor"
+    },
+    "AD": {
+      "commutator": "[Lw D: [U, R' D' R]]",
+      "words": "Adolf Hitler, Klam"
+    },
+    "DK": {
+      "commutator": "[R: [U, R D R']]",
+      "words": "Dukke, At dukke sig"
+    },
+    "KD": {
+      "commutator": "[R: [R D R', U]]",
+      "words": "Kød, at kede sig"
+    },
+    "DL": {
+      "commutator": "[R': [R' D' R, U']]",
+      "words": "Diller, Dele"
+    },
+    "LD": {
+      "commutator": "[R': [U', R' D' R]]",
+      "words": "Luder, At Lede efter"
+    },
+    "DJ": {
+      "commutator": "[R' D R, U]",
+      "words": "En DJ, Dejlig"
+    },
+    "JD": {
+      "commutator": "[U, R' D R]",
+      "words": "Jøde, Er Jøde"
+    },
+    "DI": {
+      "commutator": "[U', R D' R']",
+      "words": "Dansk Industri, 低 - lav"
+    },
+    "ID": {
+      "commutator": "[R D' R', U']",
+      "words": "ID (kort), Idiot"
+    },
+    "DG": {
+      "commutator": "[R: [U2, R D R']]",
+      "words": "Dag, Lys"
+    },
+    "GD": {
+      "commutator": "[R: [R D R', U2]]",
+      "words": "Ged, At Glide"
+    },
+    "DH": {
+      "commutator": "[D': [R' D R, U]]",
+      "words": "havet, Saltet"
+    },
+    "HD": {
+      "commutator": "[D': [U, R' D R]]",
+      "words": "Kvalitet, Hade"
+    },
+    "DE": {
+      "commutator": "[D: [R' D' R, U]]",
+      "words": "Tyskland, Delusional"
+    },
+    "ED": {
+      "commutator": "[D: [U, R' D' R]]",
+      "words": "Edderkop, at æde"
+    },
+    "DN": {
+      "commutator": "[U', R D R']",
+      "words": "Danmark, Dansk"
+    },
+    "ND": {
+      "commutator": "[R D R', U']",
+      "words": "Nørd, Nyde"
+    },
+    "DM": {
+      "commutator": "[R' D' R, U]",
+      "words": "Dame, Dum"
+    },
+    "MD": {
+      "commutator": "[U, R' D' R]",
+      "words": "Mad, Mødde"
+    },
+    "DT": {
+      "commutator": "[R': [R' D' R, U2]]",
+      "words": "Data, DTU"
+    },
+    "TD": {
+      "commutator": "[R': [U2, R' D' R]]",
+      "words": "Tid, At tude"
+    },
+    "DR": {
+      "commutator": "[R' D2 R, U]",
+      "words": "DRTV, Drømme"
+    },
+    "RD": {
+      "commutator": "[U, R' D2 R]",
+      "words": "Et rod, Rød"
+    },
+    "DO": {
+      "commutator": "[D: [U', R D' R']]",
+      "words": "Doktor, Do it"
+    },
+    "OD": {
+      "commutator": "[D: [R D' R', U']]",
+      "words": "Odder, Over doserer"
+    },
+    "DB": {
+      "commutator": "[x': [D2, R U R']]",
+      "words": "Dobby, At dabbe"
+    },
+    "BD": {
+      "commutator": "[x': [R U R', D2]]",
+      "words": "Båd, Bade"
+    },
+    "DX": {
+      "commutator": "[U' R' D R: [R D' R', U]]",
+      "words": "Dexter (morder), At dokse"
+    },
+    "XD": {
+      "commutator": "[U' R' D R: [U, R D' R']]",
+      "words": "兄弟, bror, Stilet"
+    },
+    "DV": {
+      "commutator": "[U R D' R': [U', R' D R]]",
+      "words": "Diva, Doven"
+    },
+    "VD": {
+      "commutator": "[U R D' R': [R' D R, U']]",
+      "words": "Vædemål, Væde"
+    },
+    "DU": {
+      "commutator": "[x: [R' U' R, D2]]",
+      "words": "du (dig), At du, At virke"
+    },
+    "UD": {
+      "commutator": "[x: [D2, R' U' R]]",
+      "words": "Udefor, Udefor"
+    },
+    "AF": {
+      "commutator": "[R' D'U': [R' D R, U']]",
+      "words": "Afghanistan, Afghanistan"
+    },
+    "FA": {
+      "commutator": "[R' D'U': [U', R' D R]]",
+      "words": "Far, Faste"
+    },
+    "AK": {
+      "commutator": "[U' R: [R D R', U2]]",
+      "words": "Pistol, Skyde"
+    },
+    "KA": {
+      "commutator": "[U' R: [U2, R D R']]",
+      "words": "Kage, Kaste op"
+    },
+    "AJ": {
+      "commutator": "[R' D R, U']",
+      "words": "Ajax, Eje"
+    },
+    "JA": {
+      "commutator": "[U', R' D R]",
+      "words": "Jaguar, Sige Ja"
+    },
+    "AI": {
+      "commutator": "[U': [R D' R', U']]",
+      "words": "AI, Kunstig intelligens, Afvise"
+    },
+    "IA": {
+      "commutator": "[U': [U', R D' R']]",
+      "words": "IDA (forening), Forening"
+    },
+    "AH": {
+      "commutator": "[D': [R' D R, U']]",
+      "words": "Amager, Amager"
+    },
+    "HA": {
+      "commutator": "[D': [U', R' D R]]",
+      "words": "Hammer, Hæve"
+    },
+    "AE": {
+      "commutator": "[D: [R' D' R, U']]",
+      "words": "Manse, at age"
+    },
+    "EA": {
+      "commutator": "[D: [U', R' D' R]]",
+      "words": "EA games, I EA"
+    },
+    "AP": {
+      "commutator": "[U' R': [U2, R' D' R]]",
+      "words": "App, Apatisk"
+    },
+    "PA": {
+      "commutator": "[U' R': [R' D' R, U2]]",
+      "words": "pasta, 怕, bange"
+    },
+    "AN": {
+      "commutator": "[U': [R D R', U']]",
+      "words": "HC Andersen, Anderledes"
+    },
+    "NA": {
+      "commutator": "[U': [U', R D R']]",
+      "words": "Nazi, Nord America"
+    },
+    "AM": {
+      "commutator": "[R' D' R, U']",
+      "words": "Arm, Amme"
+    },
+    "MA": {
+      "commutator": "[U', R' D' R]",
+      "words": "马 - hest, At Mase"
+    },
+    "AS": {
+      "commutator": "[U' R: [R D R', U]]",
+      "words": "Aske, Ryge"
+    },
+    "SA": {
+      "commutator": "[U' R: [U, R D R']]",
+      "words": "Sexual assaulteren, Sexual assault"
+    },
+    "AT": {
+      "commutator": "[U' R': [U', R' D' R]]",
+      "words": "Artur, Attack"
+    },
+    "TA": {
+      "commutator": "[U' R': [R' D' R, U']]",
+      "words": "Teaching assistance, Undervise"
+    },
+    "AR": {
+      "commutator": "[R' D2 R, U']",
+      "words": "Ar (sår), Arrestere"
+    },
+    "RA": {
+      "commutator": "[U', R' D2 R]",
+      "words": "Radio, Rar"
+    },
+    "AO": {
+      "commutator": "[D': [R' D' R, U']]",
+      "words": "Aolong, Aftale"
+    },
+    "OA": {
+      "commutator": "[D': [U', R' D' R]]",
+      "words": "Oase, Slappe af"
+    },
+    "AB": {
+      "commutator": "[U' x': [R U R', D2]]",
+      "words": "Abe, Absolut"
+    },
+    "BA": {
+      "commutator": "[U' x': [D2, R U R']]",
+      "words": "en bager, at bage"
+    },
+    "AX": {
+      "commutator": "[D R D' R': [R' D R, U']]",
+      "words": "Axel, Holbrogaard"
+    },
+    "XA": {
+      "commutator": "[D R D' R': [U', R' D R]]",
+      "words": "西安, 西安"
+    },
+    "AV": {
+      "commutator": "[R D' R': [R' D R, U']]",
+      "words": "Smerte, AV!, gør ondt"
+    },
+    "VA": {
+      "commutator": "[R D' R': [U', R' D R]]",
+      "words": "Voice actor, At vande"
+    },
+    "AU": {
+      "commutator": "[R' D' R : [R U' R', D]]",
+      "words": "Australien, Australien"
+    },
+    "UA": {
+      "commutator": "[R' D' R: [D, R U' R']]",
+      "words": "Den uartige, Uartig"
+    },
+    "FL": {
+      "commutator": "[F: [U2, R' D' R]]",
+      "words": "En flåt, At falde"
+    },
+    "LF": {
+      "commutator": "[F: [R' D' R, U2]]",
+      "words": "Luffy, Luft, Løfte"
+    },
+    "FJ": {
+      "commutator": "[R' D R, U2]",
+      "words": "Fejl, at feje, fejl"
+    },
+    "JF": {
+      "commutator": "[U2, R' D R]",
+      "words": "Jeff (Jeffrey Dahmer), At Dræbe"
+    },
+    "FI": {
+      "commutator": "[U': [R D' R', U2]]",
+      "words": "Fie (Luca), Fin"
+    },
+    "IF": {
+      "commutator": "[U': [U2, R D' R']]",
+      "words": "衣服, Tage tøj af"
+    },
+    "FG": {
+      "commutator": "[Lw': [U2, R' D2 R]]",
+      "words": "Fangeren, Fanger"
+    },
+    "GF": {
+      "commutator": "[Lw': [R' D2 R, U2]]",
+      "words": "Gift, Giftig"
+    },
+    "FH": {
+      "commutator": "[DU': [R D R', U2]]",
+      "words": "Flash (karakter), Hurtig"
+    },
+    "HF": {
+      "commutator": "[DU': [U2, R D R']]",
+      "words": "Hofte, Høffelig"
+    },
+    "FE": {
+      "commutator": "[U'D': [R D' R', U2]]",
+      "words": "en fe, Trylle"
+    },
+    "EF": {
+      "commutator": "[U'D': [U2, R D' R']]",
+      "words": "Effekt, Efter"
+    },
+    "FP": {
+      "commutator": "[R D R': [R' D2 R, U2]]",
+      "words": "Fapperen, Fappe"
+    },
+    "PF": {
+      "commutator": "[R D R': [U2, R' D2 R]]",
+      "words": "Parfume, Pifte"
+    },
+    "FN": {
+      "commutator": "[U': [R D R', U2]]",
+      "words": "Fanta, Finde"
+    },
+    "NF": {
+      "commutator": "[U': [U2, R D R']]",
+      "words": "NF - sanger, at nerfe"
+    },
+    "FM": {
+      "commutator": "[R' D' R, U2]",
+      "words": "Familie, Famous"
+    },
+    "MF": {
+      "commutator": "[U2, R' D' R]",
+      "words": "Muffin, Magtfuld"
+    },
+    "FS": {
+      "commutator": "[R' D': [U2, R' D R]]",
+      "words": "Fest, At feste"
+    },
+    "SF": {
+      "commutator": "[R' D': [R' D R, U2]]",
+      "words": "Surferen, Surfe"
+    },
+    "FR": {
+      "commutator": "[R' D2 R, U2]",
+      "words": "En fryser, Fryse"
+    },
+    "RF": {
+      "commutator": "[U2, R' D2 R]",
+      "words": "Riffel, Reflektere"
+    },
+    "FO": {
+      "commutator": "[U' D: [R D' R', U2]]",
+      "words": "佛 (fo - buddha), At be"
+    },
+    "OF": {
+      "commutator": "[U' D: [U2, R D' R']]",
+      "words": "Only Fans, Ofre"
+    },
+    "FB": {
+      "commutator": "[R F' R' U': [R D R', U2]]",
+      "words": "Facebook, Logge ind"
+    },
+    "BF": {
+      "commutator": "[R F' R' U': [U2, R D R']]",
+      "words": "Buffet, Spise"
+    },
+    "FX": {
+      "commutator": "[D R D' R': [R' D R, U2]]",
+      "words": "Faxe kondi, Fix (at fikse, drug addiction fix)"
+    },
+    "XF": {
+      "commutator": "[D R D' R': [U2, R' D R]]",
+      "words": "Glæde, 幸福"
+    },
+    "FV": {
+      "commutator": "[R D' R': [R' D R, U2]]",
+      "words": "en farve, at farve"
+    },
+    "VF": {
+      "commutator": "[R D' R': [U2, R' D R]]",
+      "words": "Vifte, Vifter"
+    },
+    "FU": {
+      "commutator": "[D' R D' R': [R' D R, U2]]",
+      "words": "Fugl, At være fuld"
+    },
+    "UF": {
+      "commutator": "[D' R D' R': [U2, R' D R]]",
+      "words": "UFO, Farlig"
+    },
+    "KL": {
+      "commutator": "[L, U' R' U]",
+      "words": "Kul, At kalde"
+    },
+    "LK": {
+      "commutator": "[U' R' U, L]",
+      "words": "En Lokal, Lækker"
+    },
+    "KJ": {
+      "commutator": "[U R' U': [R' D R, U]]",
+      "words": "Kejle, Kejlet"
+    },
+    "JK": {
+      "commutator": "[U R' U': [U, R' D R]]",
+      "words": "Jakob, At Joke med nogen"
+    },
+    "KI": {
+      "commutator": "[R D': [R D R', U]]",
+      "words": "Kina, Kineser, Kina, Kineser"
+    },
+    "IK": {
+      "commutator": "[R D': [U, R D R']]",
+      "words": "Ikea, Ikea"
+    },
+    "KG": {
+      "commutator": "[Lw' U: [R D' R', U2]]",
+      "words": "Konge, Styrer"
+    },
+    "GK": {
+      "commutator": "[Lw' U: [U2, R D' R']]",
+      "words": "Gokart, Crazy"
+    },
+    "KH": {
+      "commutator": "[R U R' : [R' D' R, U']]",
+      "words": "Kalaha, Spille Kalaha"
+    },
+    "HK": {
+      "commutator": "[R U R': [U', R' D' R]]",
+      "words": "Hong Kong, Hakke"
+    },
+    "KE": {
+      "commutator": "[R U: [R' D R, U]]",
+      "words": "课 (kursus, modul), Gå til et modul"
+    },
+    "EK": {
+      "commutator": "[R U: [U, R' D R]]",
+      "words": "Ekkenberg, Ekkenberg"
+    },
+    "KP": {
+      "commutator": "[R: [R2' D R2 D' R2', U]]",
+      "words": "Kaptajn, Klappe"
+    },
+    "PK": {
+      "commutator": "[R: [U, R2' D R2 D' R2']]",
+      "words": "Pik, At pakke"
+    },
+    "KN": {
+      "commutator": "[R D: [R D R', U]]",
+      "words": "Cancer, Cancer"
+    },
+    "NK": {
+      "commutator": "[R D: [U, R D R']]",
+      "words": "Nokia, Nord Korea"
+    },
+    "KM": {
+      "commutator": "[D' R U : [R' D R, U]]",
+      "words": "Kamera, At kæmpe"
+    },
+    "MK": {
+      "commutator": "[D' R U: [U, R' D R]]",
+      "words": "Mcdonalds, Mcdonalds"
+    },
+    "KS": {
+      "commutator": "[U R': [U', R' D' R]]",
+      "words": "Kiste, Kaste"
+    },
+    "SK": {
+      "commutator": "[U R': [R' D' R, U']]",
+      "words": "Sok, Skinde"
+    },
+    "KR": {
+      "commutator": "[U R': [U', R' D2 R]]",
+      "words": "Krone, At Krone"
+    },
+    "RK": {
+      "commutator": "[U R': [R' D2 R, U']]",
+      "words": "Rakket, Flyve"
+    },
+    "KO": {
+      "commutator": "[R U: [R' D' R, U]]",
+      "words": "en ko, Koldt"
+    },
+    "OK": {
+      "commutator": "[R U: [U, R' D' R]]",
+      "words": "Orkan, er OK"
+    },
+    "KB": {
+      "commutator": "[R: [R D2 R', U]]",
+      "words": "København, Købe"
+    },
+    "BK": {
+      "commutator": "[R: [U, R D2 R']]",
+      "words": "Burger King, Burger King"
+    },
+    "KX": {
+      "commutator": "[D2 R: [R D' R', U]]",
+      "words": "Kiks, Kikset"
+    },
+    "XK": {
+      "commutator": "[D2 R: [U, R D' R']]",
+      "words": "Arbejde, Hårdt arbejdene"
+    },
+    "KV": {
+      "commutator": "[D R: [R D' R', U]]",
+      "words": "Kniv, Kravle"
+    },
+    "VK": {
+      "commutator": "[D R: [U, R D' R']]",
+      "words": "viking, at vække, viking"
+    },
+    "KU": {
+      "commutator": "[R: [R D' R', U]]",
+      "words": "KU - København universitet, KU - København universitet"
+    },
+    "UK": {
+      "commutator": "[R: [U, R D' R']]",
+      "words": "England, England"
+    },
+    "LJ": {
+      "commutator": "[R' U' : [D, R U R']]",
+      "words": "Løg, Lege"
+    },
+    "JL": {
+      "commutator": "[R' U': [R U R', D]]",
+      "words": "Jul 🎄, Hjælpe"
+    },
+    "LI": {
+      "commutator": "[z: [R' D' R, U2]]",
+      "words": "Et Lig (mord), At Lide"
+    },
+    "IL": {
+      "commutator": "[z: [U2, R' D' R]]",
+      "words": "Ild, Brænde"
+    },
+    "LH": {
+      "commutator": "[R, U L U']",
+      "words": "Lufthavn, Lufthavn"
+    },
+    "HL": {
+      "commutator": "[U L U', R]",
+      "words": "Helved, at hilse"
+    },
+    "LE": {
+      "commutator": "[D R' U': [D', R U R']]",
+      "words": "Lego, At Le"
+    },
+    "EL": {
+      "commutator": "[D R' U': [R U R', D']]",
+      "words": "EL, få stød"
+    },
+    "LP": {
+      "commutator": "[F' U: [R' D R, U2]]",
+      "words": "En Loppe, Loppemarked"
+    },
+    "PL": {
+      "commutator": "[F' U: [U2, R' D R]]",
+      "words": "Pille, At pille"
+    },
+    "LN": {
+      "commutator": "[R' U': [R' D' R, U2]]",
+      "words": "Et Land, Lande"
+    },
+    "NL": {
+      "commutator": "[R' U': [U2, R' D' R]]",
+      "words": "Nål, Nulstille"
+    },
+    "LM": {
+      "commutator": "[R' U': [D', R U R']]",
+      "words": "ChatGPT, at larme, Lomme"
+    },
+    "ML": {
+      "commutator": "[R' U': [R U R', D']]",
+      "words": "Mælk, Malke"
+    },
+    "LS": {
+      "commutator": "[R', U L U']",
+      "words": "En Lås, Læse"
+    },
+    "SL": {
+      "commutator": "[U L U', R']",
+      "words": "Sælgeren, sælge"
+    },
+    "LT": {
+      "commutator": "[x': [R U' R', D]]",
+      "words": "Lotto, Let"
+    },
+    "TL": {
+      "commutator": "[x': [D, R U' R']]",
+      "words": "Tal, Tælle, Tale"
+    },
+    "LR": {
+      "commutator": "[x': [R U2 R', D]]",
+      "words": "En Lære, At Lære"
+    },
+    "RL": {
+      "commutator": "[x': [D, R U2 R']]",
+      "words": "En Rulle, At Rulle"
+    },
+    "LO": {
+      "commutator": "[F: [D', R U R']]",
+      "words": "Lort, Lort"
+    },
+    "OL": {
+      "commutator": "[F: [R U R', D']]",
+      "words": "OL (olympiske lege), at overleve"
+    },
+    "LB": {
+      "commutator": "[U' R' U: [R U' R', D]]",
+      "words": "Læbbe, Løbe"
+    },
+    "BL": {
+      "commutator": "[U' R' U: [D, R U' R']]",
+      "words": "Blod, Bælle (en drink)"
+    },
+    "LX": {
+      "commutator": "[R U' R': [R' D' R, U2]]",
+      "words": "Laks, Luksus"
+    },
+    "XL": {
+      "commutator": "[R U' R': [U2, R' D' R]]",
+      "words": "Hjerte, Extra large"
+    },
+    "LV": {
+      "commutator": "[z: [D2, R U R']]",
+      "words": "Larve, At lave"
+    },
+    "VL": {
+      "commutator": "[z: [R U R', D2]]",
+      "words": "Vilfred, at vælge"
+    },
+    "LU": {
+      "commutator": "[R2 D2: [R U' R', D]]",
+      "words": "Luca, At Lugte"
+    },
+    "UL": {
+      "commutator": "[R2 D2: [D, R U' R']]",
+      "words": "Ulækker, Ulækker"
+    },
+    "JI": {
+      "commutator": "[z': [R U' R', D']]",
+      "words": "记 (note), Lave en note"
+    },
+    "IJ": {
+      "commutator": "[z': [D', R U' R']]",
+      "words": "Injektion, at vaccinere"
+    },
+    "JG": {
+      "commutator": "[D R': [F2, R D' R' D]]",
+      "words": "Jagt, Jagte"
+    },
+    "GJ": {
+      "commutator": "[D R': [R D' R' D, F2]]",
+      "words": "冠军 🏆 - Champion, Gay"
+    },
+    "JH": {
+      "commutator": "[U: [D, R U' R']]",
+      "words": "机会, mulighed, Jeg har, at have, X har"
+    },
+    "HJ": {
+      "commutator": "[U: [R U' R', D]]",
+      "words": "Haj, Sige Hej"
+    },
+    "JP": {
+      "commutator": "[U R U: [R' D R, U2]]",
+      "words": "Japan, Japan, Japansk"
+    },
+    "PJ": {
+      "commutator": "[U R U: [U2, R' D R]]",
+      "words": "en pejs, At pege"
+    },
+    "JN": {
+      "commutator": "[R'U: [R U R', D]]",
+      "words": "John Cena, Januar"
+    },
+    "NJ": {
+      "commutator": "[R'U: [D, R U R']]",
+      "words": "Negl, Sige Nej"
+    },
+    "JM": {
+      "commutator": "[LW: [D2, R U R']]",
+      "words": "Jomfru, Hjem"
+    },
+    "MJ": {
+      "commutator": "[LW: [R U R', D2]]",
+      "words": "Michael Jackson, Mejeri"
+    },
+    "JS": {
+      "commutator": "[R' U: [R U' R', D]]",
+      "words": "Jesus, Genoplive"
+    },
+    "SJ": {
+      "commutator": "[R' U: [D, R U' R']]",
+      "words": "Den seje, Sej"
+    },
+    "JT": {
+      "commutator": "[Lw U2: [R D' R', U]]",
+      "words": "Jette, Tyk"
+    },
+    "TJ": {
+      "commutator": "[Lw U2: [U, R D' R']]",
+      "words": "Tegning, Tegne"
+    },
+    "JR": {
+      "commutator": "[UD: [R U' R', D]]",
+      "words": "Jern, Hård"
+    },
+    "RJ": {
+      "commutator": "[UD: [D, R U' R']]",
+      "words": "Reje, Rejse"
+    },
+    "JO": {
+      "commutator": "[R' U': [R U2 R', D]]",
+      "words": "Jord, På Jorden"
+    },
+    "OJ": {
+      "commutator": "[R' U': [D, R U2 R']]",
+      "words": "Øje, Fokusere"
+    },
+    "JX": {
+      "commutator": "[UD R D' : [U', R' D R]]",
+      "words": "家乡 (hjemby), 家乡 (hjemby)"
+    },
+    "XJ": {
+      "commutator": "[UD R D': [R' D R, U']]",
+      "words": "现金 - cash, mønt, Betale"
+    },
+    "JV": {
+      "commutator": "[U R : [D, R U' R']]",
+      "words": "Java, Jævn"
+    },
+    "VJ": {
+      "commutator": "[U R: [R U' R', D]]",
+      "words": "Vej, at veje"
+    },
+    "JU": {
+      "commutator": "[F': [R U' R', D2]]",
+      "words": "Yogurt, Juble"
+    },
+    "UJ": {
+      "commutator": "[F': [D2, R U' R']]",
+      "words": "Ujævn, Ujævn"
+    },
+    "IG": {
+      "commutator": "[Lw': [U2, R' D R]]",
+      "words": "Instagram, Instagram"
+    },
+    "GI": {
+      "commutator": "[Lw': [R' D R, U2]]",
+      "words": "Gi (kampsport), At Gifte sig"
+    },
+    "IH": {
+      "commutator": "[U R U': [R D' R', U']]",
+      "words": "Fortrydelse, fortryde"
+    },
+    "HI": {
+      "commutator": "[U R U': [U', R D' R']]",
+      "words": "Himmel, Hissig"
+    },
+    "IE": {
+      "commutator": "[D2: [R U R', D']]",
+      "words": "Ide, Få en ide"
+    },
+    "EI": {
+      "commutator": "[D2: [D', R U R']]",
+      "words": "恶意 😈, Eid, Ond"
+    },
+    "IP": {
+      "commutator": "[U R: [R D' R', U2]]",
+      "words": "IP man - kung fu, Sparke"
+    },
+    "PI": {
+      "commutator": "[U R: [U2, R D' R']]",
+      "words": "Pige, Pinlig"
+    },
+    "IN": {
+      "commutator": "[R D': [R' U' R, D2]]",
+      "words": "Indien, Indien"
+    },
+    "NI": {
+      "commutator": "[R D': [D2, R' U' R]]",
+      "words": "9, 9"
+    },
+    "IM": {
+      "commutator": "[D2, R U R']",
+      "words": "Iman, Imorgen"
+    },
+    "MI": {
+      "commutator": "[R U R', D2]",
+      "words": "Micki, Mini"
+    },
+    "IS": {
+      "commutator": "[U' L U, R]",
+      "words": "Is, Sød"
+    },
+    "SI": {
+      "commutator": "[R, U' L U]",
+      "words": "En si, Sikker"
+    },
+    "IT": {
+      "commutator": "[U2 R: [R D' R', U]]",
+      "words": "IT, Irriterende"
+    },
+    "TI": {
+      "commutator": "[U2 R: [U, R D' R']]",
+      "words": "10, 10"
+    },
+    "IO": {
+      "commutator": "[D': [D', R U R']]",
+      "words": "Hitman, I orden"
+    },
+    "OI": {
+      "commutator": "[D': [R U R', D']]",
+      "words": "Oyster, Svømme"
+    },
+    "IB": {
+      "commutator": "[R D R' D: [R U R', D2]]",
+      "words": "Iben, Gammel"
+    },
+    "BI": {
+      "commutator": "[R D R' D: [D2, R U R']]",
+      "words": "en bi, bisexuel"
+    },
+    "IX": {
+      "commutator": "[D2 R: [R D' R', U']]",
+      "words": "Index, Indexere"
+    },
+    "XI": {
+      "commutator": "[D2 R: [U', R D' R']]",
+      "words": "xi jin ping, Beijing"
+    },
+    "IV": {
+      "commutator": "[R D' R': [R' D R, U]]",
+      "words": "Ivan, Ivrig"
+    },
+    "VI": {
+      "commutator": "[R D' R': [U, R' D R]]",
+      "words": "Vin, Hvid"
+    },
+    "GH": {
+      "commutator": "[R': [R D' R' D, F2]]",
+      "words": "Gulvhorn, Grine"
+    },
+    "HG": {
+      "commutator": "[R': [F2, R D' R' D]]",
+      "words": "Hegn, Hygge"
+    },
+    "GE": {
+      "commutator": "[R U: [R' D R, U2]]",
+      "words": "g-streng, Gemme"
+    },
+    "EG": {
+      "commutator": "[R U: [U2, R' D R]]",
+      "words": "Egdal, Konkurrere"
+    },
+    "GP": {
+      "commutator": "[R' : [U', R2 D' R2 D R2]]",
+      "words": "GoPro, Give plads"
+    },
+    "PG": {
+      "commutator": "[R': [R2 D' R2 D R2, U']]",
+      "words": "Penge, Pigge, stikke"
+    },
+    "GN": {
+      "commutator": "[Lw' U': [R D R', U2]]",
+      "words": "Gandalf, Gnide"
+    },
+    "NG": {
+      "commutator": "[Lw' U': [U2, R D R']]",
+      "words": "N***er, Nigger"
+    },
+    "GM": {
+      "commutator": "[Lw': [R' D' R, U2]]",
+      "words": "Gamer, At Game"
+    },
+    "MG": {
+      "commutator": "[Lw': [U2, R' D' R]]",
+      "words": "Magnet, Magnetisk"
+    },
+    "GS": {
+      "commutator": "[R D'U: [R' D' R, U2]]",
+      "words": "Gås, At gasse, blive gasset"
+    },
+    "SG": {
+      "commutator": "[R D'U: [U2, R' D' R]]",
+      "words": "Seng, Suge"
+    },
+    "GT": {
+      "commutator": "[R U R' D': [U2, R' D R]]",
+      "words": "Ghetto, at gætte"
+    },
+    "TG": {
+      "commutator": "[R U R' D': [R' D R, U2]]",
+      "words": "En tigger, at tigge"
+    },
+    "GR": {
+      "commutator": "[D R' D : [F2, D' R D R']]",
+      "words": "Græs, Grøn"
+    },
+    "RG": {
+      "commutator": "[D R' D: [D' R D R', F2]]",
+      "words": "Regn, Regne"
+    },
+    "GO": {
+      "commutator": "[R U: [R' D' R, U2]]",
+      "words": "Gorilla, God"
+    },
+    "OG": {
+      "commutator": "[R U: [U2, R' D' R]]",
+      "words": "Trold, OG (slang - original gamer)"
+    },
+    "GB": {
+      "commutator": "[R : [R D2 R', U2]]",
+      "words": "Et Gebis, at gabe"
+    },
+    "BG": {
+      "commutator": "[R: [U2, R D2 R']]",
+      "words": "Baggrund, Begynde"
+    },
+    "GX": {
+      "commutator": "[D' R UD: [R' D' R, U2]]",
+      "words": "Gen X, At Glemme"
+    },
+    "XG": {
+      "commutator": "[D' R UD: [U2, R' D' R]]",
+      "words": "性格, personlighed, Eksotisk"
+    },
+    "GV": {
+      "commutator": "[D R: [R D' R', U2]]",
+      "words": "Gave, Give"
+    },
+    "VG": {
+      "commutator": "[D R: [U2, R D' R']]",
+      "words": "Vigga, At vugge"
+    },
+    "GU": {
+      "commutator": "[R: [R D' R', U2]]",
+      "words": "Gulvet, Guld, Gul"
+    },
+    "UG": {
+      "commutator": "[R: [U2, R D' R']]",
+      "words": "Uge, Ung"
+    },
+    "HE": {
+      "commutator": "[U L' U', R]",
+      "words": "Helt, Drikke"
+    },
+    "EH": {
+      "commutator": "[R, U L' U']",
+      "words": "Enhed, Ensom"
+    },
+    "HP": {
+      "commutator": "[U' R' U: [R D R', U2]]",
+      "words": "Hippie, Hoppe"
+    },
+    "PH": {
+      "commutator": "[U' R' U: [U2, R D R']]",
+      "words": "Filosofi, Filosofere"
+    },
+    "HN": {
+      "commutator": "[U: [R U' R', D']]",
+      "words": "Handske, Hænge"
+    },
+    "NH": {
+      "commutator": "[U: [D', R U' R']]",
+      "words": "Niall Horan, Irland"
+    },
+    "HS": {
+      "commutator": "[D' R' U: [R U' R', D]]",
+      "words": "Hash, Blive skæv"
+    },
+    "SH": {
+      "commutator": "[D' R' U: [D, R U' R']]",
+      "words": "Sahara, Sahara"
+    },
+    "HT": {
+      "commutator": "[R: [U' L' U, R]]",
+      "words": "Hat, Hente"
+    },
+    "TH": {
+      "commutator": "[R: [R, U' L' U]]",
+      "words": "天河 - milkyway, galaxe, Tilhører"
+    },
+    "HR": {
+      "commutator": "[U: [R U' R', D2]]",
+      "words": "Hare, Høre"
+    },
+    "RH": {
+      "commutator": "[U: [D2, R U' R']]",
+      "words": "Piece, Blød"
+    },
+    "HO": {
+      "commutator": "[D R D: [R' U' R, D2]]",
+      "words": "Honning, Hoste"
+    },
+    "OH": {
+      "commutator": "[D R D: [D2, R' U' R]]",
+      "words": "One handed, Overasket"
+    },
+    "HB": {
+      "commutator": "[R : [R' U R U', F2]]",
+      "words": "Hobby, Håbe"
+    },
+    "BH": {
+      "commutator": "[R: [F2, R' U R U']]",
+      "words": "BH (tøj), Bagtale"
+    },
+    "HV": {
+      "commutator": "[U R D': [U', R' D R]]",
+      "words": "Have, Have"
+    },
+    "VH": {
+      "commutator": "[U R D': [R' D R, U']]",
+      "words": "Valhalla, Valhalla"
+    },
+    "HU": {
+      "commutator": "[z: [R U2 R', D]]",
+      "words": "虎 - tiger, Huske"
+    },
+    "UH": {
+      "commutator": "[z: [D, R U2 R']]",
+      "words": "Uheld, Uhyggelig"
+    },
+    "EP": {
+      "commutator": "[F' U: [R' D' R, U2]]",
+      "words": "Epilepsi, få epilepsi"
+    },
+    "PE": {
+      "commutator": "[F' U: [U2, R' D' R]]",
+      "words": "Blyant, Skrive"
+    },
+    "EN": {
+      "commutator": "[R D: [D, R' U' R]]",
+      "words": "Enhjørning, Engelsk"
+    },
+    "NE": {
+      "commutator": "[R D: [R' U' R, D]]",
+      "words": "Ne (Neon element), Negativ"
+    },
+    "EM": {
+      "commutator": "[D, R U R']",
+      "words": "Emma (Fyn), Europa mesterskab"
+    },
+    "ME": {
+      "commutator": "[R U R', D]",
+      "words": "Melodi, Melde"
+    },
+    "ES": {
+      "commutator": "[R', U L' U']",
+      "words": "Spanier, Spansk"
+    },
+    "SE": {
+      "commutator": "[U L' U', R']",
+      "words": "Scene, at se"
+    },
+    "ET": {
+      "commutator": "[D x': [R U' R', D']]",
+      "words": "ET (fra filmen), Filmer"
+    },
+    "TE": {
+      "commutator": "[D x': [D', R U' R']]",
+      "words": "Te - drik, Bitter"
+    },
+    "ER": {
+      "commutator": "[D' R D': [R' U' R, D2]]",
+      "words": "Europa rekord, Er"
+    },
+    "RE": {
+      "commutator": "[D' R D': [D2, R' U' R]]",
+      "words": "En Varm, Varme"
+    },
+    "EO": {
+      "commutator": "[D: [R U R', D2]]",
+      "words": "Emo, lave EO"
+    },
+    "OE": {
+      "commutator": "[D: [D2, R U R']]",
+      "words": "Ole, Oplever"
+    },
+    "EX": {
+      "commutator": "[R U' R': [R' D R, U2]]",
+      "words": "Ekskæreste, Ekstrem"
+    },
+    "XE": {
+      "commutator": "[R U' R': [U2, R' D R]]",
+      "words": "Xenon (element), Radioaktiv"
+    },
+    "EV": {
+      "commutator": "[D R: [R D' R', U']]",
+      "words": "El bil, Selvkørende"
+    },
+    "VE": {
+      "commutator": "[D R: [U', R D' R']]",
+      "words": "V - BTS, Synger"
+    },
+    "EU": {
+      "commutator": "[Lw' D: [R' D' R, U']]",
+      "words": "Europa, Europa"
+    },
+    "UE": {
+      "commutator": "[Lw' D: [U', R' D' R]]",
+      "words": "Den uenige, Uenig"
+    },
+    "PN": {
+      "commutator": "[U R U': [R' D' R, U2]]",
+      "words": "Panda, Tage en PN (medicin)"
+    },
+    "NP": {
+      "commutator": "[U R U': [U2, R' D' R]]",
+      "words": "No problem, Nepal"
+    },
+    "PM": {
+      "commutator": "[U' R' U'D: [R D' R', U2]]",
+      "words": "Pomfritter, Programmere"
+    },
+    "MP": {
+      "commutator": "[U' R' U'D: [U2, R D' R']]",
+      "words": "Moppe, At Moppe"
+    },
+    "PT": {
+      "commutator": "[U R: [U2, R D R']]",
+      "words": "Peter Plys, Positiv"
+    },
+    "TP": {
+      "commutator": "[U R: [R D R', U2]]",
+      "words": "Tape, At Tape"
+    },
+    "PR": {
+      "commutator": "[U' R' U': [R D' R', U2]]",
+      "words": "Prut, At prutte"
+    },
+    "RP": {
+      "commutator": "[U' R' U': [U2, R D' R']]",
+      "words": "Rap, Rappe"
+    },
+    "PO": {
+      "commutator": "[UD R: [U2, R D' R']]",
+      "words": "Po - Kung Fu Panda, Lave kung fu"
+    },
+    "OP": {
+      "commutator": "[UD R: [R D' R', U2]]",
+      "words": "Old Pochmann, Over powered"
+    },
+    "PB": {
+      "commutator": "[U' R': [R' D R, U2]]",
+      "words": "Peanut butter, Få en PB rekord"
+    },
+    "BP": {
+      "commutator": "[U' R': [U2, R' D R]]",
+      "words": "Boobs, babs, Banke på"
+    },
+    "PX": {
+      "commutator": "[U' D' R': [R' D R, U2]]",
+      "words": "Pixel, Pixeleret"
+    },
+    "XP": {
+      "commutator": "[U' D' R': [U2, R' D R]]",
+      "words": "芯片 (Chip, used in computers), Expert"
+    },
+    "PV": {
+      "commutator": "[F': [U2, R D R']]",
+      "words": "Pave, At pive"
+    },
+    "VP": {
+      "commutator": "[F': [R D R', U2]]",
+      "words": "Vape, at Vape"
+    },
+    "PU": {
+      "commutator": "[U' R': [R' D2 R, U2]]",
+      "words": "Pussy, Puste"
+    },
+    "UP": {
+      "commutator": "[U' R': [U2, R' D2 R]]",
+      "words": "Ballon, Ups"
+    },
+    "NM": {
+      "commutator": "[R D': [R' D R, U]]",
+      "words": "Nemo, Nem"
+    },
+    "MN": {
+      "commutator": "[R D': [U, R' D R]]",
+      "words": "Menneske, På Månen"
+    },
+    "NS": {
+      "commutator": "[U' R U: [R' U' R, D]]",
+      "words": "Nisse, Nyse"
+    },
+    "SN": {
+      "commutator": "[U' R U: [D, R' U' R]]",
+      "words": "Sand, at sende"
+    },
+    "NT": {
+      "commutator": "[R' U: [R' D' R, U]]",
+      "words": "Netto, I Netto"
+    },
+    "TN": {
+      "commutator": "[R' U: [U, R' D' R]]",
+      "words": "Tandlæge, Tænde"
+    },
+    "NR": {
+      "commutator": "[U': [R' U' R, D']]",
+      "words": "National rekord, Lave NR"
+    },
+    "RN": {
+      "commutator": "[U': [D', R' U' R]]",
+      "words": "En Random, Rund"
+    },
+    "NB": {
+      "commutator": "[U' R': [R' D R, U]]",
+      "words": "Noob, Noob"
+    },
+    "BN": {
+      "commutator": "[U' R': [U, R' D R]]",
+      "words": "Bønne, At Banne"
+    },
+    "NX": {
+      "commutator": "[R U' D' R' : [R' D R, U2]]",
+      "words": "Ninja, sige NIX!"
+    },
+    "XN": {
+      "commutator": "[R U' D' R': [U2, R' D R]]",
+      "words": "新年, Nytår, 新年, Nytår"
+    },
+    "NU": {
+      "commutator": "[R2 D2: [R U R', D]]",
+      "words": "Nu, Nuttet"
+    },
+    "UN": {
+      "commutator": "[R2 D2: [D, R U R']]",
+      "words": "Den underlige, Undskylde"
+    },
+    "MS": {
+      "commutator": "[R D: [R D' R', U']]",
+      "words": "Messi, Miste"
+    },
+    "SM": {
+      "commutator": "[R D: [U', R D' R']]",
+      "words": "Sommer, Sammen"
+    },
+    "MT": {
+      "commutator": "[x': [R U' R', D']]",
+      "words": "Mette, Være Mæt"
+    },
+    "TM": {
+      "commutator": "[x': [D', R U' R']]",
+      "words": "Tom, Tømme"
+    },
+    "MR": {
+      "commutator": "[x': [R U2 R', D']]",
+      "words": "Mur, Mørk"
+    },
+    "RM": {
+      "commutator": "[x': [D', R U2 R']]",
+      "words": "Rami Sbahi, at ramme"
+    },
+    "MO": {
+      "commutator": "[R U R', D']",
+      "words": "Mor, Modig"
+    },
+    "OM": {
+      "commutator": "[D', R U R']",
+      "words": "Omelet, Ombestemme"
+    },
+    "MB": {
+      "commutator": "[R D: [U, R' D' R]]",
+      "words": "MB - moob - mor ven, At Mobbe"
+    },
+    "BM": {
+      "commutator": "[R D: [R' D' R, U]]",
+      "words": "Bombe, Bombe"
+    },
+    "MV": {
+      "commutator": "[R U' R' D R: [U, R D' R']]",
+      "words": "Mave, Mixe"
+    },
+    "VM": {
+      "commutator": "[R U' R' D R: [R D' R', U]]",
+      "words": "Verdensmesterskab, Vammel"
+    },
+    "MU": {
+      "commutator": "[R: [R D' R', U']]",
+      "words": "木 (træ), Mumle"
+    },
+    "UM": {
+      "commutator": "[R: [U', R D' R']]",
+      "words": "Umami, Umage"
+    },
+    "ST": {
+      "commutator": "[R, U' L' U]",
+      "words": "Sut, Sutte"
+    },
+    "TS": {
+      "commutator": "[U' L' U, R]",
+      "words": "Tis, Tisse"
+    },
+    "SR": {
+      "commutator": "[R' U: [D2, R U' R']]",
+      "words": "Sarah (folkeskole), Flot"
+    },
+    "RS": {
+      "commutator": "[R' U: [R U' R', D2]]",
+      "words": "Ris, Rutche"
+    },
+    "SO": {
+      "commutator": "[R U': [R' U R, D]]",
+      "words": "En so, Sort"
+    },
+    "OS": {
+      "commutator": "[R U': [D, R' U R]]",
+      "words": "Ost, Oslo"
+    },
+    "SB": {
+      "commutator": "[UD R' U': [R U R', D']]",
+      "words": "Sebastian, Super"
+    },
+    "BS": {
+      "commutator": "[UD R' U': [D', R U R']]",
+      "words": "Bedstemor, Bedste"
+    },
+    "SX": {
+      "commutator": "[U R' U': [R U R', D']]",
+      "words": "Sex, Have sex"
+    },
+    "XS": {
+      "commutator": "[U R' U': [D', R U R']]",
+      "words": "Stjerne, 现实, Extra small"
+    },
+    "SV": {
+      "commutator": "[D R U': [R' U R, D']]",
+      "words": "Sav, Sove"
+    },
+    "VS": {
+      "commutator": "[D R U': [D', R' U R]]",
+      "words": "Vase, Vaske"
+    },
+    "SU": {
+      "commutator": "[R U': [R' U R, D']]",
+      "words": "SU - uddanelse, Sur"
+    },
+    "US": {
+      "commutator": "[R U': [D', R' U R]]",
+      "words": "USA, Usikker"
+    },
+    "TR": {
+      "commutator": "[U' R' U': [R D' R', U']]",
+      "words": "Trafik, At tro"
+    },
+    "RT": {
+      "commutator": "[U' R' U': [U', R D' R']]",
+      "words": "En ret, Have ret"
+    },
+    "TO": {
+      "commutator": "[R2 U : [R D R', U2]]",
+      "words": "2, 2"
+    },
+    "OT": {
+      "commutator": "[R2 U: [U2, R D R']]",
+      "words": "Otto, Overtage"
+    },
+    "TB": {
+      "commutator": "[U' R': [R' D R, U']]",
+      "words": "Taber, Tabe"
+    },
+    "BT": {
+      "commutator": "[U' R': [U', R' D R]]",
+      "words": "Batman, Bytte"
+    },
+    "TX": {
+      "commutator": "[U'D' R': [R' D R, U']]",
+      "words": "Taxa, Taxa"
+    },
+    "XT": {
+      "commutator": "[U'D' R': [U', R' D R]]",
+      "words": "系统 (System), Ekstra"
+    },
+    "TV": {
+      "commutator": "[U R : [D', R U' R']]",
+      "words": "Tyv, Tæve"
+    },
+    "VT": {
+      "commutator": "[U R: [R U' R', D']]",
+      "words": "Vinter, Våd"
+    },
+    "TU": {
+      "commutator": "[U'D R': [R' D R, U']]",
+      "words": "兔子 🐰, Tumle"
+    },
+    "UT": {
+      "commutator": "[U'D R': [U', R' D R]]",
+      "words": "Utopia, Utaknemmelig"
+    },
+    "RO": {
+      "commutator": "[U': [R', U' L U]]",
+      "words": "Ro (stilhed), at ro, Rolig"
+    },
+    "OR": {
+      "commutator": "[U': [U' L U, R']]",
+      "words": "Ord, at ordne"
+    },
+    "RB": {
+      "commutator": "[x': [D2, R U2 R']]",
+      "words": "Robin Hood, Råbe"
+    },
+    "BR": {
+      "commutator": "[x': [R U2 R', D2]]",
+      "words": "BR (legetøj butik), BR (legetøj butik)"
+    },
+    "RX": {
+      "commutator": "[U'D' R': [R' D R, U]]",
+      "words": "T-rex, Streng, Strix"
+    },
+    "XR": {
+      "commutator": "[U'D' R': [U, R' D R]]",
+      "words": "VR, Være i VR"
+    },
+    "RV": {
+      "commutator": "[U R: [D2, R U' R']]",
+      "words": "Røv, At Røve"
+    },
+    "VR": {
+      "commutator": "[U R: [R U' R', D2]]",
+      "words": "Verdensrekord, at vinde"
+    },
+    "OB": {
+      "commutator": "[D' R: [R D' R', U']]",
+      "words": "Obi wan kanobi, Observere"
+    },
+    "BO": {
+      "commutator": "[D' R: [U', R D' R']]",
+      "words": "Bo, mormors søster, at bo"
+    },
+    "OX": {
+      "commutator": "[D' R D: [U, R' D' R]]",
+      "words": "Oxygen, Trække vejret"
+    },
+    "XO": {
+      "commutator": "[D' R D: [R' D' R, U]]",
+      "words": "Kys, Kysse"
+    },
+    "OU": {
+      "commutator": "[R U' D' : [D2, R' U R]]",
+      "words": "Goku, Transformere"
+    },
+    "UO": {
+      "commutator": "[R U' D': [R' U R, D2]]",
+      "words": "Uno, Ulovlig"
+    },
+    "BX": {
+      "commutator": "[U' R' F' : [R U' R', D']]",
+      "words": "Box, At bokse"
+    },
+    "XB": {
+      "commutator": "[U' R' F': [D', R U' R']]",
+      "words": "Xbox, Annoncere"
+    },
+    "BV": {
+      "commutator": "[U' R2: [R2 U R2 U' R2, D]]",
+      "words": "Bæver, Besvime"
+    },
+    "VB": {
+      "commutator": "[U' R2: [D, R2 U R2 U' R2]]",
+      "words": "Våben, Vibrere"
+    },
+    "BU": {
+      "commutator": "[x U: [R' D R, U2]]",
+      "words": "Buster, at bue ad nogen"
+    },
+    "UB": {
+      "commutator": "[x U: [U2, R' D R]]",
+      "words": "Uber, Uber"
+    },
+    "XV": {
+      "commutator": "[F' R U': [R' D' R, U2]]",
+      "words": "Ingenting, Er ingenting"
+    },
+    "VX": {
+      "commutator": "[F' R U': [U2, R' D' R]]",
+      "words": "Voks, at Vokse"
+    },
+    "XU": {
+      "commutator": "[R U' R' U: [R D' R', U2]]",
+      "words": "雪, Sne, At sne"
+    },
+    "UX": {
+      "commutator": "[R U' R' U: [U2, R D' R']]",
+      "words": "UX designer, at designe"
+    },
+    "VU": {
+      "commutator": "[z: [R U2 R', D2]]",
+      "words": "Vue, lave Vudu"
+    },
+    "UV": {
+      "commutator": "[z: [D2, R U2 R']]",
+      "words": "UV lys, At være uvenner"
+    }
+  },
+  "ltct": {
+    "FP": {
+      "algorithm": "R2 U R' D' R U R' D R' U' R2 U' R2 U'",
+      "setup": "F D' F U2 F' D F U2 F2 U R2 U R2 U R2 U2 R2"
+    },
+    "FS": {
+      "algorithm": "R' U2 R U2 R' F' R U R' U' R' F R2 U'",
+      "setup": "R2 F2 D' R' D L2 D' R L2 F2 D2 L2 D' L2 D' R2"
+    },
+    "FL": {
+      "algorithm": "U' R2 D R' U' R D' R' U' R' U R U R' U2",
+      "setup": "R2 U B2 L U' R2 U L B2 U' L2 U B2 L2 D' R2 D B2"
+    },
+    "FG": {
+      "algorithm": "U R' U' R U2 R D R' U' R D' R2 U R U' R' U R U",
+      "setup": "R' D R' U2 R D' R' U2 R2 U' F2 U' F2 U' F2 U2 F2"
+    },
+    "FE": {
+      "algorithm": "D U' R U2 R' U R U R2 D' R U R' D R U D'",
+      "setup": "R U' L2 U R' U F2 U L2 U L2 F2 D' L2 D"
+    },
+    "FJ": {
+      "algorithm": "D2 R' U2 R U' R2 D' R U' R' D R2 U' D2",
+      "setup": "L D' R2 D L D' R2 B2 U' B2 U D L2 U'"
+    },
+    "FI": {
+      "algorithm": "D2 U' R U2 R' U R U R2 D' R U R' D R U D2",
+      "setup": "U F U' B2 U F' U L2 D L2 U2 D' B2 L2 U' L2"
+    },
+    "FR": {
+      "algorithm": "D' R' U2 R U' R2 D' R U' R' D R2 U' D",
+      "setup": "U B D' F2 D B D' F2 R2 U' R2 U D B2 U2"
+    },
+    "FM": {
+      "algorithm": "U' R U2 R' U R U R2 D' R U R' D R U",
+      "setup": "U R' D L2 D' R' D L2 B2 U B2 U' D' R2"
+    },
+    "FH": {
+      "algorithm": "D R' U2 R U' R2 D' R U' R' D R2 U' D'",
+      "setup": "U' F D' B2 D F D' B2 L2 U' L2 U D F2"
+    },
+    "FO": {
+      "algorithm": "D' U' R U2 R' U R U R2 D' R U R' D R U D",
+      "setup": "B' D F2 D' B' D F2 L2 U L2 U' D' B2 U"
+    },
+    "FN": {
+      "algorithm": "R' U2 R U' R2 D' R U' R' D R2 U'",
+      "setup": "F' U B2 U' F U' R2 U' B2 U' B2 R2 D B2 D'"
+    },
+    "DT": {
+      "algorithm": "U R2 D R' U R D' R2 U R U2 R'",
+      "setup": "U' B' D' F2 D B U' R2 U B2 D2 F2 D' L2 D' B2"
+    },
+    "DK": {
+      "algorithm": "U R2 U R2 U R2 U' R D R' U' R D' R",
+      "setup": "L' D' R2 D L' D L2 F2 L2 D2 R2 B2 D L2 U"
+    },
+    "DL": {
+      "algorithm": "U R' U2 R' D' r U2 r' D R2 U2",
+      "setup": "L2 U F U' B2 U F' U2 B2 U B2 D' B2 D L2 U'"
+    },
+    "DG": {
+      "algorithm": "U R U R' U' R B2 R' U2 R U2 R B2 R2",
+      "setup": "R F' L B2 L' F R L2 U' B2 U B2 U R2 U2 L2"
+    },
+    "DE": {
+      "algorithm": "D' R D' R' U2 R' U' R2 D r' U2 M' D",
+      "setup": "R U' L' U2 R' U L D' F2 D R2 U' R2 U2"
+    },
+    "DJ": {
+      "algorithm": "D2 U2 R' U' R2 D r' U2 M' U' R D' R' U D2",
+      "setup": "L D' R2 D L' F2 B2 U' L2 U F2 L2 U' L2 B2"
+    },
+    "DI": {
+      "algorithm": "R D' R' U2 R' U' R2 D r' U2 M'",
+      "setup": "U F U' B2 U F' U2 B2 U B2 D' B2 D L2 U' L2"
+    },
+    "DR": {
+      "algorithm": "D' U2 R' U' R2 D r' U2 M' U' R D' R' U D",
+      "setup": "U' R' U L2 U' R U' L2 U2 L2 B2 U' B2 D L2 D'"
+    },
+    "DM": {
+      "algorithm": "D2 R D' R' U2 R' U' R2 D r' U2 M' D2",
+      "setup": "R F2 R D2 R' F2 R' U' R2 B2 D2 B2 R2 U R2 D' R2"
+    },
+    "DH": {
+      "algorithm": "D U2 R' U' R2 D r' U2 M' U' R D' R' U D'",
+      "setup": "U L' U R2 U' L U' R2 D2 L2 B2 U' B2 D L2 D"
+    },
+    "DO": {
+      "algorithm": "D R D' R' U2 R' U' R2 D r' U2 M' D'",
+      "setup": "R U' L' D2 L U R D2 R2 B2 L2 U' L2 D' B2 D B2"
+    },
+    "DN": {
+      "algorithm": "U2 R' U' R2 D r' U2 M' U' R D' R' U",
+      "setup": "D2 L D' R2 D L' D R2 L2 U R2 U' R2 U' L2 D"
+    },
+    "AT": {
+      "algorithm": "R' D' R U R' D R2 U' R' U R U R' U' R U R' U",
+      "setup": "B D F2 D' B D' B2 R2 B2 D2 F2 L2 D' B2 U'"
+    },
+    "AK": {
+      "algorithm": "U2 R' U' R2 D R' U' R D' R2 U2 R U",
+      "setup": "U L D R2 D' L' U F2 U' L2 D2 R2 D B2 D L2"
+    },
+    "AP": {
+      "algorithm": "U2 R' U' R U R' F2 R U2 R' U2 R' F2 R2 U",
+      "setup": "F D' F U2 F' D F' R2 U R2 D' F2 D F2 U2"
+    },
+    "AS": {
+      "algorithm": "U2 R U2 R D r' U2 r D' R2 U'",
+      "setup": "B2 U' R' U L2 U' R U2 L2 U' L2 D L2 D' B2 U"
+    },
+    "AE": {
+      "algorithm": "D U R U R2 D' r U2 M U R' D R D'",
+      "setup": "D2 B' D F2 D' B D' F2 B2 U' F2 U F2 U B2 D'"
+    },
+    "AJ": {
+      "algorithm": "D2 U R2 U R U2 R D r' U2 r U' D",
+      "setup": "R2 U L' U' R2 U L' U R2 U L2 U' R2 U2 L2 U L2"
+    },
+    "AI": {
+      "algorithm": "D2 U R U R2 D' r U2 M U R' D R D2",
+      "setup": "U F U' B2 U F' U B2 U2 B2 L2 U L2 D' B2 D"
+    },
+    "AR": {
+      "algorithm": "D' U R2 U R U2 R D r' U2 r U'",
+      "setup": "U' R' U L2 U' R U2 L2 U' L2 D L2 D' B2 U B2"
+    },
+    "AM": {
+      "algorithm": "U R U R2 D' r U2 M U R' D R",
+      "setup": "U' B U' F2 U B' U F2 D2 B2 L2 U L2 D' B2 D'"
+    },
+    "AH": {
+      "algorithm": "D U R2 U R U2 R D r' U2 r U' D2",
+      "setup": "D' R D2 R' U' R D2 R' F2 U L2 U' L2 D F2 R2 U2 R2"
+    },
+    "AO": {
+      "algorithm": "D' U R U R2 D' r U2 M U R' D R D",
+      "setup": "B' D F2 D' B R2 L2 U B2 U' R2 B2 U B2 L2"
+    },
+    "AN": {
+      "algorithm": "U R2 U R U2 R D r' U2 r U' D'",
+      "setup": "R U R' D' R U' R' U' F2 L2 U' L2 F2 U F2 D F2"
+    },
+    "KP": {
+      "algorithm": "U R' D' R U' R' D R U2 R U R' U2 R U R' U'",
+      "setup": "R D L' D' R D L B2 U' L2 U L2 D' B2 R2 U'"
+    },
+    "KS": {
+      "algorithm": "R U R' U' R U R2 D' R U' R' D R U2 R U' R' U2",
+      "setup": "R D' R U2 R' D R' U2 R2 D' R2 D B2 U' B2"
+    },
+    "KL": {
+      "algorithm": "L' U2 R U' L U R' U L' U L U",
+      "setup": "L D R' U2 D R D L D2 R2 F2 D' L2 D R2 D' F2 U"
+    },
+    "KG": {
+      "algorithm": "U2 R U' R' U' R U2 R2 D' R U R' D R",
+      "setup": "F' U L2 U' L2 U' F U L2 U' L2 U L2 U L2"
+    },
+    "KE": {
+      "algorithm": "R' D R U2 R U R' U2 R U R2 D' R U'",
+      "setup": "F U2 F' U F U F U' R2 U F2 U F2 U' R2 U F2"
+    },
+    "KJ": {
+      "algorithm": "D U' R' D' R U' R' D R2 U' R' U' R U2 R' U D'",
+      "setup": "B' U F2 U' B U' F2 U' F2 U' F2 U2"
+    },
+    "KI": {
+      "algorithm": "D' U R D R' U R D' R2 U R U2 R' U R U' D",
+      "setup": "F' U B U B U F U' R2 B2 U' R2 D B2 D'"
+    },
+    "KR": {
+      "algorithm": "L2 D L' U' L D' L2 U' L U2 L' U'",
+      "setup": "U R' U L2 U' R U' L2 U' L2 U' L2 U"
+    },
+    "KM": {
+      "algorithm": "U2 R U R' U2 R2 D R' U R D' R2 U'",
+      "setup": "B' U F U F U B U' F2 U F2 D' L2 D L2 F2 L2"
+    },
+    "KH": {
+      "algorithm": "U' R' D' R U' R' D R2 U' R' U' R U2 R' U",
+      "setup": "U' L' U R2 U' L U' R2 U' R2 U' R2 U'"
+    },
+    "KO": {
+      "algorithm": "U R D R' U R D' R2 U R U2 R' U R U'",
+      "setup": "U R' U L U L' U R D' B2 D L2 U' L2"
+    },
+    "KN": {
+      "algorithm": "D' U' R' D' R U' R' D R2 U' R' U' R U2 R' U D",
+      "setup": "U2 F' U B2 U' F U' B2 U' B2 U' B2"
+    },
+    "LT": {
+      "algorithm": "U' R' U2 R U R2 D' R U R' D R2 U2",
+      "setup": "F2 U' L' U R2 U' L F2 D F2 D' L2 U R2 L2 F2 U"
+    },
+    "LK": {
+      "algorithm": "R U R D R' U R D' R2 U' R U' R' U'",
+      "setup": "L2 F D' F' D' B R2 B U2 R2 U R2 F2 U' R2 F2 B2 D"
+    },
+    "LP": {
+      "algorithm": "U' R' U2 R U R2 F' R U R U' R' F R U'",
+      "setup": "U' B D F2 D' B D F2 L2 U' F2 U F2 D' L2 B2"
+    },
+    "LS": {
+      "algorithm": "S U2 R U2 R' U2 R' F R f' U",
+      "setup": "R D' R2 U' F2 U' F2 R U D2 L2 B2 U B2 U' L2 D'"
+    },
+    "LE": {
+      "algorithm": "D' U r' U2 r D' R' U2 R' U' R2 U' D2",
+      "setup": "U B2 R' U' L2 U R' D' F2 D R2 U' L2 B2 U B2 U2"
+    },
+    "LJ": {
+      "algorithm": "D2 U R' U' R U R D R' U R D' R2 U' R U2 D2",
+      "setup": "U' R' D R' D L B2 L' D R2 B2 U' L2 D L2 D' B2 U2"
+    },
+    "LI": {
+      "algorithm": "U r' U2 r D' R' U2 R' U' R2 U' D",
+      "setup": "U2 R2 F' U' B2 U F' D' L2 D F2 U' B2 R2 U R2 U"
+    },
+    "LR": {
+      "algorithm": "D' U R' U' R U R D R' U R D' R2 U' R U2 D",
+      "setup": "F' D F' D B R2 B' D F2 R2 U' B2 D B2 D' R2 U"
+    },
+    "LM": {
+      "algorithm": "D2 U r' U2 r D' R' U2 R' U' R2 U' D'",
+      "setup": "L2 B' U' F2 U B' U' B2 D L2 D' F2 L2 D F2 D'"
+    },
+    "LH": {
+      "algorithm": "D U R' U' R U R D R' U R D' R2 U' R U2 D'",
+      "setup": "U2 R' U' R' U' R U2 R U' B2 U R2 U' R2 U' B2 U'"
+    },
+    "LO": {
+      "algorithm": "D U r' U2 r D' R' U2 R' U' R2 U'",
+      "setup": "U L U' R2 U L U' L2 D L2 D' L2 F2 D' F2 R2"
+    },
+    "LN": {
+      "algorithm": "U R' U' R U R D R' U R D' R2 U' R U2",
+      "setup": "U L' D L' D R F2 R' D L2 F2 U' R2 D R2 D' F2"
+    },
+    "JT": {
+      "algorithm": "D' L U L' D L2 U2 L' U L U L2",
+      "setup": "F U2 F' U F U F U' R2 U R2 F2 U F2 D' F2 D"
+    },
+    "JK": {
+      "algorithm": "D' U R D' R2 U' R U2 R' U' R2 D R' U2 D",
+      "setup": "U2 R U' L2 U R' F2 U L2 U L2 U' F2 U2 L2"
+    },
+    "JP": {
+      "algorithm": "L' U' L2 D l' U2 l D' L' U2",
+      "setup": "U L D R' D' L' D R' B2 U B2 U' B2 D B2 D' R2 D'"
+    },
+    "JS": {
+      "algorithm": "U2 L' U2 L U' M F' L F l'",
+      "setup": "U R U' L2 U R' F2 U2 F2 U' F2 U' F2 U2 L2"
+    },
+    "JL": {
+      "algorithm": "D U' R' D' r U2 r' D R2 U' R' U' D'",
+      "setup": "L2 F' U B U B U F U' R2 B2 U' R2 D B2 D' L2"
+    },
+    "JG": {
+      "algorithm": "D L' U' L D' L2 U' L U2 L' U' L2",
+      "setup": "U L2 B' U F2 U' B U2 L2 U L2 U' F2 U2 L2"
+    },
+    "JI": {
+      "algorithm": "D L' U' R' D' r U2 r' D R2 U' R' U' L D'",
+      "setup": "R' D2 R' D' B2 L U' L U R2 U' F2 L2 U R2 D' R2 U'"
+    },
+    "JR": {
+      "algorithm": "D2 U R2 U' R U2 R' U' R2 D R' U' R U' D",
+      "setup": "F2 U B D' F2 D B' U D L2 B2 U D2 B2 U' L2 U2"
+    },
+    "JM": {
+      "algorithm": "D2 r' U2 r U' R' U R D' R' U2 R' U' R2 D'",
+      "setup": "U R U L' U L U R' D R2 B2 U B2 D' R2 F2 U2"
+    },
+    "JH": {
+      "algorithm": "D U2 R2 U R D' R U' R' D R U' R2 U R2 U' D'",
+      "setup": "R2 D' L' D R2 D' L D' B2 L2 U L2 B2 D' R2 D' R2"
+    },
+    "JO": {
+      "algorithm": "R D R U R2 U D' R U R U R2 U' D R D' R U' R'",
+      "setup": "U' F' D B' D B D F L2 U' L2 F2 D2 R2 D' F2 U"
+    },
+    "JN": {
+      "algorithm": "D' U' R' D' R U2 R U R2 D' r U2 r' D2 R U D",
+      "setup": "U2 F U B2 U' F U' B2 U F2 U2 B2 U' B2"
+    },
+    "IT": {
+      "algorithm": "D U2 R' D R2 U R' U2 R U R2 D' R U' D'",
+      "setup": "U R' U L2 U' R U D2 F2 D' L2 U L2 F2 D' L2"
+    },
+    "IK": {
+      "algorithm": "D L2 U' L' U' L U2 L2 D' L U' L'",
+      "setup": "F' U' D F' U D' F L2 U' L2 U2 B2 R2 D' R2 B2"
+    },
+    "IP": {
+      "algorithm": "D U R U R' D R2 U R' U2 R U R2 U' D2",
+      "setup": "B2 L' D R2 D' L D2 R2 D R2 D B2 L2 U' F2 L2"
+    },
+    "IS": {
+      "algorithm": "D' R D r' U2 r D' R2 U R U2 D",
+      "setup": "R U R2 U L2 U' D2 R U F2 D R2 D L2 U2 B2 R2 U'"
+    },
+    "IL": {
+      "algorithm": "L' D' L U L' D L2 U2 L' U L U L'",
+      "setup": "U2 R' U L2 U' R B2 U2 B2 U B2 U B2 U2 L2 U"
+    },
+    "IG": {
+      "algorithm": "U' L U L2 D' l U2 l' D L U'",
+      "setup": "F' D' B' D F' D' B L2 U B2 U' B2 D L2 F2 U"
+    },
+    "IE": {
+      "algorithm": "R D2 R' U2 R' U' R2 D r' U2 r D R'",
+      "setup": "F U' F2 D F2 U F D' F2 L2 D L2 D' B2 U B2"
+    },
+    "IJ": {
+      "algorithm": "D2 R2 U R U2 R D R' U' R U r' U2 r D",
+      "setup": "F U' F' U L2 F' L2 F U2 B2 R2 U' R2 D B2 L2 D'"
+    },
+    "IM": {
+      "algorithm": "D U R' U R' D R2 U R' U2 R U R2 D' R2 U' D'",
+      "setup": "U B' U' F2 U B' U F2 U F2 U F2 U2 B2 U'"
+    },
+    "IH": {
+      "algorithm": "D' L' U' D L U L2 D' l U2 l' D L U' D' L D",
+      "setup": "B D' F D' F' D' B' L2 U L2 B2 D2 R2 D B2"
+    },
+    "IO": {
+      "algorithm": "D' U R U R' D' R D R U R' U2 R U R' D' R' U' D2",
+      "setup": "R' U R' D2 R U' R B2 U2 R2 U B2 D L2 F2 D L2"
+    },
+    "IN": {
+      "algorithm": "D2 L' U R U R2 D' r U2 r' D R U L D2",
+      "setup": "U2 R' U' L U' L' U' R D' R2 F2 U' F2 D R2 B2 U'"
+    },
+    "GT": {
+      "algorithm": "U R U R' U R2 D R' U' R D' R' U' R'",
+      "setup": "R U2 R' U' R U' R F2 U B2 U' F2 U B2 U' R2 U'"
+    },
+    "GK": {
+      "algorithm": "U' R U' R' U R U' R' U' R U R2 D' R U' R' D R",
+      "setup": "R F2 R' B2 R F2 R' U2 R2 U' R2 U' R2 U2 R2 U B2"
+    },
+    "GP": {
+      "algorithm": "U' f R' F' R U2 R U2 R' U2 S'",
+      "setup": "F R2 F' U' B U' B U' L2 F2 U' R2 U F2 D' L2 U'"
+    },
+    "GS": {
+      "algorithm": "U' D' R U R' U' D R' U R' U' R' U R2",
+      "setup": "B' D' F2 D B' D2 F2 D' L2 B2 U B2 L2 D' B2"
+    },
+    "GE": {
+      "algorithm": "D2 U2 R' U R2 D R' U' R D' R' U' R' U R U' D2",
+      "setup": "U B D F' D F D B R2 D' F2 R2 D2 B2 U2"
+    },
+    "GJ": {
+      "algorithm": "D R' D' R U' M' U2 r' D R2 U' R' U' D'",
+      "setup": "U' L D' R2 D L' D2 R2 U D2 L2 B2 U B2 L2"
+    },
+    "GI": {
+      "algorithm": "D' U2 R' U R2 D R' U' R D' R' U' R' U R U' D",
+      "setup": "U2 R D L' D L D R F2 D' L2 F2 D2 R2 U"
+    },
+    "GR": {
+      "algorithm": "D2 R' D' R U' M' U2 r' D R2 U' R' U' D2",
+      "setup": "B D' F2 D B' D2 F2 D' L2 B2 U B2 L2 D'"
+    },
+    "GM": {
+      "algorithm": "D U2 R' U R2 D R' U' R D' R' U' R' U R U' D'",
+      "setup": "L D R' D R D L B2 U' B2 L2 D2 F2 D'"
+    },
+    "GH": {
+      "algorithm": "R' D' R U' M' U2 r' D R2 U' R' U'",
+      "setup": "L' U R2 U' L U R2 U2 F2 U' F2 U' F2 U2 F2"
+    },
+    "GO": {
+      "algorithm": "U2 R' U R2 D R' U' R D' R' U' R' U R U'",
+      "setup": "R' U R U R' U2 R U' B2 U B2 U B2 U2 B2"
+    },
+    "GN": {
+      "algorithm": "D' R' D' R U' M' U2 r' D R2 U' R' U' D",
+      "setup": "U R D' L2 D R' D2 L2 U' L2 B2 U B2 L2 D2"
+    },
+    "HT": {
+      "algorithm": "U R2 U R U R' U2 R2 D R' U R U' D'",
+      "setup": "B' U F' U F U B' U R2 B2 D L2 U' L2 B2 D' B2"
+    },
+    "HK": {
+      "algorithm": "U' L D' L2 U' L U2 L' U' L2 D L'",
+      "setup": "U B U' F2 U B' R2 U F2 U F2 U' R2 U2 F2 U"
+    },
+    "HP": {
+      "algorithm": "D U2 R' U' R2 D r' U2 r D' R' D'",
+      "setup": "F D B' D' F' D B' L2 U L2 D' B2 U R2 U' R2"
+    },
+    "HS": {
+      "algorithm": "D U R D R' U' R D' R2 U2 R U' R' U' R U' D'",
+      "setup": "B U' F2 U B' R2 U2 R2 U' R2 U' R2 U2 F2 U"
+    },
+    "HL": {
+      "algorithm": "U' R' D' r U2 r' D R2 U' R' U'",
+      "setup": "R2 F U D' F U' D F' R2 F2 U F2 U' R2 D R2 D'"
+    },
+    "HG": {
+      "algorithm": "D U R2 U R2 D' r U2 r' D R U2 R' U' D'",
+      "setup": "F2 L' U R2 U' L U2 F2 U F2 U' R2 U2 F2 U"
+    },
+    "HE": {
+      "algorithm": "L' U' R' D' r U2 r' D R2 U' R' U' L",
+      "setup": "U2 L D L D L' D2 L' U2 L2 D L2 U' L2 B2 D' B2 L2"
+    },
+    "HJ": {
+      "algorithm": "D U R2 U' R U2 R' U' R2 D R' U' R U' D2",
+      "setup": "U R2 U' B' U F2 U' B U' F2 U' F2 U' F2 U' R2 U'"
+    },
+    "HI": {
+      "algorithm": "L2 U' R' D' r U2 r' D R2 U' R' U' L2",
+      "setup": "U L' D2 L' D L D L D2 R2 B2 U B2 R2 U' R2 D2 R2"
+    },
+    "HR": {
+      "algorithm": "L U' L D' L2 U' L U2 L' U' L2 D L2",
+      "setup": "U R U L2 U' R U' L2 U R2 U2 L2 U' L2 U"
+    },
+    "HO": {
+      "algorithm": "D r' U2 r U' R' U R D' R' U2 R' U' R2",
+      "setup": "B U F' U F U B' U R2 B2 D L2 U' L2 B2 D'"
+    },
+    "HN": {
+      "algorithm": "U2 R2 U R D' R U' R' D R U' R2 U R2 U'",
+      "setup": "R D2 L U2 L' D2 R' U2 R2 U R2 B2 U' R2 U B2 U2"
+    },
+    "ET": {
+      "algorithm": "U2 R' D R2 U R' U2 R U R2 D' R U'",
+      "setup": "B' U F2 U' B L2 U' F2 U' F2 U L2 U2 F2 U2"
+    },
+    "EK": {
+      "algorithm": "L2 U' L' U' L U2 L2 D' L U' L' D",
+      "setup": "U B U' F U' F' U' B' U' L2 U R2 U' R2 D B2 D' L2"
+    },
+    "EP": {
+      "algorithm": "U R U R' D R2 U R' U2 R U R2 U' D'",
+      "setup": "U F2 R U' L2 U R' U2 F2 U' F2 U L2 U2 F2 U2"
+    },
+    "ES": {
+      "algorithm": "U2 L D l' U2 l D' L2 U L",
+      "setup": "U R' D' L' D' L' D' R' D2 L2 U' L2 U L2 D' B2 D2 R2"
+    },
+    "EL": {
+      "algorithm": "D U' R U2 R' U M F R' F' r U' D'",
+      "setup": "U B' U F2 U' B L2 U2 L2 U L2 U L2 U2 F2 U2"
+    },
+    "EG": {
+      "algorithm": "D U R U R2 D' r U2 r' D R U D'",
+      "setup": "L' U' R' U L U' R F2 L2 U' L2 U L2 D' L2 D F2"
+    },
+    "EI": {
+      "algorithm": "D2 U R U R' D' R D R U R' U2 R U R' D' R' U' D'",
+      "setup": "F U' F D2 F' U F' B2 U' F2 U F2 U B2 D2"
+    },
+    "ER": {
+      "algorithm": "D L' U R U R2 D' r U2 r' D R U L D'",
+      "setup": "L' U' R' U L' U' R U2 L2 U' L2 D L2 D' B2 U B2"
+    },
+    "EM": {
+      "algorithm": "D' R D2 R' U2 R' U' R2 D r' U2 r D R' D",
+      "setup": "R2 D F D' B2 D F' D B2 R2 L2 U F2 U F2 U L2"
+    },
+    "EH": {
+      "algorithm": "D R2 U R U2 R D R' U' R U r' U2 r D2",
+      "setup": "F' D R2 F D2 L2 U' B U L2 F2 U F2 U' F2 D F2"
+    },
+    "EO": {
+      "algorithm": "U R' U R' D R2 U R' U2 R U R2 D' R2 U'",
+      "setup": "L' U' R2 U L' U R2 U R2 U R2 U2 L2"
+    },
+    "EN": {
+      "algorithm": "R U R' D R' U D' R2 U' R' U' R' U' D R2 U' R' D' R'",
+      "setup": "L B2 L U' R' U' R U2 B2 D' B2 D L2 U' L2 U2 L2"
+    },
+    "PT": {
+      "algorithm": "U S' R' U' R f R' F' U R U R U' R'",
+      "setup": "R2 U' L' U R2 U' L U2 R2 U R2 U R2 U2 R2"
+    },
+    "PK": {
+      "algorithm": "U R U' R' U2 R U' R2 D' R U' R' D R U'",
+      "setup": "F' U2 F U F' U F' R2 U' L2 U R2 U' L2 U F2 U"
+    },
+    "PL": {
+      "algorithm": "R' U' R U D' R U' R U R U' R2 U D",
+      "setup": "L D R2 D' L D2 R2 D B2 L2 U' L2 B2 D L2"
+    },
+    "PG": {
+      "algorithm": "U2 f' L F L' U2 L' U2 L U2 S U'",
+      "setup": "R' F2 R U L' U L' U B2 R2 U F2 U' R2 D B2 U"
+    },
+    "PE": {
+      "algorithm": "U L D L' U M' U2 l D' L2 U L",
+      "setup": "U' F' D B2 D' F D2 B2 U B2 L2 U' L2 B2 D2"
+    },
+    "PJ": {
+      "algorithm": "D U R U' R2 D' R U R' D R U R U' R' U2 D'",
+      "setup": "F U' F' U' F U2 F' U L2 U' L2 U' L2 U2 L2"
+    },
+    "PI": {
+      "algorithm": "D' U' R D R' U M U2 r D' R2 U R U2 D",
+      "setup": "L' D R2 D' L D2 R2 D B2 L2 U' L2 B2 D"
+    },
+    "PR": {
+      "algorithm": "D2 U R U' R2 D' R U R' D R U R U' R' U2 D2",
+      "setup": "U L U' L' U' L U2 L' U B2 U' B2 U' B2 U2 B2 U'"
+    },
+    "PM": {
+      "algorithm": "D U' R D R' U M U2 r D' R2 U R U2 D'",
+      "setup": "B U' F2 U B' U' F2 U2 R2 U R2 U R2 U2 R2"
+    },
+    "PH": {
+      "algorithm": "U R U' R2 D' R U R' D R U R U' R' U2",
+      "setup": "B' D' F D' F' D' B' L2 U L2 B2 D2 R2 D"
+    },
+    "PO": {
+      "algorithm": "U' R D R' U M U2 r D' R2 U R U2",
+      "setup": "U B' D F2 D' B D2 F2 U' D2 B2 L2 U' L2 B2"
+    },
+    "PN": {
+      "algorithm": "D' U R U' R2 D' R U R' D R U R U' R' U2 D",
+      "setup": "U2 B U' B' U' B U2 B' U R2 U' R2 U' R2 U2 R2 U2"
+    },
+    "NT": {
+      "algorithm": "D' U R2 U R U R' U2 R2 D R' U R U'",
+      "setup": "U R' U L U L' U R L2 U2 R2 D' F2 D R2 U L2"
+    },
+    "NK": {
+      "algorithm": "R' U2 R U' R' U2 R' D' R U R' D R2 U'",
+      "setup": "L U' R2 U L' B2 U R2 U R2 U' B2 U2 R2 U2"
+    },
+    "NP": {
+      "algorithm": "U2 R' U' R2 D r' U2 r D' R'",
+      "setup": "B U F U F' U B U' F2 U F2 D' L2 D B2"
+    },
+    "NS": {
+      "algorithm": "U R D R' U' R D' R2 U2 R U' R' U' R U'",
+      "setup": "U B' D F2 D' B D' R2 B2 U D2 F2 D' L2 U B2"
+    },
+    "NL": {
+      "algorithm": "D' U' R' D' r U2 r' D R2 U' R' U' D",
+      "setup": "U' F D B D B D F D2 B2 U B2 U' B2 D L2 D2 F2"
+    },
+    "NG": {
+      "algorithm": "U R2 U R2 D' r U2 r' D R U2 R' U'",
+      "setup": "U' R2 F' U B2 U' F U2 R2 U R2 U' B2 U2 R2 U2"
+    },
+    "NE": {
+      "algorithm": "L' U' D' R' D' r U2 r' D R2 U' R' U' D L",
+      "setup": "B R2 B' D F D F' L2 U2 F2 L2 D' L2 F2 U L2 D'"
+    },
+    "NJ": {
+      "algorithm": "D U' R' D' R U2 R U R2 D' r U2 r' D2 R U D'",
+      "setup": "B U F2 U' B U' F2 U' F2 U' F2 U2 B2"
+    },
+    "NI": {
+      "algorithm": "r' U2 r U' R' U R D' R' U2 R' U' R2 D",
+      "setup": "B U F U' B U F' U2 B2 U B2 D' B2 D L2 U' L2"
+    },
+    "NR": {
+      "algorithm": "D' U2 R2 U R D' R U' R' D R U' R2 U R2 U' D",
+      "setup": "R' U R' D2 R U' R L2 U R2 U' R2 U' L2 D2"
+    },
+    "NM": {
+      "algorithm": "U' R2 U' R' U2 R' D' R U R' U' r U2 r' U D",
+      "setup": "R D' F2 R' D2 B2 U L' U' B2 R2 U' R2 U R2 D' R2"
+    },
+    "NH": {
+      "algorithm": "U R2 U' R U2 R' U' R2 D R' U' R U' D'",
+      "setup": "F2 D' R' D L2 D' R D' L2 F2 B2 U' R2 U' R2 U' B2"
+    },
+    "MT": {
+      "algorithm": "D' U2 R' D R2 U R' U2 R U R2 D' R U' D",
+      "setup": "U' L' U R2 U' L F2 U' R2 U' R2 U F2 U2 R2 U'"
+    },
+    "MK": {
+      "algorithm": "D U R' U' R D' R2 U2 R U' R' U' R2 U'",
+      "setup": "L U' R U' R' U' L U' F2 L2 D' B2 U B2 L2 D L2"
+    },
+    "MP": {
+      "algorithm": "D' U R U R' D R2 U R' U2 R U R2 U'",
+      "setup": "R2 B U' F2 U B' U2 R2 U' R2 U F2 U2 R2 U'"
+    },
+    "MS": {
+      "algorithm": "D R D r' U2 r D' R2 U R U2 D'",
+      "setup": "R2 B' D' F' D' F D' B' L2 D2 F2 D B2 D' F2 D R2 U'"
+    },
+    "ML": {
+      "algorithm": "U' R U2 R' U M F R' F' r U'",
+      "setup": "L' U R2 U' L F2 U2 F2 U F2 U F2 U2 R2 U'"
+    },
+    "MG": {
+      "algorithm": "U R U R2 D' r U2 r' D R U",
+      "setup": "R' D' L D R D' L B2 U' B2 D L2 U' F2 U F2"
+    },
+    "ME": {
+      "algorithm": "D U R U R' D' R D R U R' U2 R U R' D' R' U'",
+      "setup": "F' D2 B' U2 B D2 F U2 F2 U' F2 L2 U F2 U' L2 U2"
+    },
+    "MJ": {
+      "algorithm": "L' U R U R2 D' r U2 r' D R U L",
+      "setup": "L' U' R U' R' U' L U' F2 L2 D' B2 U B2 L2 D"
+    },
+    "MI": {
+      "algorithm": "D' U R' U R' D R2 U R' U2 R U R2 D' R2 U' D",
+      "setup": "U' F' U' B2 U F U B2 D2 L2 U L2 D' B2 D' B2"
+    },
+    "MR": {
+      "algorithm": "L2 U R U R2 D' r U2 r' D R U L2",
+      "setup": "U2 F D' B D' B' D' F' R2 U R2 F2 D2 L2 D F2 U2"
+    },
+    "MO": {
+      "algorithm": "U2 R2 U R' U2 R U R2 D' R U R' U2 D",
+      "setup": "U F2 U' B' D F2 D' B D2 F2 R2 U' D2 R2 U F2 D"
+    },
+    "MN": {
+      "algorithm": "R2 U R U2 R D R' U' R U r' U2 r D'",
+      "setup": "U2 B' D' B' D' B D2 B U2 B2 D' B2 U B2 L2 D L2 B2"
+    },
+    "ST": {
+      "algorithm": "U R' D' R U R' D R2 U R' U2 R U R' U'",
+      "setup": "B2 R D R D R' D2 R D' L2 F2 D' B2 R2 U L2 F2 U2"
+    },
+    "SK": {
+      "algorithm": "R U2 R' U' R2 D R' U' R D' R2 U'",
+      "setup": "R2 U B U' F2 U B' R2 D' R2 D B2 U' F2 B2 R2 U'"
+    },
+    "SL": {
+      "algorithm": "U S' U2 L' U2 L U2 L F' L' f U2",
+      "setup": "R2 F' D F D B' L2 B D' R2 U F2 R2 D' R2 F2 U2"
+    },
+    "SG": {
+      "algorithm": "U2 R2 D' r U2 r' D R U2 R U'",
+      "setup": "U L' D' R2 D L' D' R2 B2 U R2 U' R2 D B2 L2"
+    },
+    "SE": {
+      "algorithm": "D U2 R U R' U' R' D' R U' R' D R2 U R' U' D'",
+      "setup": "U2 B D F' D F D B' L2 U B2 D2 L2 F2 D' F2 L2 B2"
+    },
+    "SJ": {
+      "algorithm": "D2 R B2 R' D r B2 r D r2 D",
+      "setup": "U' B' U F2 U' B' U B2 D' B2 D B2 R2 D R2 F2"
+    },
+    "SI": {
+      "algorithm": "D2 U2 R U R' U' R' D' R U' R' D R2 U R' U' D2",
+      "setup": "R D' R D' L' F2 L D' R2 F2 U L2 D' L2 D F2 U'"
+    },
+    "SR": {
+      "algorithm": "D' R B2 R' D r B2 r D r2",
+      "setup": "U2 F2 R U L2 U' R D B2 D' R2 U L2 F2 U' F2 U'"
+    },
+    "SM": {
+      "algorithm": "U2 R U R' U' R' D' R U' R' D R2 U R' U'",
+      "setup": "U2 F U F U F' U2 F U F2 U L2 U R2 U' L2 U R2"
+    },
+    "SH": {
+      "algorithm": "D R B2 R' D r B2 r D r2 D2",
+      "setup": "B2 L U R2 U' L U L2 D' B2 D R2 B2 D' R2 D"
+    },
+    "SO": {
+      "algorithm": "D' U2 R U R' U' R' D' R U' R' D R2 U R' U' D",
+      "setup": "U R U R U R' U2 R' U F2 U' R2 U R2 U F2 U2"
+    },
+    "SN": {
+      "algorithm": "R B2 R' D r B2 r D r2 D'",
+      "setup": "U R2 B' D F2 D' B D2 F2 D2 R2 U' B2 L2 U' L2 B2"
+    },
+    "TP": {
+      "algorithm": "U R' U R U R' U' R' D' R U' R' D R2",
+      "setup": "R U' B2 U B2 U R' U' B2 U B2 U' B2 U' B2"
+    },
+    "TS": {
+      "algorithm": "U R U' R' U2 R U' R' U2 R' D' R U R' D R U'",
+      "setup": "L U' B2 D2 R F2 D R U F2 U' F2 D R2 B2 U"
+    },
+    "TL": {
+      "algorithm": "U' R' U' R U R' U' R2 D R' U R D' R' U2 R' U R U'",
+      "setup": "R F2 R' B2 R F2 R' B2 U' R2 U2 R2 U R2 U R2 U2"
+    },
+    "TG": {
+      "algorithm": "U' L' U' L U' R U' L' U R' U2 L",
+      "setup": "F' D' B D F' D' B' L2 U B2 U' B2 D L2 F2 U"
+    },
+    "TE": {
+      "algorithm": "D2 U R2 D' R U R' D R2 U R' U2 R D2",
+      "setup": "U2 R U' L2 U R' U L2 U L2 U L2"
+    },
+    "TJ": {
+      "algorithm": "U R' D R2 U' R' U2 R U' R' U2 R' D' R",
+      "setup": "U B U' F U' F' U' B' R2 F2 R2 F2 D' F2 D R2 U' R2"
+    },
+    "TI": {
+      "algorithm": "D' R D R' U R D' R2 U R U R' U2 R D",
+      "setup": "U' F U' B2 U F' U B2 U B2 U B2 U'"
+    },
+    "TR": {
+      "algorithm": "D' U R' U' R U2 R' U' R2 D R' U' R D' R' U' D",
+      "setup": "R U' L' U' L' U' R' U F2 L2 U F2 D' L2 D"
+    },
+    "TM": {
+      "algorithm": "U D R2 D' R U R' D R2 U R' U2 R D'",
+      "setup": "U B U' F2 U B' U F2 U F2 U F2 U"
+    },
+    "TH": {
+      "algorithm": "U D' R' D R2 U' R' U2 R U' R' U2 R' D' R D",
+      "setup": "L U' R' U' R' U' L' U R2 U' R2 D B2 D' B2 R2 B2"
+    },
+    "TO": {
+      "algorithm": "R D R' U R D' R2 U R U R' U2 R",
+      "setup": "L U' R2 U L' U R2 U R2 U R2 U2"
+    },
+    "TN": {
+      "algorithm": "U R' U' R U2 R' U' R2 D R' U' R D' R' U'",
+      "setup": "R U2 R U' R' U' R' F2 D2 B2 L2 D' B2 D' F2 U R2"
+    },
+    "RT": {
+      "algorithm": "D2 U R2 U R U R' U2 R2 D R' U R U' D",
+      "setup": "R U D' R U' D R U2 R2 B2 U B2 U' R2 U' R2 U'"
+    },
+    "RK": {
+      "algorithm": "U R D' R2 U' R U2 R' U' R2 D R' U2",
+      "setup": "U L' D R2 D' L D R2 D R2 U' R2 D2 L2 U' L2"
+    },
+    "RP": {
+      "algorithm": "D' U2 R' U' R2 D r' U2 r D' R' D",
+      "setup": "R D L D' R D L' B2 U' L2 U L2 D' B2 R2 U'"
+    },
+    "RS": {
+      "algorithm": "D' U R D R' U' R D' R2 U2 R U' R' U' R U' D",
+      "setup": "U2 F U' B2 U F' L2 U2 L2 U' L2 U' L2 U2 B2 U'"
+    },
+    "RL": {
+      "algorithm": "U L' D' l U2 l' D L2 U' L' U",
+      "setup": "F U F2 D L2 D L2 F' D' L2 U B2 D2 B2 U' L2 F2 U'"
+    },
+    "RG": {
+      "algorithm": "D' U R2 U R2 D' r U2 r' D R U2 R' U' D",
+      "setup": "L2 B D' F2 D B' D2 F2 D' F2 D' L2 B2 U R2 B2"
+    },
+    "RE": {
+      "algorithm": "D' r' U2 r U' R' U R D' R' U2 R' U' R2 D2",
+      "setup": "U2 F U B' U B U F' D F2 R2 U R2 D' F2 L2 U"
+    },
+    "RJ": {
+      "algorithm": "D2 U2 R2 U R D' R U' R' D R U' R2 U R2 U' D2",
+      "setup": "F U' F D2 F' U F' L2 U2 F2 U' L2 D' B2 R2 D' B2"
+    },
+    "RM": {
+      "algorithm": "U R U E' D' R' U' R2 D r' U2 r D' R' U2 F' U'",
+      "setup": ""
+    },
+    "RH": {
+      "algorithm": "U' R' D' R U2 R U R2 D' r U2 r' D2 R U",
+      "setup": "U' L U R2 U' L U' R2 U L2 U2 R2 U' R2 U'"
+    },
+    "RO": {
+      "algorithm": "U' D' R2 U' R' U2 R' D' R U R' U' r U2 r' U D2",
+      "setup": "R D R D R2 L B2 L U2 L2 F2 U B2 U B2 U' F2"
+    },
+    "RN": {
+      "algorithm": "D' U R2 U' R U2 R' U' R2 D R' U' R U'",
+      "setup": "R' U R2 D' R2 U' R' D R2 B2 D' B2 D L2 U' L2"
+    },
+    "OT": {
+      "algorithm": "L' D L2 U L' U2 L U L2 D' L U",
+      "setup": "U2 F' U B2 U' F R2 U' B2 U' B2 U R2 U2 B2"
+    },
+    "OK": {
+      "algorithm": "U R' U' R D' R2 U2 R U' R' U' R2 U' D",
+      "setup": "R' U2 R U' R' U' R' U F2 U' F2 R2 U' R2 D R2 D'"
+    },
+    "OP": {
+      "algorithm": "D2 U R U R' D R2 U R' U2 R U R2 U' D",
+      "setup": "U R2 B' D F2 D' B R2 U' B2 L2 U' L2 U' L2 U B2"
+    },
+    "OS": {
+      "algorithm": "R D r' U2 r D' R2 U R U2",
+      "setup": "B L2 F U F' U' L2 B U B2 U' B2 R2 U' R2 D B2 D'"
+    },
+    "OL": {
+      "algorithm": "D' U' R U2 R' U M F R' F' r U' D",
+      "setup": "U R D' L2 D R' D B2 R2 U R2 D B2 U' L2 D2"
+    },
+    "OG": {
+      "algorithm": "D' U R U R2 D' r U2 r' D R U D",
+      "setup": "U L' D' R' D L' D' R B2 U R2 U' R2 D B2 L2"
+    },
+    "OE": {
+      "algorithm": "D2 U R' U R' D R2 U R' U2 R U R2 D' R2 U' D2",
+      "setup": "U2 R' U' L2 U R' U L2 U' R2 U2 L2 U L2"
+    },
+    "OJ": {
+      "algorithm": "L' U D' R U R2 D' r U2 r' D R U D L",
+      "setup": "U R D' L D' L' D' R' B2 U B2 R2 D2 F2 D R2 U'"
+    },
+    "OI": {
+      "algorithm": "D L2 U L' U2 L U L2 D' L U L'",
+      "setup": "R2 U' L' D R2 D' L U D F2 R2 U' D2 R2 U F2 D2"
+    },
+    "OR": {
+      "algorithm": "D' R2 U R U2 R D R' U' R U r' U2 r",
+      "setup": "F D2 F D L2 B' U B' U' F2 U R2 B2 U' F2 D F2 U"
+    },
+    "OM": {
+      "algorithm": "U R U R' D' R D R U R' U2 R U R' D' R' U' D",
+      "setup": "R U2 R' B2 L F2 L F2 L2 B2 U2 R2 U R2 U' R2 U'"
+    },
+    "OH": {
+      "algorithm": "D' L' U R U R2 D' r U2 r' D R U L D",
+      "setup": "U' F' U' B U' B' U' F D' F2 L2 U' L2 D F2 R2 U2"
+    },
+    "BT": {
+      "algorithm": "D L D' L2 U L U2 L' U L2 D L' U D'",
+      "setup": "R' D' L2 D R F2 D F2 D B2 U B2 D2 L2"
+    },
+    "BK": {
+      "algorithm": "U R' D R2 U' R' U2 R U' R2 D' R U2",
+      "setup": "L' D' R2 D L D' R2 B2 U' B2 U D L2 U' L2"
+    },
+    "BP": {
+      "algorithm": "l F' L' F M' U L' U2 L U2",
+      "setup": "R' U2 R' B2 L F2 L' B2 D2 B2 L2 U' L2 D' B2 R2 D'"
+    },
+    "BS": {
+      "algorithm": "D U R2 U' R' U2 R U' R2 D' R U' R' U'",
+      "setup": "B2 U' R' U L2 U' R L2 B2 U R2 L2 D L2 D' R2 U'"
+    },
+    "BL": {
+      "algorithm": "L2 U L U2 L' U L2 D L' U L D'",
+      "setup": "R2 U R D' L2 D R' U2 R2 B2 L2 D2 B2 D L2 U B2"
+    },
+    "BG": {
+      "algorithm": "D U r' F R F' M' U' R U2 R' U D'",
+      "setup": "F' U2 F' R2 B L2 B L2 U L2 B2 D B2 L2 U' B2 R2"
+    },
+    "BI": {
+      "algorithm": "D' U R' U R D' R2 U R U2 R' U R2 U' D2",
+      "setup": "U' F2 L' D R2 D' L F2 B2 U L2 U' B2 L2 U L2 U"
+    },
+    "BR": {
+      "algorithm": "D U R D R U' R' U2 R U' R' D' R' D R U' R' U' D2",
+      "setup": "U' R' U L2 U' R U2 B2 U' B2 U' B2 U2 B2 U2 L2"
+    },
+    "BM": {
+      "algorithm": "R2 F' R2 U D' F' D F' U' F R2 F",
+      "setup": "U' B U' F2 U B' U2 R2 D B2 D L2 B2 D2 R2"
+    },
+    "BH": {
+      "algorithm": "D U R2 U' R2 D' R U R' D R U R U' R' U' R' U' D'",
+      "setup": "U' R2 B U' F2 U B' R2 U2 R2 U R2 U R2 F2 U2 R2"
+    },
+    "BO": {
+      "algorithm": "D' U' R' D2 r U2 r' D R2 U' R' U2 R' D R U D",
+      "setup": "L2 B' D F2 D' B U' L2 D F2 U2 F2 L2 F2 L2 D'"
+    },
+    "BN": {
+      "algorithm": "R D2 r' U2 r D' R2 U R U2 R D' R'",
+      "setup": "U2 R2 B D F2 D' B' R2 U B2 L2 U2 B2 U' B2 U' B2"
+    },
+    "XT": {
+      "algorithm": "L D' L2 U L U2 L' U L2 D L' U",
+      "setup": "U R D L2 D' R' D L2 B2 U B2 U2 B2 U B2 D'"
+    },
+    "XK": {
+      "algorithm": "D' U R' D R2 U' R' U2 R U' R2 D' R U2 D",
+      "setup": "U L D R2 D' L' U L2 D2 R2 D L2 U L2 D L2"
+    },
+    "XP": {
+      "algorithm": "D U R' U R U R' U2 R2 D R' U R D' R' U' D'",
+      "setup": "R U2 R F2 R' U2 R' U' R2 U' R2 U F2 R2 U' F2 U'"
+    },
+    "XS": {
+      "algorithm": "U R2 U' R' U2 R U' R2 D' R U' R' U' D",
+      "setup": "U R2 U R D' L2 D R D' L2 U2 R2 U D R2 B2 U2 B2"
+    },
+    "XL": {
+      "algorithm": "D U R U2 R' D' r U2 r' D R2 U' R2 U' D'",
+      "setup": "U' F2 U R U' L2 U R' U F2 D F2 U2 D' L2 F2"
+    },
+    "XG": {
+      "algorithm": "U r' F R F' M' U' R U2 R' U",
+      "setup": "F U2 F L2 F' U2 F' U' F2 U L2 U' L2 U' L2 F2 U"
+    },
+    "XE": {
+      "algorithm": "D2 U R' U R D' R2 U R U2 R' U R2 U' D'",
+      "setup": "U2 R2 F' D B2 D' F R2 L2 U F2 U' L2 F2 U F2 U2"
+    },
+    "XJ": {
+      "algorithm": "U R D R U' R' U2 R U' R' D' R' D R U' R' U' D'",
+      "setup": "U2 B' U F2 U' B U2 L2 D' B2 U' B2 L2 D2 F2 D'"
+    },
+    "XI": {
+      "algorithm": "L2 D' L2 U L U2 L' U L2 D L' U L'",
+      "setup": "U' F2 L' D R2 D' L' U F2 L2 D F2 D2 B2 U L2 D"
+    },
+    "XR": {
+      "algorithm": "D' U R2 D R2 U' R' U2 R U' R2 D' R U' R U' D",
+      "setup": "U R2 B D' F2 D B U' R2 B2 D' R2 D2 L2 U' B2 D'"
+    },
+    "XO": {
+      "algorithm": "U R2 U' R2 U R' D' R U R' D R' U' R2 U2",
+      "setup": "U2 L U' R2 U L' U2 B2 D L2 U L2 B2 D2 R2 D"
+    },
+    "XN": {
+      "algorithm": "U R2 U' R2 D' R U R' D R U R U' R' U' R' U'",
+      "setup": "U2 F2 R D' L2 D R' F2 B2 U' R2 U B2 R2 U' R2 U2"
+    },
+    "VT": {
+      "algorithm": "U R2 D' R U' R' D R U2 R U R' U2 R",
+      "setup": "B D F2 D' B' D F2 L2 U L2 U' D' B2 U B2"
+    },
+    "VK": {
+      "algorithm": "U' L' D L2 U' L' U2 L U' L2 D' L",
+      "setup": "F D B2 D' F' R2 D' R2 D' L2 U' L2 D2 B2"
+    },
+    "VP": {
+      "algorithm": "U R' U R U R' U2 R2 D R' U R D' R' U'",
+      "setup": "R U2 R F2 L' B2 L' B2 U' B2 L2 D' L2 B2 U L2 F2"
+    },
+    "VS": {
+      "algorithm": "D' U R2 U' R' U2 R U' R2 D' R U' R' U' D2",
+      "setup": "F U' R2 U R2 U F' L2 U' L2 D L2 D' L2 F2 D' F2"
+    },
+    "VL": {
+      "algorithm": "U R U2 R' D' r U2 r' D R2 U' R2 U'",
+      "setup": "L2 U F U' B2 U F' B2 L2 U' F2 B2 D' B2 D F2 U"
+    },
+    "VG": {
+      "algorithm": "D' U r' F R F' M' U' R U2 R' U D",
+      "setup": "R F' L B2 L' F R D' R2 D L2 B2 D B2 U' D' L2"
+    },
+    "VE": {
+      "algorithm": "D U' R' D2 r U2 r' D R2 U' R' U2 R' D R U D'",
+      "setup": "U2 R2 F' D B2 D' F' U R2 F2 U D2 B2 U L2 D2 R2"
+    },
+    "VJ": {
+      "algorithm": "D2 U R2 D R2 U' R' U2 R U' R2 D' R U' R U' D2",
+      "setup": "L2 F D B2 D' F' U F2 D B2 D B2 R2 F2 U2 B2"
+    },
+    "VI": {
+      "algorithm": "D U' L2 U' L2 U L' D' L U L' D L' U' L2 D'",
+      "setup": "U F U' B2 U F' U2 L2 U L2 U L2 U2 L2 U2 B2"
+    },
+    "VR": {
+      "algorithm": "L U' L' D L2 U' L' U2 L U' L2 D'",
+      "setup": "U R2 B D' F2 D B' R2 L2 U' B2 U L2 B2 U' B2 U'"
+    },
+    "VM": {
+      "algorithm": "D U R' U R D' R2 U R U2 R' U R2 U'",
+      "setup": "U F2 L' U R2 U' L F2 U2 F2 U' F2 U' F2 R2 U2 F2"
+    },
+    "VH": {
+      "algorithm": "D' U R D R U' R' U2 R U' R' D' R' D R U' R' U'",
+      "setup": "U L' U R2 U' L U2 F2 D' L2 D' B2 L2 D2 F2"
+    },
+    "UT": {
+      "algorithm": "U2 R D' R2 U R U2 R' U R2 D R' U'",
+      "setup": "U F' D' B2 D F L2 U B2 U L2 U' B2 U2 L2 U"
+    },
+    "UK": {
+      "algorithm": "D U R' D R2 U' R' U2 R U' R2 D' R U2 D'",
+      "setup": "U B' D' F2 D B D' F2 R2 U' R2 D2 L2 U' L2 D'"
+    },
+    "UP": {
+      "algorithm": "D' U R' U R U R' U2 R2 D R' U R D' R' U' D",
+      "setup": "R' U2 R' B2 R U2 R' U F2 L2 F2 U2 B2 U F2 D' F2"
+    },
+    "US": {
+      "algorithm": "D2 U R2 U' R' U2 R U' R2 D' R U' R' U' D'",
+      "setup": "U R2 U' F' U B2 U' F U' R2 L2 D' R2 D L2 U2 B2 R2"
+    },
+    "UL": {
+      "algorithm": "D' U R U2 R' D' r U2 r' D R2 U' R2 U' D",
+      "setup": "U B2 U L U' R2 U L' U B2 D B2 U2 D' R2 B2 U2"
+    },
+    "UG": {
+      "algorithm": "L U' L' U' L U2 L2 D' L U' L' D L",
+      "setup": "F U2 F L2 F' U2 F U' R2 B2 R2 U2 L2 U' R2 D R2"
+    },
+    "UE": {
+      "algorithm": "U' L2 U' L2 U L' D' L U L' D L' U' L2",
+      "setup": "R U' L2 U R' U2 F2 D R2 D B2 R2 D2 F2 U'"
+    },
+    "UJ": {
+      "algorithm": "R D' r' U2 r D' R2 U R U2 R D2 R'",
+      "setup": "B2 L D' R2 D L' F2 B2 U' L2 U F2 L2 U' L2"
+    },
+    "UM": {
+      "algorithm": "U' R' D2 r U2 r' D R2 U' R' U2 R' D R U",
+      "setup": "R F2 L B2 R' D2 L' B2 R2 D2 R2 U' F2 U F2 U B2"
+    },
+    "UH": {
+      "algorithm": "D U R2 D R2 U' R' U2 R U' R2 D' R U' R U' D'",
+      "setup": "F' R2 B' L2 F D2 B L2 F2 D2 F2 U R2 U' R2 U' L2"
+    },
+    "UO": {
+      "algorithm": "U R' U R D' R2 U R U2 R' U R2 U' D",
+      "setup": "L2 B' D F2 D' B R2 L2 U B2 U' R2 B2 U B2"
+    },
+    "UN": {
+      "algorithm": "D2 U R D R U' R' U2 R U' R' D' R' D R U' R' U' D",
+      "setup": "F' U B2 U' F U2 R2 D' F2 D' L2 F2 D2 R2 U"
+    }
+  },
+  "notes": {
+    "excludedCornerPairs": [
+      "DD",
+      "FF",
+      "PP",
+      "AA",
+      "MM"
+    ],
+    "wordDefault": "Existing trainer words retained; additional pairs imported from corner_data.json. Alternatives preserved.",
+    "algorithms": "Imported from your existing trainers; cube effects and setups have not been independently verified.",
+    "letterScheme": "Original dataset labels retained, including Ø. Python cube mappings differ from converted datasets; no tracing scheme is assumed."
+  },
+  "specialEdges": [
+    "CG",
+    "CS",
+    "CV",
+    "DV",
+    "ES",
+    "EV",
+    "GC",
+    "GJ",
+    "GL",
+    "GM",
+    "GO",
+    "GU",
+    "HV",
+    "IV",
+    "JG",
+    "JR",
+    "LG",
+    "LV",
+    "MG",
+    "MS",
+    "MV",
+    "NV",
+    "OG",
+    "OR",
+    "OS",
+    "OV",
+    "PV",
+    "QB",
+    "QS",
+    "QV",
+    "RJ",
+    "RO",
+    "SC",
+    "SE",
+    "SM",
+    "SO",
+    "UG",
+    "VA",
+    "VC",
+    "VD",
+    "VE",
+    "VI",
+    "VL",
+    "VM",
+    "VN",
+    "VO"
+  ]
+}
