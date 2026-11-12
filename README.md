@@ -2,6 +2,38 @@
 
 An offline-first, installable practice app built from your existing trainers. The original project folders are unchanged. All app assets and your imported library are inside this directory. There are no runtime dependencies, external fonts, accounts, paid APIs, or backend services.
 
+## Version 2: guided practice and connected drills
+
+The home screen now offers one recommendation and three goals: **Faster memo**, **Smoother execution**, and **Put it together**. The original individual drills, filters, LTCT, memo retention, and mixed daily review remain under **Practice → All individual drills & custom practice**. Recommendations begin with sound foundations, then sound pairs and corner images, and finally connected chains; due reviews take priority when there are at least five. The cube toggle prevents recommendations for physical execution when no cube is available.
+
+Exercise titles and objectives are larger, with higher-contrast navy, blue, teal, and amber colors. Revealing a positional sound hides its cube diagram so the answer and grading controls are easier to reach on a phone.
+
+### Edge sounds
+
+The app imports 22 sticker positions / 44 positional sounds from `Edge sounds.xlsx`, `Sheet1!A5:L13`. The first sound in each cell is used when that sticker is first in a pair; the second sound is used when it is second. Whitespace around the slash is removed; phonetic spellings are unchanged.
+
+- **Individual edge sounds** alternates first/second positions and shows a highlighted sticker on a cube net.
+- **Edge sound pairs** combines the first target’s first sound and the second target’s second sound. A dot separates the components; say them together in your usual pronunciation. The app does not synthesize audio or automatically judge pronunciation.
+- **Library → Edge sounds** lets you edit sounds and their positional pair labels. The positions are interpreted from the workbook’s U/L/F/R/B/D face centers. Pair labels are derived from the original `cube.py` scheme and `file_creation.py` conversions, not guessed from the sound spelling. All 440 existing edge pairs resolve under this mapping. Review these mappings if your physical lettering scheme has changed. Duplicate labels within a position are rejected.
+- Sound edits reset the affected positional reviews and derived sound-pair reviews. Existing logs are retained. The workbook itself is not modified.
+
+### Connected chains
+
+**Practice → Put it together** has edge and corner chains with three algorithm-backed pairs. Choose whether to include a cube.
+
+1. Encode one pair at a time without seeing the expected sound/image. Form the sound or image, add it to the chain, and tap when ready. Corner chains alternate object/action cues. Hints mark the round as assisted.
+2. The entire sequence is hidden. Type the recalled letters. With cube execution enabled, correctness feedback stays hidden until after execution.
+3. Retrieve each target and its algorithm from your own memo. Tap **Ready to turn** as you start, then **Case finished** at the last move. The next retrieval phase starts immediately, without intervening grading.
+4. After all cases, grade each execution. Results show individual encoding, retrieval, and turning times, sequence correctness, and assistance. Sequence recall time includes typing. Manual timestamps include button overhead and are useful for comparing your own repeated attempts, not automatic TPS measurement.
+
+This is a fluency sequence, **not a generated scramble that returns to solved**. Start on any cube. Execution correctness is self-reported; the app does not observe the cube. Algorithms are imported references. Chain scores remain separate from individual SRS cards so a failed sequence never marks every constituent pair as forgotten.
+
+Connected rounds pause when you navigate away or background the tab, and resume after reload. Progress includes chain history and median recall times for up to 20 recent confident, unassisted attempts per memo skill. Chain history retains the latest 5,000 rounds. Older v1 backups still import; new backups include sounds and completed chain results. Active round timers are excluded from backup transfers.
+
+### Updating the installed app
+
+Push the changed source files in this repository to `main` to run the existing GitHub Pages workflow. The service-worker cache version has been updated and new modules are included in offline caching. After deployment, open the app online, then fully close all its browser tabs/home-screen windows and reopen it to activate the downloaded version. Progress stays in IndexedDB; do not clear site data. No re-import is needed for existing progress.
+
 ## Run locally
 
 Requires Node.js 20 or newer. No `npm install` is needed.
@@ -15,7 +47,7 @@ Open http://localhost:4173. Use `PORT=4174 npm run dev` if that port is busy. St
 
 ## Practice
 
-- **Today:** choose a 5, 10, or 15-minute budget and whether you have a cube. The suggested session mixes due reviews with unfamiliar material. The timer budget ends after a graded prompt, never mid-answer.
+- **Today:** start the recommended short session or choose a practice goal. The cube toggle adjusts recommendations. The original mixed daily review remains available in advanced practice.
 - **Practice:** object words, action words, both reverse directions, edge/corner algorithm recall, edge/corner execution, and LTCT recall. Filter by due reviews, previous difficulty, starting letters (including Ø), or your saved special-edge set.
 - **Memo sequences:** study 2–8 alternating object/action pairs, hide them, optionally wait 5–30 seconds, then type the pairs. Results are stored separately from individual word recall. These are word sequences, not generated cube scrambles.
 - **Library:** search and edit your material. Older conflicting words are available as alternatives. Changed answers reset only the affected review records, while retaining the attempt log.
@@ -66,6 +98,9 @@ When changing deployed assets, increment the `CACHE` version in `sw.js` before d
 
 - `src/app.js`: UI, practice sessions, memo practice, backup flow.
 - `src/engine.js`: independent training cards, queue selection, scheduling, validation.
+- `src/training.js`: sound composition, connected-round transitions, timing, and recommendations.
+- `src/experience.js`: guided home/practice and connected-drill views.
+- `src/refresh.css`: accessible version-2 visual design.
 - `src/storage.js`: IndexedDB persistence.
 - `src/styles.css`: responsive layout, mobile navigation, accessible focus states.
 - `data/library.json`: imported words/algorithms with alternatives and provenance notes.

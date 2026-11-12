@@ -6754,7 +6754,13 @@
     ],
     "wordDefault": "Existing trainer words retained; additional pairs imported from corner_data.json. Alternatives preserved.",
     "algorithms": "Imported from your existing trainers; cube effects and setups have not been independently verified.",
-    "letterScheme": "Original dataset labels retained, including Ø. Python cube mappings differ from converted datasets; no tracing scheme is assumed."
+    "letterScheme": "Original dataset labels retained, including Ø. Python cube mappings differ from converted datasets; no tracing scheme is assumed.",
+    "edgeSounds": {
+      "source": "Edge sounds.xlsx",
+      "sheet": "Sheet1",
+      "range": "A5:L13",
+      "interpretation": "First/second sounds read directly from cube-net cells. Sticker positions inferred from face centers. Pair labels derived from cube.py plus file_creation.py; editable in the sound library."
+    }
   },
   "specialEdges": [
     "CG",
@@ -6803,5 +6809,161 @@
     "VM",
     "VN",
     "VO"
-  ]
+  ],
+  "sounds": {
+    "UB": {
+      "first": "F",
+      "second": "AF",
+      "firstLabel": "F",
+      "secondLabel": "F",
+      "sourceCell": "E5"
+    },
+    "UL": {
+      "first": "P",
+      "second": "A",
+      "firstLabel": "P",
+      "secondLabel": "A",
+      "sourceCell": "D6"
+    },
+    "UR": {
+      "first": "D",
+      "second": "AD",
+      "firstLabel": "D",
+      "secondLabel": "D",
+      "sourceCell": "F6"
+    },
+    "LU": {
+      "first": "K",
+      "second": "AK",
+      "firstLabel": "K",
+      "secondLabel": "K",
+      "sourceCell": "B8"
+    },
+    "LB": {
+      "first": "KL",
+      "second": "I",
+      "firstLabel": "I",
+      "secondLabel": "I",
+      "sourceCell": "A9"
+    },
+    "LF": {
+      "first": "L",
+      "second": "AL",
+      "firstLabel": "L",
+      "secondLabel": "L",
+      "sourceCell": "C9"
+    },
+    "LD": {
+      "first": "KN",
+      "second": "Ø",
+      "firstLabel": "Ø",
+      "secondLabel": "Ø",
+      "sourceCell": "B10"
+    },
+    "FL": {
+      "first": "FL",
+      "second": "E",
+      "firstLabel": "E",
+      "secondLabel": "E",
+      "sourceCell": "D9"
+    },
+    "FR": {
+      "first": "H",
+      "second": "KS",
+      "firstLabel": "H",
+      "secondLabel": "X",
+      "sourceCell": "F9"
+    },
+    "FD": {
+      "first": "G",
+      "second": "ANG",
+      "firstLabel": "G",
+      "secondLabel": "G",
+      "sourceCell": "E10"
+    },
+    "RU": {
+      "first": "T",
+      "second": "AT",
+      "firstLabel": "T",
+      "secondLabel": "T",
+      "sourceCell": "H8"
+    },
+    "RF": {
+      "first": "M",
+      "second": "AM",
+      "firstLabel": "M",
+      "secondLabel": "M",
+      "sourceCell": "G9"
+    },
+    "RB": {
+      "first": "SH",
+      "second": "ASH",
+      "firstLabel": "C",
+      "secondLabel": "C",
+      "sourceCell": "I9"
+    },
+    "RD": {
+      "first": "N",
+      "second": "AN",
+      "firstLabel": "N",
+      "secondLabel": "N",
+      "sourceCell": "H10"
+    },
+    "BU": {
+      "first": "S",
+      "second": "AS",
+      "firstLabel": "S",
+      "secondLabel": "S",
+      "sourceCell": "K8"
+    },
+    "BR": {
+      "first": "J",
+      "second": "Y",
+      "firstLabel": "Q",
+      "secondLabel": "Y",
+      "sourceCell": "J9"
+    },
+    "BL": {
+      "first": "SL",
+      "second": "O",
+      "firstLabel": "O",
+      "secondLabel": "O",
+      "sourceCell": "L9"
+    },
+    "BD": {
+      "first": "BL",
+      "second": "AR",
+      "firstLabel": "R",
+      "secondLabel": "R",
+      "sourceCell": "K10"
+    },
+    "DF": {
+      "first": "B",
+      "second": "AB",
+      "firstLabel": "B",
+      "secondLabel": "B",
+      "sourceCell": "E11"
+    },
+    "DL": {
+      "first": "Z",
+      "second": "U",
+      "firstLabel": "U",
+      "secondLabel": "U",
+      "sourceCell": "D12"
+    },
+    "DR": {
+      "first": "Y",
+      "second": "AI",
+      "firstLabel": "J",
+      "secondLabel": "J",
+      "sourceCell": "F12"
+    },
+    "DB": {
+      "first": "W",
+      "second": "AO",
+      "firstLabel": "V",
+      "secondLabel": "V",
+      "sourceCell": "E13"
+    }
+  }
 }
