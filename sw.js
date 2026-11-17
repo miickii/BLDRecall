@@ -1,4 +1,4 @@
-const CACHE='recall-v4.2';
+const CACHE='recall-v4.3';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./src/app.js','./src/engine.js','./src/storage.js','./src/styles.css','./src/refresh.css','./src/experience.js','./src/training.js','./data/library.json','./icons/icon-192.png','./icons/icon-512.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS))));
 // An updated worker activates on next app launch, never halfway through a session.
